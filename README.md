@@ -30,3 +30,42 @@ used, invented or hotlinked.
 | Impeccable detect | `impeccable detect --json index.html assets/style.css assets/app.js` | exit 2 — 27 residual `cramped-padding` heuristic hits on the hairline-rule schedules (reviewed; not real defects) |
 | Overflow probe | Playwright, 320 → 1920 px | 0 horizontal overflow at every width |
 | Console errors | Playwright | 0 |
+
+---
+
+# Preview 02 — “Satu Tangan” (reka & bina)
+
+`db/` — the second look, built on the same copy and the same repo, deliberately the opposite
+argument to *Tapak*. Where Tapak shows a **drafting board** (the design act, told as a schedule of
+works), Satu Tangan shows the **design act and the build act as one thing** — so a visitor reads one
+author, deciding and making.
+
+**Direction.** One drawing, two states: a joinery bay whose left half is the *design* (dimension
+lines, a material callout with its reason) and whose right half is the *built* (the same geometry
+with timber grain, wall hatch, site notes). One continuous cobalt **garis kerja** — the chalk line a
+maker marks and follows — runs the whole width, thin and dashed while it is still a drawing, heavier
+and solid once it has been built, with a single node and the label `reka → bina` where it crosses.
+
+**How it differs from Tapak**
+
+- Argument: Tapak = *the design act only*; Satu Tangan = *design and build joined by one line*.
+- Palette: Tapak's lit drafting board with a red setting-out line → here a **plaster-white field with
+  teak as a material band**, accent = a **cobalt chalk line used exactly once**.
+- Type axis inverted: Tapak's condensed-grotesque display × humanist serif → here
+  **Literata (optical-size display serif) × Hanken Grotesk**.
+- The work gallery is real: photos, renders and videos from binahaus.com, labelled by kind.
+
+**Gates**
+
+| Gate | Command | Result |
+|---|---|---|
+| Auteur slopscan | `node slopscan.mjs db` | exit 0 — 0 fails, 0 warns |
+| Impeccable detect | `impeccable detect --json db/index.html db/assets/style.css db/assets/app.js` | exit 2 — 27 `cramped-padding` warnings, all reviewed and measured as false positives (the detector cannot resolve `clamp()` padding; the only 0-inset shape is `.thesis`, a grid wrapper with no fill or border) |
+| Contrast | Playwright, 46 sampled elements | PASS — lowest 5.08:1 |
+| Overflow | Playwright, 320 → 1920 px | 0 horizontal overflow |
+| No-JS | JS disabled | complete: cobalt line drawn, register rows visible, native video controls |
+| Console errors | Playwright | 0 |
+
+- `db/index.html` · `db/assets/style.css` · `db/assets/app.js`
+- `db/design/COMMIT-SHEET.md` — the seven decisions · `db/design/DESIGN.md` — the style contract
+- `db/qa/` — full-page captures at 390 / 768 / 1440

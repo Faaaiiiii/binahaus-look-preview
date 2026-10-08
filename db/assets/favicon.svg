@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" role="img" aria-label="Bina Haus">
+  <rect width="32" height="32" fill="#EBEFE6"/>
+  <path d="M2 30 V16 L16 4 L30 16 V30" fill="none" stroke="#2F251D" stroke-width="2.6" stroke-linejoin="miter" stroke-linecap="square"/>
+  <path d="M11 30 V21 H21 V30" fill="none" stroke="#2F251D" stroke-width="2.6" stroke-linejoin="miter" stroke-linecap="square"/>
+</svg>

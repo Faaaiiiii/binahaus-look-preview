@@ -1,0 +1,720 @@
+/* self-hosted fonts (Google Fonts, OFL) */
+/* cyrillic-ext */
+@font-face {
+  font-family: 'Literata';
+  font-style: italic;
+  font-weight: 200 900;
+  font-display: swap;
+  src: url(fonts/literata-or3nQ6P12--80d28ad0.woff2) format('woff2');
+  unicode-range: U+0460-052F, U+1C80-1C8A, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
+}
+/* cyrillic */
+@font-face {
+  font-family: 'Literata';
+  font-style: italic;
+  font-weight: 200 900;
+  font-display: swap;
+  src: url(fonts/literata-or3nQ6P12--bd814e05.woff2) format('woff2');
+  unicode-range: U+0301, U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
+}
+/* greek-ext */
+@font-face {
+  font-family: 'Literata';
+  font-style: italic;
+  font-weight: 200 900;
+  font-display: swap;
+  src: url(fonts/literata-or3nQ6P12--468fbbf1.woff2) format('woff2');
+  unicode-range: U+1F00-1FFF;
+}
+/* greek */
+@font-face {
+  font-family: 'Literata';
+  font-style: italic;
+  font-weight: 200 900;
+  font-display: swap;
+  src: url(fonts/literata-or3nQ6P12--cca16ea3.woff2) format('woff2');
+  unicode-range: U+0370-0377, U+037A-037F, U+0384-038A, U+038C, U+038E-03A1, U+03A3-03FF;
+}
+/* vietnamese */
+@font-face {
+  font-family: 'Literata';
+  font-style: italic;
+  font-weight: 200 900;
+  font-display: swap;
+  src: url(fonts/literata-or3nQ6P12--13ab97ca.woff2) format('woff2');
+  unicode-range: U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+0300-0301, U+0303-0304, U+0308-0309, U+0323, U+0329, U+1EA0-1EF9, U+20AB;
+}
+/* latin-ext */
+@font-face {
+  font-family: 'Literata';
+  font-style: italic;
+  font-weight: 200 900;
+  font-display: swap;
+  src: url(fonts/literata-or3nQ6P12--2cb7ee5a.woff2) format('woff2');
+  unicode-range: U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C4, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'Literata';
+  font-style: italic;
+  font-weight: 200 900;
+  font-display: swap;
+  src: url(fonts/literata-or3nQ6P12--1f89072a.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+/* cyrillic-ext */
+@font-face {
+  font-family: 'Literata';
+  font-style: normal;
+  font-weight: 200 900;
+  font-display: swap;
+  src: url(fonts/literata-or3hQ6P12--3a540963.woff2) format('woff2');
+  unicode-range: U+0460-052F, U+1C80-1C8A, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
+}
+/* cyrillic */
+@font-face {
+  font-family: 'Literata';
+  font-style: normal;
+  font-weight: 200 900;
+  font-display: swap;
+  src: url(fonts/literata-or3hQ6P12--6fcebb59.woff2) format('woff2');
+  unicode-range: U+0301, U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
+}
+/* greek-ext */
+@font-face {
+  font-family: 'Literata';
+  font-style: normal;
+  font-weight: 200 900;
+  font-display: swap;
+  src: url(fonts/literata-or3hQ6P12--4f81cf38.woff2) format('woff2');
+  unicode-range: U+1F00-1FFF;
+}
+/* greek */
+@font-face {
+  font-family: 'Literata';
+  font-style: normal;
+  font-weight: 200 900;
+  font-display: swap;
+  src: url(fonts/literata-or3hQ6P12--8789e654.woff2) format('woff2');
+  unicode-range: U+0370-0377, U+037A-037F, U+0384-038A, U+038C, U+038E-03A1, U+03A3-03FF;
+}
+/* vietnamese */
+@font-face {
+  font-family: 'Literata';
+  font-style: normal;
+  font-weight: 200 900;
+  font-display: swap;
+  src: url(fonts/literata-or3hQ6P12--f7757284.woff2) format('woff2');
+  unicode-range: U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+0300-0301, U+0303-0304, U+0308-0309, U+0323, U+0329, U+1EA0-1EF9, U+20AB;
+}
+/* latin-ext */
+@font-face {
+  font-family: 'Literata';
+  font-style: normal;
+  font-weight: 200 900;
+  font-display: swap;
+  src: url(fonts/literata-or3hQ6P12--73bca12f.woff2) format('woff2');
+  unicode-range: U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C4, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'Literata';
+  font-style: normal;
+  font-weight: 200 900;
+  font-display: swap;
+  src: url(fonts/literata-or3hQ6P12--41df91de.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+
+/* vietnamese */
+
+/* latin-ext */
+
+/* latin */
+
+/* vietnamese */
+
+/* latin-ext */
+
+/* latin */
+
+/* cyrillic-ext */
+@font-face {
+  font-family: 'Hanken Grotesk';
+  font-style: italic;
+  font-weight: 300 800;
+  font-display: swap;
+  src: url(fonts/ieVl2YZDLWuGJpnzaiwFXS9tYtpY19-7DRs5-771a285a.woff2) format('woff2');
+  unicode-range: U+0460-052F, U+1C80-1C8A, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
+}
+/* vietnamese */
+@font-face {
+  font-family: 'Hanken Grotesk';
+  font-style: italic;
+  font-weight: 300 800;
+  font-display: swap;
+  src: url(fonts/ieVl2YZDLWuGJpnzaiwFXS9tYtpY1927DRs5-b32d9b38.woff2) format('woff2');
+  unicode-range: U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+0300-0301, U+0303-0304, U+0308-0309, U+0323, U+0329, U+1EA0-1EF9, U+20AB;
+}
+/* latin-ext */
+@font-face {
+  font-family: 'Hanken Grotesk';
+  font-style: italic;
+  font-weight: 300 800;
+  font-display: swap;
+  src: url(fonts/ieVl2YZDLWuGJpnzaiwFXS9tYtpY19y7DRs5-3560987b.woff2) format('woff2');
+  unicode-range: U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C4, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'Hanken Grotesk';
+  font-style: italic;
+  font-weight: 300 800;
+  font-display: swap;
+  src: url(fonts/ieVl2YZDLWuGJpnzaiwFXS9tYtpY19K7DQ-881c68f3.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+/* cyrillic-ext */
+@font-face {
+  font-family: 'Hanken Grotesk';
+  font-style: normal;
+  font-weight: 300 800;
+  font-display: swap;
+  src: url(fonts/ieVn2YZDLWuGJpnzaiwFXS9tYtpQ59CjCQ-4b175383.woff2) format('woff2');
+  unicode-range: U+0460-052F, U+1C80-1C8A, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
+}
+/* vietnamese */
+@font-face {
+  font-family: 'Hanken Grotesk';
+  font-style: normal;
+  font-weight: 300 800;
+  font-display: swap;
+  src: url(fonts/ieVn2YZDLWuGJpnzaiwFXS9tYtpS59CjCQ-560d9f41.woff2) format('woff2');
+  unicode-range: U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+0300-0301, U+0303-0304, U+0308-0309, U+0323, U+0329, U+1EA0-1EF9, U+20AB;
+}
+/* latin-ext */
+@font-face {
+  font-family: 'Hanken Grotesk';
+  font-style: normal;
+  font-weight: 300 800;
+  font-display: swap;
+  src: url(fonts/ieVn2YZDLWuGJpnzaiwFXS9tYtpT59CjCQ-2cba32d0.woff2) format('woff2');
+  unicode-range: U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C4, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'Hanken Grotesk';
+  font-style: normal;
+  font-weight: 300 800;
+  font-display: swap;
+  src: url(fonts/ieVn2YZDLWuGJpnzaiwFXS9tYtpd59A-38c3847f.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+
+
+/* ==========================================================================
+   BINA HAUS — look preview 02
+   Direction: "Satu Tangan" (one hand) — reka & bina.
+   Not a portfolio and not two service lists: a working document.
+   Hand-authored CSS. No frameworks. Fonts self-hosted (see @font-face above).
+   ========================================================================== */
+
+:root{
+  /* --- field: lime plaster ("kapur"), a material colour, hue 126, not cream -- */
+  --kapur:   oklch(0.947 0.013 126);
+  --kapur-2: oklch(0.918 0.015 126);
+  --kapur-3: oklch(0.884 0.017 124);
+  /* --- ink: warm earth graphite ------------------------------------------- */
+  --ink:       oklch(0.275 0.021 62);
+  --ink-soft:  oklch(0.452 0.023 62);
+  --ink-faint: oklch(0.505 0.022 62);
+  /* --- the one committed material: teak ----------------------------------- */
+  --teak:    oklch(0.285 0.048 55);
+  --teak-2:  oklch(0.345 0.050 55);
+  --on-teak: oklch(0.930 0.020 80);
+  --on-teak-d: oklch(0.765 0.030 72);
+  /* --- the ONE accent: chalk-line cobalt ("kerja"), the working line ------- */
+  --kerja: oklch(0.470 0.155 264);
+  /* --- structure ---------------------------------------------------------- */
+  --line:      rgba(47,37,29,.14);
+  --line-hard: rgba(47,37,29,.30);
+  --line-dk:   rgba(239,231,217,.17);
+
+  --pad: clamp(1.25rem, 4.2vw, 4.5rem);
+  --gut: clamp(1.4rem, 3vw, 3rem);
+  --block: clamp(3.2rem, 6.4vw, 6.8rem);
+  --block-t: clamp(2.3rem, 4.2vw, 4.2rem);
+
+  --f-disp: "Literata", "Iowan Old Style", Georgia, "Times New Roman", serif;
+  --f-text: "Hanken Grotesk", system-ui, -apple-system, "Segoe UI", sans-serif;
+  --ease: cubic-bezier(.22,.61,.36,1);
+  color-scheme: light;
+}
+
+*,*::before,*::after{ box-sizing:border-box; }
+html{
+  -webkit-text-size-adjust:100%;
+  caret-color:var(--ink);
+  scrollbar-color: color-mix(in oklab, var(--ink) 38%, var(--kapur)) var(--kapur);
+}
+body{
+  margin:0;
+  /* written as oklch so its lightness/chroma/hue are exact, not HSL-approximated */
+  background: oklch(0.947 0.013 126);
+  color:var(--ink);
+  font-family:var(--f-text);
+  font-size:clamp(1.03rem, .42vw + .93rem, 1.145rem);
+  line-height:1.55;
+  -webkit-font-smoothing:antialiased;
+  text-rendering:optimizeLegibility;
+}
+img,svg,video{ display:block; max-width:100%; }
+a{ color:inherit; text-decoration:none; text-underline-offset:.18em; text-decoration-thickness:1px; }
+button{ font:inherit; color:inherit; }
+::selection{ background:var(--ink); color:var(--kapur); }
+:focus-visible{ outline:2px solid var(--ink); outline-offset:2px; }
+.tangan :focus-visible, .cta :focus-visible, .ftr :focus-visible{ outline-color:var(--on-teak); }
+/* browser surfaces carry the palette too */
+[id]{ scroll-margin-top:5.5rem; }
+.reg__n, .dec__code, .facts b, .cara__n, .wk__tag{ font-variant-numeric:tabular-nums; }
+
+/* --- type system --------------------------------------------------------- */
+.disp{
+  font-family:var(--f-disp);
+  font-weight:500;
+  line-height:1.0;
+  letter-spacing:-.018em;
+  text-wrap:balance;
+  font-optical-sizing:auto;
+}
+/* Section openings are ROTATED, never one eyebrow above every heading:
+   (I) heading + note-right, (II) heading + serif italic subline,
+   (III) ruled serif label, (IV) marginal italic note. */
+.rlabel{
+  display:flex; align-items:center; gap:1.1rem;
+  margin:0 0 .7rem; font-family:var(--f-disp); font-style:italic;
+  font-size:1.02rem; line-height:1.2; color:var(--ink-soft);
+}
+.rlabel::after{ content:""; flex:1 1 auto; height:1px; background:var(--line-hard); }
+.sub{
+  margin:.85rem 0 0; max-width:34ch; font-family:var(--f-disp);
+  font-size:clamp(1.06rem, .5vw + .96rem, 1.4rem); line-height:1.34; color:var(--ink-soft);
+}
+.mnote{
+  margin:0 0 1rem; font-family:var(--f-disp); font-style:italic;
+  font-size:1.05rem; line-height:1.3; color:var(--ink-soft);
+}
+.prose{ max-width:68ch; text-wrap:pretty; }
+.prose p{ margin:0 0 1em; }
+.prose p:last-child{ margin-bottom:0; }
+.lede{ font-size:clamp(1.12rem, .5vw + 1rem, 1.3rem); line-height:1.48; }
+em.note{ font-family:var(--f-disp); font-style:italic; font-weight:400; }
+
+/* --- shell --------------------------------------------------------------- */
+.wrap{ padding-inline:var(--pad); }
+.rule{ height:1px; background:var(--line); border:0; margin:0; }
+.sup{ font-size:.62em; vertical-align:.55em; color:var(--ink-faint); font-family:var(--f-text); }
+
+/* ======================================================================== */
+/* LEGEND — this is a preview, and new lines are marked                     */
+/* ======================================================================== */
+.legend{
+  background:var(--kapur-3);
+  border-bottom:1px solid var(--line-hard);
+  font-size:.86rem;
+  color:var(--ink-soft);
+}
+.legend__in{ display:flex; flex-wrap:wrap; gap:.35rem 1.4rem; padding-block:.6rem; align-items:baseline; }
+.legend b{ color:var(--ink); font-weight:600; }
+
+/* ======================================================================== */
+/* HEADER                                                                   */
+/* ======================================================================== */
+.hdr{
+  position:sticky; top:0; z-index:50;
+  background:color-mix(in oklab, var(--kapur) 90%, transparent);
+  border-bottom:1px solid var(--line);
+}
+@supports (backdrop-filter: blur(1px)){
+  .hdr{ backdrop-filter:blur(9px) saturate(1.04); }
+}
+.hdr__in{ display:flex; align-items:center; justify-content:space-between; gap:1.4rem; padding-block:.85rem; }
+.mark{
+  display:flex; align-items:center; gap:.62rem;
+  font-family:var(--f-text); font-weight:700;
+  font-size:1.12rem; letter-spacing:.01em; line-height:1;
+}
+.mark svg{ width:30px; height:30px; flex:none; }
+.mark span{ color:var(--ink-faint); font-weight:500; }
+.navwrap{ display:flex; align-items:center; gap:clamp(.9rem,1.5vw,1.8rem); }
+.nav{ display:flex; align-items:center; gap:clamp(.9rem,1.5vw,1.8rem); }
+.nav a{
+  font-size:.92rem; font-weight:500; color:var(--ink-soft);
+  padding-block:.4rem; border-bottom:1px solid transparent;
+  transition:color 140ms var(--ease), border-color 140ms var(--ease);
+}
+.nav a:hover{ color:var(--ink); border-bottom-color:var(--ink); }
+
+.btn{
+  display:inline-flex; align-items:center; gap:.55rem;
+  font-family:var(--f-text); font-weight:600; font-size:.86rem; letter-spacing:.01em;
+  padding:.72rem 1.1rem; border:1px solid var(--ink);
+  background:var(--ink); color:var(--kapur);
+  transition:background 140ms var(--ease), color 140ms var(--ease), transform 140ms var(--ease);
+}
+.btn:hover{ background:transparent; color:var(--ink); }
+.btn:active{ transform:translateY(1px); }
+.btn--line{ background:transparent; color:var(--ink); }
+.btn--line:hover{ background:var(--ink); color:var(--kapur); }
+.btn--lit{ background:var(--on-teak); border-color:var(--on-teak); color:var(--teak); }
+.btn--lit:hover{ background:transparent; color:var(--on-teak); }
+.btn--ghost{ background:transparent; color:var(--on-teak); border-color:var(--on-teak-d); }
+.btn--ghost:hover{ background:var(--on-teak); color:var(--teak); border-color:var(--on-teak); }
+.burger{ display:none; }
+
+/* ======================================================================== */
+/* HERO                                                                     */
+/* ======================================================================== */
+.hero{ border-bottom:1px solid var(--line); }
+.hero__in{
+  display:grid; grid-template-columns:minmax(0,7fr) minmax(0,5fr);
+  gap:var(--gut); align-items:end;
+  padding-block:clamp(2.4rem,5vw,4rem) clamp(2rem,3.6vw,3.2rem);
+}
+.hero h1{
+  margin:0;
+  font-size:clamp(3.2rem, 7vw, 6.9rem);   /* type-led: exempt from the 6rem prose ceiling */
+  max-width:12.5ch;                      /* breaks as the real site sets it: "Ruang dibina" / "dengan rasa" */
+}
+.hero__side{ padding-bottom:.5rem; }
+.hero__side .lede{ color:var(--ink-soft); max-width:42ch; }
+.hero__add{
+  margin-top:1.35rem; padding-top:1.1rem; border-top:1px solid var(--line-hard);
+  font-family:var(--f-disp); font-style:italic; font-size:clamp(1.05rem,.5vw+.95rem,1.22rem);
+  line-height:1.4; color:var(--ink); max-width:38ch;
+}
+.hero__cta{ display:flex; flex-wrap:wrap; gap:.65rem; margin-top:1.6rem; }
+
+/* ======================================================================== */
+/* SIGNATURE — one drawing, two states.  Grid break 1: full-bleed, crosses   */
+/* the section seam.                                                        */
+/* ======================================================================== */
+.act{
+  position:relative;
+  padding-top:clamp(1.6rem,3vw,2.6rem);
+  padding-bottom:clamp(1.8rem,3.2vw,2.8rem);
+  border-bottom:1px solid var(--line);
+}
+.act__head{
+  display:flex; flex-wrap:wrap; gap:.4rem 1.6rem; justify-content:space-between;
+  align-items:baseline; padding-bottom:.6rem; margin-bottom:clamp(.7rem,1.4vw,1.1rem);
+  border-bottom:1px solid var(--line-hard);
+}
+.act__head span{ font-size:.84rem; color:var(--ink-soft); }
+.act__head span:last-child{ color:var(--ink-faint); }
+.act__cap{
+  margin:0 0 clamp(.9rem,1.8vw,1.5rem);
+  font-size:.86rem; color:var(--ink-faint); max-width:80ch;
+}
+/* Grid break 1 — the signature drawing is FULL-BLEED: it ignores the page
+   gutters, runs to both viewport edges, and the working line exits the sheet. */
+.act__fig{ margin:0; }
+.act__fig svg{ width:100%; height:auto; overflow:visible; }
+/* drawing rules */
+.d-line   { fill:none; stroke:var(--ink); stroke-width:1.1; }
+.d-line-m { fill:none; stroke:var(--ink); stroke-width:2.1; }
+.d-line-h { fill:none; stroke:var(--ink); stroke-width:3.4; }
+.d-faint  { fill:none; stroke:var(--ink-faint); stroke-width:1; }
+.d-txt    { font-family:var(--f-text); font-size:17px; fill:var(--ink); letter-spacing:.16em; }
+.d-txt-s  { font-family:var(--f-text); font-size:15px; fill:var(--ink-soft); }
+.d-txt-dk { font-family:var(--f-text); font-size:15px; fill:var(--on-teak-d); }
+.d-ital   { font-family:var(--f-disp); font-style:italic; font-size:17px; fill:var(--ink-soft); }
+.d-dim    { fill:none; stroke:var(--ink-soft); stroke-width:.9; }
+/* the one accent: garis kerja */
+.gk        { fill:none; stroke:var(--kerja); }
+.gk--draw  { stroke-width:1.7; }
+.gk--built { stroke-width:5; }
+.gk-node   { fill:var(--kerja); }
+.gk-wit    { stroke:var(--kerja); stroke-width:1.7; fill:none; }
+.d-only-s  { display:none; }
+.gk-txt    { font-family:var(--f-text); font-weight:600; font-size:18px; fill:var(--kerja); letter-spacing:.2em; }
+.gk-txt-s  { font-family:var(--f-text); font-size:16px; fill:var(--kerja); }
+/* default: line, node and witness are DRAWN, so the signature survives with JS off */
+.gk{ stroke-dasharray:1; stroke-dashoffset:0; }
+.gk-node,.gk-wit{ opacity:1; }
+html.is-ready .gk{ stroke-dashoffset:1; }
+html.is-ready .gk-node,
+html.is-ready .gk-wit{ opacity:0; }
+html.is-ready .gk--draw{ animation:gk-draw 950ms 240ms var(--ease) forwards; }
+html.is-ready .gk--built{ animation:gk-draw 720ms 1120ms var(--ease) forwards; }
+html.is-ready .gk-node{ animation:gk-in 320ms 1780ms var(--ease) forwards; }
+html.is-ready .gk-wit{ animation:gk-in 320ms 1840ms var(--ease) forwards; }
+@keyframes gk-draw{ to{ stroke-dashoffset:0; } }
+@keyframes gk-in{ to{ opacity:1; } }
+
+/* ======================================================================== */
+/* SECTIONS                                                                 */
+/* ======================================================================== */
+.sect{ padding-block:var(--block); }
+.sect--t{ padding-block:var(--block-t); }
+.sect__head{ display:grid; grid-template-columns:minmax(0,6fr) minmax(0,5fr); gap:var(--gut); align-items:end; }
+.sect h2{ margin:.5rem 0 0; font-size:clamp(2.1rem,4.2vw,3.9rem); }
+.sect__note{ color:var(--ink-soft); max-width:46ch; }
+
+/* registers — a schedule, never a card grid */
+.reg{ list-style:none; margin:clamp(2rem,3.6vw,3.2rem) 0 0; padding:0; border-top:1px solid var(--line-hard); }
+.reg li{
+  display:grid; grid-template-columns:3.2rem minmax(0,1fr) minmax(0,1.12fr);
+  gap:var(--gut); align-items:baseline;
+  padding:clamp(.85rem,1.5vw,1.35rem) 0;
+  border-bottom:1px solid var(--line);
+  transition:background 160ms var(--ease);
+}
+.reg li:hover{ background:var(--kapur-2); }
+.reg__n{ font-size:.84rem; font-weight:600; color:var(--ink-faint); letter-spacing:.1em; }
+.reg__t{ font-family:var(--f-disp); font-weight:500; font-size:clamp(1.12rem,1.8vw,1.6rem); line-height:1.12; }
+.reg__d{ color:var(--ink-soft); }
+
+/* ======================================================================== */
+/* SATU TANGAN — the thesis, on the material (teak)                         */
+/* ======================================================================== */
+.tangan{ background:var(--teak); color:var(--on-teak); }
+.tangan ::selection{ background:var(--on-teak); color:var(--teak); }
+.tangan .sect__note, .tangan .prose, .tangan .reg__d{ color:var(--on-teak-d); }
+.tangan h2{ color:var(--on-teak); }
+.tangan .reg{ border-top-color:var(--line-dk); }
+.tangan .reg li{ border-bottom-color:var(--line-dk); }
+.tangan .reg li:hover{ background:var(--teak-2); }
+.tangan .reg__n{ color:var(--on-teak-d); }
+.tangan .mnote, .tangan .rlabel{ color:var(--on-teak-d); }
+.tangan .rlabel::after{ background:var(--line-dk); }
+
+/* the design-and-build thesis: two statements, one object */
+.thesis{
+  display:grid; grid-template-columns:minmax(0,6fr) minmax(0,5fr);
+  gap:var(--gut); margin-bottom:clamp(2.2rem,4vw,3.4rem);
+}
+
+/* decision register — Grid break 2: the material swatch runs off the LEFT edge */
+.dec{ list-style:none; margin:0; padding:0; border-top:1px solid var(--line-dk); }
+.dec li{
+  display:grid; grid-template-columns:minmax(0,.9fr) minmax(0,1.5fr) minmax(0,1.8fr) minmax(0,1.5fr);
+  gap:clamp(1rem,2.2vw,2.4rem); align-items:baseline;
+  padding:clamp(1.1rem,2vw,1.7rem) 0;
+  border-bottom:1px solid var(--line-dk);
+  transition:background 160ms var(--ease);
+}
+.dec li:hover{ background:var(--teak-2); }
+.dec__c1{ display:flex; flex-direction:column; align-items:flex-start; gap:.4rem; }
+.dec__code{ font-size:.8rem; font-weight:600; color:var(--on-teak-d); letter-spacing:.1em; }
+.sw{ width:9rem; height:3.4rem; border:1px solid var(--line-dk); margin-left:calc(var(--pad) * -1 - 1.5rem); }
+.dec__m{ font-size:.92rem; font-weight:600; color:var(--on-teak); }
+.dec__v{ font-family:var(--f-disp); font-weight:500; font-size:clamp(1.02rem,1.5vw,1.3rem); line-height:1.24; color:var(--on-teak); }
+.dec__why{ color:var(--on-teak-d); font-family:var(--f-disp); font-style:italic; }
+.dec__b{ color:var(--on-teak-d); }
+.dec__b b{ display:block; font-family:var(--f-text); font-style:normal; font-weight:600; font-size:.82rem; color:var(--on-teak); margin-bottom:.35rem; }
+.dec__hd{
+  display:grid; grid-template-columns:minmax(0,.9fr) minmax(0,1.5fr) minmax(0,1.8fr) minmax(0,1.5fr);
+  gap:clamp(1rem,2.2vw,2.4rem);
+  padding-bottom:.7rem; margin-bottom:.2rem;
+  font-size:.8rem; color:var(--on-teak-d);
+  border-bottom:1px solid var(--line-dk);
+}
+.dec__foot{ margin-top:1.2rem; font-size:.86rem; color:var(--on-teak-d); max-width:70ch; }
+
+/* ======================================================================== */
+/* KERJA — renovations + construction as one capability                     */
+/* ======================================================================== */
+.kgrp + .kgrp{ margin-top:clamp(2.6rem,5vw,4.4rem); padding-top:clamp(2.2rem,4vw,3.4rem); border-top:1px solid var(--line-hard); }
+.kgrp__hd{ display:grid; grid-template-columns:minmax(0,6fr) minmax(0,5fr); gap:var(--gut); align-items:end; margin-bottom:.2rem; }
+.kgrp h3{ margin:.45rem 0 0; font-size:clamp(1.7rem,3vw,2.7rem); }
+.unit{ margin-top:1.1rem; font-family:var(--f-disp); font-style:italic; color:var(--ink-soft); max-width:52ch; }
+
+/* ======================================================================== */
+/* HASIL KERJA — the real body of work                                      */
+/* ======================================================================== */
+.hasil{ background:var(--kapur-2); border-block:1px solid var(--line-hard); }
+.wk{ list-style:none; margin:clamp(1.8rem,3.4vw,2.8rem) 0 0; padding:0;
+  display:grid; grid-template-columns:repeat(12,1fr); gap:clamp(.7rem,1.2vw,1.5rem); }
+.wk li{ grid-column:span 4; }
+.wk li:nth-child(5n+1){ grid-column:span 6; }
+.wk li:nth-child(5n+2){ grid-column:span 6; }
+.wk figure{ margin:0; display:flex; flex-direction:column; gap:.6rem; height:100%; }
+.wk__fr{ position:relative; aspect-ratio:4/5; overflow:hidden; background:var(--kapur-3); border:1px solid var(--line-hard); }
+.wk__fr img, .wk__fr video{ width:100%; height:100%; object-fit:cover; }
+.wk__fr video{ position:absolute; inset:0; }
+/* no JS: the native poster + controls are the play affordance.
+   With JS: a crafted overlay button takes over instead. */
+.wk__play{ display:none; }
+html.is-ready .wk__play{
+  display:block; position:absolute; inset:0; width:100%; height:100%; padding:0; margin:0;
+  background:transparent; border:0; cursor:pointer;
+}
+.wk__play img{ transition:opacity 200ms var(--ease); }
+.wk__play:hover img{ opacity:.88; }
+.wk__btn{
+  position:absolute; left:50%; top:50%; transform:translate(-50%,-50%);
+  width:3.5rem; height:3.5rem; border-radius:50%;
+  display:grid; place-items:center;
+  background:color-mix(in oklab, var(--teak) 78%, transparent);
+  border:1px solid var(--on-teak);
+  color:var(--on-teak);
+  transition:transform 160ms var(--ease), background 160ms var(--ease);
+}
+.wk__play:hover .wk__btn{ transform:translate(-50%,-50%) scale(1.06); background:var(--teak); }
+.wk__btn svg{ width:1rem; height:1rem; margin-left:.15rem; }
+.wk figcaption{ display:flex; flex-wrap:wrap; gap:.2rem .7rem; align-items:baseline; }
+.wk__tag{
+  font-size:.74rem; font-weight:600; letter-spacing:.12em; text-transform:uppercase;
+  color:var(--ink); border-bottom:1px solid var(--line-hard); padding-bottom:.1rem;
+}
+.wk__d{ color:var(--ink-soft); font-size:.94rem; }
+.wk__more{ margin-top:clamp(1.8rem,3vw,2.6rem); display:flex; flex-wrap:wrap; align-items:center; gap:1rem 1.4rem; }
+.wk__more span{ color:var(--ink-soft); font-size:.9rem; max-width:52ch; }
+
+/* ======================================================================== */
+/* CARA KAMI KERJA — one continuous rule advancing per step                 */
+/* ======================================================================== */
+.cara__list{ position:relative; list-style:none; margin:clamp(2rem,3.6vw,3.2rem) 0 0; padding:0 0 0 clamp(2.4rem,5vw,4.4rem); }
+.cara__spine{ position:absolute; left:9px; top:.6rem; bottom:.6rem; width:1px; overflow:visible; }
+.cara__spine line{ stroke:var(--line-hard); stroke-width:1.5; stroke-dasharray:1; stroke-dashoffset:0; }
+html.is-ready .cara__spine line{ stroke-dashoffset:1; animation:gk-draw 1400ms 200ms var(--ease) forwards; }
+.cara__list li{ position:relative; padding-block:clamp(.9rem,1.7vw,1.4rem); border-bottom:1px solid var(--line); }
+.cara__list li::after{
+  content:""; position:absolute; left:calc(clamp(2.4rem,5vw,4.4rem) * -1 + 4px); top:clamp(1.5rem,2.5vw,2.1rem);
+  width:11px; height:11px; border-radius:50%; background:var(--kapur);
+  border:1.5px solid var(--ink-soft);
+}
+.cara__list li:first-child::after{ background:var(--ink); border-color:var(--ink); }
+.cara__n{ font-size:.84rem; font-weight:600; color:var(--ink-faint); letter-spacing:.1em; }
+.cara__t{ display:block; font-family:var(--f-disp); font-weight:500; font-size:clamp(1.25rem,2vw,1.8rem); margin:.15rem 0 .5rem; }
+.cara__d{ color:var(--ink-soft); max-width:62ch; }
+.cara__x{
+  margin-top:.7rem; padding-left:.9rem; border-left:1px solid var(--line-hard);
+  font-family:var(--f-disp); font-style:italic; color:var(--ink); max-width:58ch;
+}
+
+/* ======================================================================== */
+/* KENAPA PILIH KAMI                                                        */
+/* ======================================================================== */
+.kenapa{ background:var(--kapur-3); border-block:1px solid var(--line-hard); }
+.kenapa__in{ display:grid; grid-template-columns:minmax(0,6fr) minmax(0,6fr); gap:var(--gut); align-items:start; }
+.kenapa h2{ font-size:clamp(2.3rem,4.6vw,4.4rem); margin:0; max-width:14ch; }
+.kenapa__prose{ padding-top:.6rem; }
+
+/* ======================================================================== */
+/* TENTANG / FALSAFAH                                                       */
+/* ======================================================================== */
+.twocol{ display:grid; grid-template-columns:minmax(0,6fr) minmax(0,6fr); gap:var(--gut); align-items:start; }
+.facts{ list-style:none; margin:1.8rem 0 0; padding:0; border-top:1px solid var(--line-hard); }
+.facts li{ display:grid; grid-template-columns:6rem minmax(0,1fr); gap:1.1rem; padding:.95rem 0; border-bottom:1px solid var(--line); }
+.facts b{ font-size:.76rem; font-weight:600; letter-spacing:.1em; text-transform:uppercase; color:var(--ink-faint); }
+.facts span{ color:var(--ink-soft); }
+.falsafah{ background:var(--kapur-2); border-block:1px solid var(--line-hard); }
+.falsafah__in{ display:grid; grid-template-columns:minmax(0,7fr) minmax(0,5fr); gap:var(--gut); align-items:center; }
+.falsafah blockquote{
+  margin:0; font-family:var(--f-disp); font-weight:500;
+  font-size:clamp(2.1rem,4.4vw,4.2rem); line-height:1.02; max-width:16ch;
+}
+
+/* ======================================================================== */
+/* CTA + FOOTER                                                             */
+/* ======================================================================== */
+.cta{ background:var(--teak); color:var(--on-teak); }
+.cta ::selection{ background:var(--on-teak); color:var(--teak); }
+.cta h2{ font-size:clamp(2.2rem,4.8vw,4.4rem); margin:0; max-width:16ch; }
+.cta__row{ display:flex; flex-wrap:wrap; gap:.7rem; margin-top:clamp(1.6rem,2.8vw,2.4rem); }
+.ftr{ background:var(--teak); color:var(--on-teak); border-top:1px solid var(--line-dk); }
+.ftr__in{ display:grid; grid-template-columns:minmax(0,1.5fr) repeat(2,minmax(0,1fr)); gap:var(--gut); padding-block:clamp(2.4rem,4.4vw,3.8rem); }
+.ftr .mark{ color:var(--on-teak); }
+.ftr .mark span{ color:var(--on-teak-d); }
+.ftrl{ margin:0; font-family:var(--f-disp); font-style:italic; font-size:1.02rem; color:var(--on-teak-d); }
+.ftr ul{ list-style:none; margin:.8rem 0 0; padding:0; display:flex; flex-direction:column; gap:.5rem; }
+.ftr a:hover{ color:var(--on-teak-d); }
+.ftr__tag{ font-family:var(--f-disp); font-style:italic; color:var(--on-teak-d); margin:.7rem 0 0; max-width:26ch; }
+.ftr__bar{ display:flex; justify-content:space-between; gap:1rem; flex-wrap:wrap; padding-block:1.2rem; border-top:1px solid var(--line-dk); color:var(--on-teak-d); font-size:.86rem; }
+.ftr__bar span{ max-width:62ch; }
+
+/* ======================================================================== */
+/* REVEALS — motion is additive. The default state of every element is
+   VISIBLE; the hidden state exists only on the JS fallback path, and the
+   modern path is a pure scroll-driven animation (no gate, no listener).     */
+/* ======================================================================== */
+@supports not (animation-timeline: view()){
+  html.is-ready [data-rev]{ opacity:0; }
+  html.is-ready [data-rev="rise"]{ transform:translateY(10px); transition:opacity 560ms var(--ease), transform 560ms var(--ease); }
+  html.is-ready [data-rev].in{ opacity:1; transform:none; }
+  html.is-ready .reg li[data-rev], html.is-ready .dec li[data-rev], html.is-ready .cara__list li[data-rev]{ opacity:0; transform:translateY(8px); transition:opacity 560ms var(--ease), transform 560ms var(--ease), background 160ms var(--ease); }
+  html.is-ready .reg li[data-rev].in, html.is-ready .dec li[data-rev].in, html.is-ready .cara__list li[data-rev].in{ opacity:1; transform:none; }
+  html.is-ready .reg li:nth-child(2)[data-rev], html.is-ready .dec li:nth-child(2)[data-rev]{ transition-delay:50ms; }
+  html.is-ready .reg li:nth-child(3)[data-rev], html.is-ready .dec li:nth-child(3)[data-rev]{ transition-delay:100ms; }
+  html.is-ready .reg li:nth-child(4)[data-rev], html.is-ready .dec li:nth-child(4)[data-rev]{ transition-delay:150ms; }
+  html.is-ready .reg li:nth-child(5)[data-rev], html.is-ready .dec li:nth-child(5)[data-rev]{ transition-delay:200ms; }
+  html.is-ready .reg li:nth-child(6)[data-rev]{ transition-delay:250ms; }
+  html.is-ready .reg li:nth-child(7)[data-rev]{ transition-delay:300ms; }
+}
+@supports (animation-timeline: view()){
+  [data-rev]{ animation:rev-up 1ms linear; animation-timeline:view(); animation-range:entry 8% cover 30%; }
+  .reg li[data-rev], .dec li[data-rev], .cara__list li[data-rev]{ animation:rev-up 1ms linear; animation-timeline:view(); animation-range:entry 5% cover 26%; }
+  .wk li[data-rev], .tangan .dec li[data-rev]{ animation-range:entry 2% cover 22%; }
+  @keyframes rev-up{ from{ opacity:.001; transform:translateY(12px); } to{ opacity:1; transform:none; } }
+}
+
+/* ======================================================================== */
+/* RESPONSIVE                                                               */
+/* ======================================================================== */
+@media (max-width:1040px){
+  .dec li.dec__hd{ display:none; }
+  .dec li{ grid-template-columns:minmax(0,1fr); row-gap:.9rem; }
+  .dec__c1{ flex-direction:row; align-items:center; gap:.9rem; flex-wrap:wrap; }
+  .dec__c1 .sw{ order:-1; width:7rem; height:2.8rem; }
+}
+@media (max-width:960px){
+  .hero__in{ grid-template-columns:1fr; align-items:start; }
+  .hero h1{ max-width:12ch; }
+  .hero__side{ margin-top:1.6rem; padding-bottom:0; }
+  .sect__head, .thesis, .kgrp__hd, .kenapa__in, .twocol, .falsafah__in{ grid-template-columns:1fr; align-items:start; }
+  .kenapa__prose, .falsafah__in .prose{ padding-top:1.2rem; }
+  .reg li{ grid-template-columns:2.6rem minmax(0,1fr); }
+  .reg__d{ grid-column:2; margin-top:.3rem; }
+  .ftr__in{ grid-template-columns:1fr 1fr; }
+}
+@media (max-width:720px){
+  .navwrap{ display:none; }
+  .burger{ display:inline-flex; }
+  /* the gallery becomes a mosaic, not a single-column list: one lead tile
+     per five, then pairs, so the body of work keeps a rhythm at phone size */
+  .wk li{ grid-column:span 6; }
+  .wk li:nth-child(5n+1){ grid-column:span 12; }
+  .wk__fr{ aspect-ratio:4/5; }
+  .ftr__in{ grid-template-columns:1fr; }
+  .cara__list{ padding-left:1.9rem; }
+  .cara__list li::after{ left:calc(-1.9rem + 4px); }
+  /* the drawing's fine annotation cannot be read at phone size: geometry, the
+     working line and its two labels stay; the callouts and site notes go. */
+  .d-fine{ display:none; }
+  .d-only-s{ display:inline; }
+  .d-txt{ font-size:50px; }
+  .gk-txt{ font-size:46px; }
+  .gk-txt-s{ font-size:38px; }
+  /* enlarged type needs a larger stand-off from the working line it names:
+     the pair drops clear of the line and its node, and stays inside the sheet */
+  .gk-lab{ transform:translateY(25px); }
+  .gk-lab .gk-txt-s{ transform:translateY(12px); }
+  .act__cap{ font-size:.84rem; }
+}
+@media (max-width:520px){
+  .wk__d{ font-size:.86rem; }
+  .wk figcaption{ gap:.15rem .5rem; }
+}
+@media (prefers-reduced-motion:reduce){
+  [data-rev]{ animation:none !important; opacity:1 !important; transform:none !important; }
+  html.is-ready [data-rev],
+  html.is-ready .reg li[data-rev],
+  html.is-ready .dec li[data-rev],
+  html.is-ready .cara__list li[data-rev]{ opacity:1; transform:none; }
+  .gk{ stroke-dashoffset:0; animation:none; }
+  .gk-node,.gk-wit{ opacity:1; }
+  .cara__spine line{ stroke-dashoffset:0; animation:none; }
+  *{ animation-duration:.001ms !important; transition-duration:.001ms !important; }
+}
