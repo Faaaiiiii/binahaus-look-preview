@@ -118,10 +118,10 @@ em{ font-style:normal; }
 a.mark::after{ content:""; position:absolute; inset:-6px -8px; }
 .navwrap{ display:flex; align-items:center; gap:clamp(.9rem,1.5vw,1.6rem); }
 .nav{ display:flex; align-items:center; gap:clamp(.8rem,1.4vw,1.5rem); }
-.nav a{ position:relative; text-decoration:none; color:var(--ink-2); font-size:.92rem; font-weight:500; padding-block:.35rem; }
-.nav a::after{ content:""; position:absolute; inset:-6px -6px; }
-.nav a:hover{ color:var(--ink); }
-.nav a:hover::after{ border-bottom:1px solid var(--line-2); }
+.nav a{ position:relative; text-decoration:none; color:var(--ink-2); font-size:.92rem; font-weight:500;
+  padding-block:.35rem; border-bottom:1px solid transparent; }
+.nav a::after{ content:""; position:absolute; inset:-10px -6px; }
+.nav a:hover{ color:var(--ink); border-bottom-color:var(--line-2); }
 .burger{ display:none; }
 
 .btn{
@@ -252,7 +252,14 @@ html:not(.js) .wk--video video{ display:block; position:static; height:auto; }
 .ftr{ background:var(--navy-deep); border-top:1px solid var(--line); }
 .ftr__in{ display:grid; grid-template-columns:minmax(0,1.4fr) minmax(0,1fr) minmax(0,1fr); gap:var(--gut); padding-block:clamp(2.6rem,5vw,4rem); }
 .ftr ul{ display:flex; flex-direction:column; gap:.55rem; margin-top:.9rem; }
-.ftr ul a{ color:var(--ink-2); text-decoration:none; padding-block:.2rem; }
+.ftr ul a{ color:var(--ink-2); text-decoration:none; padding-block:.2rem; position:relative; }
+@media (max-width:900px){
+  /* a thumb needs a real box: padding on an inline link is not reliably hit-testable,
+     so these become blocks with their own height */
+  .ftr ul{ gap:.15rem; }
+  .ftr ul a{ display:block; padding-block:.75rem; }
+  .ftr__site a,.room__prose a{ display:inline-block; padding-block:.6rem; }
+}
 .ftr ul a:hover{ color:var(--ink); }
 .ftr__label{ font-family:var(--f-disp); font-size:.8rem; font-weight:600; letter-spacing:.16em; text-transform:uppercase; color:var(--ink); }
 .ftr__mark{ width:132px; height:auto; }
@@ -322,7 +329,7 @@ html:not(.js) .wk--video video{ display:block; position:static; height:auto; }
    where a visitor is ready to act, not in the bar */
 .hdr .btn{ display:none; }
 .nav a[aria-current="page"]{ color:var(--ink); }
-.nav a[aria-current="page"]::after{ border-bottom:1px solid var(--gold); }
+.nav a[aria-current="page"]{ color:var(--ink); border-bottom-color:var(--gold); }
 
 /* the phone menu: one panel, every page, plus the one contact line */
 .menu{ position:absolute; left:0; right:0; top:100%; z-index:70; background:var(--navy-deep);
