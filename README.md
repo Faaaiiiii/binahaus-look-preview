@@ -71,3 +71,47 @@ and solid once it has been built, with a single node and the label `reka → bin
 - `db/index.html` · `db/assets/style.css` · `db/assets/app.js`
 - `db/design/COMMIT-SHEET.md` — the seven decisions · `db/design/DESIGN.md` — the style contract
 - `db/qa/` — full-page captures at 390 / 768 / 1440
+
+---
+
+# Preview 03 — “MASUK” (the threshold)
+
+`rumah/` — the third look, and the one that answers the brief *“bila buka website, seperti berada
+dalam sebuah design rumah”*: opening the page **is** the act of entering the house.
+
+**Direction.** Two panels part over the photograph of the finished living room and the owner's logo
+sits behind them as a lit sign — which is what his logo file actually is (a warm-glow mark on
+transparency, drawn for a dark ground). Behind the door, the page is a walk through one home:
+*Ruang tamu → Dapur → Butiran → Tapak → Pasukan*, each chapter a full-bleed photograph of the real
+work with the room name and a `Foto / Render / Video` chip on it, then the owner's own words.
+
+**The branding is literal, not a mood.** Everything that carries the brand is the owner's:
+
+- logo — his own PNG, unchanged (only the transparent margin trimmed); used as the hero sign, the
+  header mark, the footer mark and the favicon
+- palette — the five tokens read straight out of his stylesheet: navy-deep, navy, beige, beige-soft,
+  and the brand gold (`oklch(74.04% .0992 86.94)`, which measures `#D5A64C` in the logo file too)
+- type — **Archivo** + **Manrope**, the pair his own site loads, self-hosted here (no CDN)
+- copy — every sentence verbatim from binahaus.com, plus a **Profil Syarikat** plate that prints
+  every company detail his site publishes (name, field, the 7 renovation works, the 3 construction
+  works, the 5 process steps, the one-team promise, WhatsApp +60 11-1124 4636, binahaus.com)
+- media — 26 of his own images and videos, provenance listed in `rumah/design/DESIGN.md`
+
+**What this preview does not do:** it invents nothing. His site publishes no address, e-mail,
+registration number, founding year or project names, so the plate prints *belum diterbitkan* on that
+row and says why. **Tell me the real values and they go in.**
+
+**Gates**
+
+| Gate | Command | Result |
+|---|---|---|
+| Auteur slopscan | `node slopscan.mjs rumah` | exit 0 — 0 fails, 0 warns |
+| Impeccable detect | `impeccable detect --json rumah/index.html rumah/assets/style.css rumah/assets/app.js` | exit 2 — 39 `cramped-padding` warnings, **all measured as false positives**: over 53 flagged shapes the smallest real inset between a border and its text is 16 px, and 20 of the shapes have no border and no fill to inset from |
+| Device sweep | Playwright, 360/375/390/412/768/834/1024/1280/1440 | 0 fails — `innerWidth` read back at every width, no horizontal overflow, nothing clipped, exactly one `h1` and first in the DOM, no overlapping text blocks, 39/39 images loaded, both webfonts loaded, 0 HTTP errors |
+| Contrast | every text/ground pair over a solid ground, resolved through a canvas (so `oklch()` is measured as sRGB) | 20–21 pairs per width, **lowest 6.32:1** (floor 4.5:1) |
+| No-JS | `assets/app.js` blocked | complete: door opens by CSS alone, all five nav links visible at every width, 9 native video players reachable, nothing hidden |
+| Live | `curl` page + CSS + JS + fonts + logo + media | 200 across the board |
+
+- `rumah/index.html` · `rumah/assets/style.css` · `rumah/assets/app.js`
+- `rumah/design/COMMIT-SHEET.md` — the seven decisions · `rumah/design/DESIGN.md` — the contract and
+  the full image provenance table
