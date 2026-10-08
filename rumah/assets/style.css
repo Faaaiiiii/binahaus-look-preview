@@ -203,7 +203,7 @@ a.mark::after{ content:""; position:absolute; inset:-6px -8px; }
 .steps{ border-top:1px solid var(--line); }
 .steps li{ display:grid; grid-template-columns:3rem minmax(0,1fr); gap:1.2rem; padding-block:clamp(1.1rem,2.4vw,1.7rem); border-bottom:1px solid var(--line); }
 .steps .n{ font-family:var(--f-disp); font-size:var(--s1); font-weight:600; color:var(--gold); padding-top:.3rem; }
-.steps h3{ font-size:var(--s4); }
+.steps h2,.steps h3{ font-size:var(--s4); }
 .steps p{ margin-top:.4rem; max-width:62ch; color:var(--ink-2); }
 
 /* -------------------------------------------------------------- GALLERY -- */
@@ -311,4 +311,101 @@ html:not(.js) .wk--video video{ display:block; position:static; height:auto; }
   .room__media img{ height:clamp(260px,44vh,420px); }
   .room__plate{ padding:1.1rem var(--pad) .9rem; }
   .steps li{ grid-template-columns:2.2rem minmax(0,1fr); gap:.8rem; }
+}
+
+/* ==========================================================================
+   ARAH 03 v2 — seven pages, one menu, and a phone pass
+   (this block is last on purpose: it refines the rules above)
+   ========================================================================== */
+
+/* the header carries the mark and the menu only — the WhatsApp button lives
+   where a visitor is ready to act, not in the bar */
+.hdr .btn{ display:none; }
+.nav a[aria-current="page"]{ color:var(--ink); }
+.nav a[aria-current="page"]::after{ border-bottom:1px solid var(--gold); }
+
+/* the phone menu: one panel, every page, plus the one contact line */
+.menu{ position:absolute; left:0; right:0; top:100%; z-index:70; background:var(--navy-deep);
+  border-top:1px solid var(--line); border-bottom:1px solid var(--line); min-height:calc(100svh - 4.5rem); }
+.menu[hidden]{ display:none; }
+.menu nav{ display:flex; flex-direction:column; padding:.4rem var(--pad) 0; }
+.menu a{ font-family:var(--f-disp); font-weight:600; font-size:1.05rem; text-decoration:none;
+  padding-block:1rem; border-bottom:1px solid var(--line); min-height:48px; display:flex; align-items:center; }
+.menu a[aria-current="page"]{ color:var(--gold); }
+.menu__wa{ color:var(--ink-2); font-weight:500; font-size:.98rem; }
+.menu__tag{ padding:1rem var(--pad) 1.4rem; color:var(--ink-2); font-size:var(--s1); }
+.menu__tag::before{ content:"· "; color:var(--gold); }
+
+/* page-head band: one heading, one lead, one photograph */
+.band{ border-bottom:1px solid var(--line); }
+.band--photo .band__media{ position:relative; margin:0; }
+.band--photo .band__media img{ width:100%; height:clamp(260px,44vh,460px); object-fit:cover; }
+.band__plate{ position:absolute; left:0; bottom:0; display:flex; align-items:baseline; gap:.8rem; flex-wrap:wrap;
+  padding:1.4rem var(--pad) 1.1rem; margin:0; background:linear-gradient(0deg, var(--scrim) 12%, transparent 100%); }
+.band__plate h1{ font-size:var(--s5); }
+.band__in{ padding-block:clamp(2rem,5vw,3.4rem); }
+.band__in h1{ font-size:var(--s6); max-width:18ch; }
+.band__lead{ margin-top:1rem; max-width:58ch; color:var(--ink-2); }
+.band__in .band__lead:first-child{ margin-top:0; }
+.band__sub{ font-family:var(--f-disp); font-size:var(--s4); color:var(--ink); margin-bottom:1.2rem; }
+.room__in + .room__in{ padding-top:0; }
+
+/* home: three doors into the house */
+.tiga{ border-bottom:1px solid var(--line); padding-block:clamp(2.6rem,6vw,4.6rem); }
+.tiga__h{ font-size:var(--s5); max-width:22ch; }
+.tiga__p{ margin-top:.9rem; color:var(--ink-2); }
+.tiga__list{ display:grid; grid-template-columns:repeat(3,minmax(0,1fr)); gap:.8rem; margin-top:2rem; }
+.tiga__list li{ list-style:none; }
+.tiga__list a{ text-decoration:none; display:block; }
+.tiga__list figure{ margin:0; }
+.tiga__list .wk__fr img{ transition:transform 400ms var(--ease); }
+.tiga__list a:hover .wk__fr img{ transform:scale(1.03); }
+.tiga__list figcaption{ display:flex; flex-direction:column; gap:.35rem; margin-top:.7rem; font-size:var(--s1); color:var(--ink-2); }
+.tiga__list h3{ font-size:var(--s3); font-family:var(--f-disp); }
+
+/* home: work strip */
+.strip{ border-bottom:1px solid var(--line); padding-block:clamp(2.6rem,6vw,4.6rem); }
+.strip__hd{ display:flex; flex-wrap:wrap; align-items:baseline; justify-content:space-between; gap:1rem; margin-bottom:1.6rem; }
+.strip__hd h2{ font-size:var(--s4); }
+.strip__more{ margin-top:1.4rem; }
+.strip__note{ margin-top:1.4rem; font-size:var(--s1); color:var(--ink-2); }
+
+/* ---------------------------------------------------------------- phone -- */
+@media (max-width:820px){
+  /* the links live in the menu panel; without JS they stay as a wrapped list */
+  .hdr__in{ position:relative; }
+  html.js .nav{ display:none; }
+  .band__plate{ position:static; background:none; padding:1rem 0 0; }
+  .band--photo .band__media{ background:transparent; }
+  .band--photo .band__media img{ height:clamp(220px,38vh,340px); }
+  .band__plate h1{ font-size:var(--s4); }
+  .tiga__list{ grid-template-columns:1fr 1fr; }
+  .tiga__list li:first-child{ grid-column:1 / -1; }
+  .strip__hd{ flex-direction:column; gap:.4rem; }
+}
+@media (max-width:700px){
+  /* the room name sits under its photograph, never on top of it */
+  .room__plate{ position:static; background:none; padding:1rem 0 0; }
+  .room__media img{ height:auto; max-height:62svh; object-fit:cover; }
+  .room__in{ padding-block:clamp(1.8rem,5vw,2.6rem); }
+  .room__thesis{ font-size:clamp(1.7rem,1.3rem + 2.4vw,2.4rem); margin-bottom:1.1rem; }
+  .pair{ grid-template-columns:1fr; }
+  .pair--wide{ grid-template-columns:1fr 1fr; }
+  .cta__in{ padding-block:clamp(2.4rem,7vw,3.4rem); }
+  .cta__btns .btn{ flex:1 1 auto; justify-content:center; }
+}
+@media (max-width:560px){
+  :root{ --pad:1.15rem; }
+  body{ font-size:1.06rem; line-height:1.68; }
+  .wk{ grid-template-columns:repeat(2,minmax(0,1fr)); gap:.5rem; }
+  .wk__fr{ aspect-ratio:3/4; }
+  .wk figcaption{ font-size:.82rem; }
+  .wk__tag{ font-size:.72rem; padding:.1rem .4rem; }
+  .tiga__list{ grid-template-columns:1fr; }
+  .tiga__list li:first-child{ grid-column:auto; }
+  .works li,.steps li{ grid-template-columns:2.2rem minmax(0,1fr); gap:.7rem; }
+  .plaque .row{ padding:1rem 1.15rem; }
+  .ftr__in{ gap:2rem; }
+  .room__media img{ max-height:52svh; }
+  .door{ min-height:88svh; }
 }

@@ -66,3 +66,29 @@ stays in the gutter. Text never sits on a photograph without a measured scrim.
   (work in progress). The library holds all three; the page never passes a render off as a photo.
 - The room names (Ruang tamu, Dapur, Butiran, Bilik) are **added labels** that give the walk its
   chapters; the brief's own words are never rewritten.
+
+---
+
+## v2 — the owner's notes (after seeing it on his own phone)
+
+Four notes came back, and each one changed the build:
+
+1. **"Bahagian whatsapp button tak perlu letak situ."** The WhatsApp button is gone from the header.
+   The header is now the mark and the menu. WhatsApp stays where a visitor is already acting: the
+   door's buttons, the menu panel, the contact page and the footer.
+2. **"Aku suka animasi bila bukak website ni macam bukak pintu."** The door is untouched — same
+   panels, same timing (0.35s delay, 1s open), same CSS-only path so it opens with JavaScript
+   blocked.
+3. **"Untuk desktop view, website nampak kemas lawa, untuk mobile device view rasa macam padat,
+   structure cam agak terabur."** The phone gets its own pass: the room name and its chip move
+   *under* the photograph instead of sitting on it; body type and line-height step up; gutters
+   tighten to `1.15rem`; the gallery runs two columns; the pair grids become one column (two for the
+   four-photo construction grid); the plate rows and list rows get more air; the hero shortens to
+   88svh.
+4. **"Masuk semua details bukanlah semua tu satu page. Buat lah di page page lain. Ada menu."**
+   Seven pages, one menu, one shell — see the README. The home page carries the door and the
+   invitations; the details live on their own pages.
+
+Two more things were fixed because the gates found them: the step titles and the closing statement
+were jumping from `h1` to `h3` (a skipped heading level, caught by the impeccable critique), and the
+contact page leaned on em dashes to do the work of sentence structure (caught by slopscan).

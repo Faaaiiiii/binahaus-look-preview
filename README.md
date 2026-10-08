@@ -81,9 +81,24 @@ dalam sebuah design rumah”*: opening the page **is** the act of entering the h
 
 **Direction.** Two panels part over the photograph of the finished living room and the owner's logo
 sits behind them as a lit sign — which is what his logo file actually is (a warm-glow mark on
-transparency, drawn for a dark ground). Behind the door, the page is a walk through one home:
-*Ruang tamu → Dapur → Butiran → Tapak → Pasukan*, each chapter a full-bleed photograph of the real
-work with the room name and a `Foto / Render / Video` chip on it, then the owner's own words.
+transparency, drawn for a dark ground). Behind the door the preview is a walk through one home —
+*Ruang tamu → Dapur → Butiran → Tapak* — each chapter a real photograph with the room name and a
+`Foto / Render / Video` chip on it.
+
+**Seven pages, one menu — the details no longer crowd the home page.**
+
+| page | what it carries |
+|---|---|
+| `index.html` | the door, three ways into the house, six tiles of work, the one-team promise, the CTA |
+| `perkhidmatan.html` | Services: the 7 renovation works, the 3 construction works, the room chapters |
+| `kerja.html` | Hasil Kerja: all 20 own media items, each labelled Foto / Render / Video |
+| `cara.html` | Cara Kami Kerja: the 5 process steps |
+| `tentang.html` | About Us: what the company says about itself |
+| `syarikat.html` | Profil Syarikat: every company detail the site publishes, on one plate |
+| `kontak.html` | Contact: the two ways to start |
+
+The header is the mark and the menu only — the WhatsApp button lives on the pages and in the menu,
+not in the bar (the owner's note). The menu opens as a full panel with every page at 61px a row.
 
 **The branding is literal, not a mood.** Everything that carries the brand is the owner's:
 
@@ -101,17 +116,20 @@ work with the room name and a `Foto / Render / Video` chip on it, then the owner
 registration number, founding year or project names, so the plate prints *belum diterbitkan* on that
 row and says why. **Tell me the real values and they go in.**
 
+Built by `rumah/bina.py` (one shell, seven pages) so the header, the menu and the footer cannot drift
+between pages.
+
 **Gates**
 
 | Gate | Command | Result |
 |---|---|---|
 | Auteur slopscan | `node slopscan.mjs rumah` | exit 0 — 0 fails, 0 warns |
-| Impeccable detect | `impeccable detect --json rumah/index.html rumah/assets/style.css rumah/assets/app.js` | exit 2 — 39 `cramped-padding` warnings, **all measured as false positives**: over 53 flagged shapes the smallest real inset between a border and its text is 16 px, and 20 of the shapes have no border and no fill to inset from |
-| Device sweep | Playwright, 360/375/390/412/768/834/1024/1280/1440 | 0 fails — `innerWidth` read back at every width, no horizontal overflow, nothing clipped, exactly one `h1` and first in the DOM, no overlapping text blocks, 39/39 images loaded, both webfonts loaded, 0 HTTP errors |
-| Contrast | every text/ground pair over a solid ground, resolved through a canvas (so `oklch()` is measured as sRGB) | 20–21 pairs per width, **lowest 6.32:1** (floor 4.5:1) |
-| No-JS | `assets/app.js` blocked | complete: door opens by CSS alone, all five nav links visible at every width, 9 native video players reachable, nothing hidden |
-| Live | `curl` page + CSS + JS + fonts + logo + media | 200 across the board |
+| Impeccable detect | `impeccable detect --json rumah/*.html rumah/assets/style.css rumah/assets/app.js` | exit 2 — 47 `cramped-padding` warnings, **all measured as false positives**: at leaf level the smallest real gap between a border and text is ≥16px on every page, the flagged boundaries are full-bleed photographs against a section hairline, and the plate's own footnote sits 23px (phone) / 32px (desktop) off its border |
+| Device sweep | Playwright, 360/390/768/1440 across the seven pages (23 page×width runs) | 0 fails — `innerWidth` read back at every width, no horizontal overflow, nothing clipped, exactly one `h1` and first in the DOM, no overlapping text blocks, every image loaded, both webfonts loaded, 0 HTTP errors |
+| Contrast | every text/ground pair over a solid ground, resolved through a canvas (so `oklch()` is measured as sRGB) | lowest **6.32:1** (floor 4.5:1) |
+| No-JS | `assets/app.js` blocked on all seven pages | every page complete, all six nav links visible at 390px, 9 native video players reachable, nothing left hidden |
+| Links | every `href`/`src` in the seven pages | 0 broken local links; on the live site every page and asset answers 200 |
 
-- `rumah/index.html` · `rumah/assets/style.css` · `rumah/assets/app.js`
-- `rumah/design/COMMIT-SHEET.md` — the seven decisions · `rumah/design/DESIGN.md` — the contract and
-  the full image provenance table
+- `rumah/index.html` + six inner pages · `rumah/assets/style.css` · `rumah/assets/app.js`
+- `rumah/bina.py` — the builder · `rumah/design/COMMIT-SHEET.md` — the seven decisions ·
+  `rumah/design/DESIGN.md` — the contract and the full image provenance table

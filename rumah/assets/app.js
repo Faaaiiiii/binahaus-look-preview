@@ -66,21 +66,28 @@
     });
   });
 
-  /* --- phone menu --- */
-  var wrap = document.getElementById('navwrap');
+  /* --- the menu: one panel holding every page --- */
+  var menu = document.getElementById('menu');
   var burger = document.querySelector('.burger');
-  if (wrap && burger) {
-    burger.addEventListener('click', function () {
-      var open = wrap.classList.toggle('open');
+  if (menu && burger) {
+    var setOpen = function (open) {
+      menu.hidden = !open;
       burger.setAttribute('aria-expanded', open ? 'true' : 'false');
       burger.textContent = open ? 'Tutup' : 'Menu';
-    });
-    wrap.querySelectorAll('.nav a').forEach(function (a) {
-      a.addEventListener('click', function () {
-        wrap.classList.remove('open');
-        burger.setAttribute('aria-expanded', 'false');
-        burger.textContent = 'Menu';
-      });
+      document.body.style.overflow = open ? 'hidden' : '';
+      if (open) {
+        var first = menu.querySelector('a');
+        if (first) first.focus({ preventScroll: true });
+      } else {
+        burger.focus({ preventScroll: true });
+      }
+    };
+    burger.addEventListener('click', function () { setOpen(menu.hidden); });
+    document.addEventListener('keydown', function (e) { if (e.key === 'Escape' && !menu.hidden) setOpen(false); });
+    document.addEventListener('click', function (e) {
+      if (menu.hidden) return;
+      if (menu.contains(e.target) || burger.contains(e.target)) return;
+      setOpen(false);
     });
   }
 })();
