@@ -65,6 +65,8 @@ and solid once it has been built, with a single node and the label `reka → bin
 | Overflow | Playwright, 320 → 1920 px | 0 horizontal overflow |
 | No-JS | JS disabled | complete: cobalt line drawn, register rows visible, native video controls |
 | Console errors | Playwright | 0 |
+| Device sweep | Playwright, 360/375/390/412/768/834/1024/1280/1440 | 0 fails — no horizontal overflow, no clipped scroll container, exactly one `h1` and first in the DOM, no overlapping text blocks, 20/20 images and the fonts loaded, 0 HTTP errors. `innerWidth` read back at every width (a sweep that does not read the width back is not a sweep) |
+| Tap targets | measured by `elementFromPoint` hit height, not by bounding box | wordmark 46–52px, nav links 53px, footer link rows 28px — was 30–36 / 37 / 22. Extended out of flow, so page height is identical at 390/768/1440 (shift 0) |
 
 - `db/index.html` · `db/assets/style.css` · `db/assets/app.js`
 - `db/design/COMMIT-SHEET.md` — the seven decisions · `db/design/DESIGN.md` — the style contract
