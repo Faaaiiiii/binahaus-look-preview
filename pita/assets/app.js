@@ -27,6 +27,30 @@
     });
   });
 
+  /* --- reveals: the CSS scroll-driven path needs no script. Where the browser has
+     no animation-timeline (or the visitor asked for less motion), the same elements
+     are revealed once by an observer, so nothing is ever left invisible. */
+  var rv = Array.prototype.slice.call(document.querySelectorAll('[data-rv]'));
+  var rvSupported = window.CSS && CSS.supports && CSS.supports('animation-timeline', 'view()');
+  var rvReduce = window.matchMedia && window.matchMedia('(prefers-reduced-motion: reduce)').matches;
+  if (rv.length) {
+    if (!rvSupported && !rvReduce && 'IntersectionObserver' in window) {
+      var io = new IntersectionObserver(function (entries) {
+        entries.forEach(function (en) {
+          if (en.isIntersecting) { en.target.classList.add('in'); io.unobserve(en.target); }
+        });
+      }, { rootMargin: '0px 0px -6% 0px', threshold: 0.08 });
+      rv.forEach(function (el) { io.observe(el); });
+      window.setTimeout(function () {
+        rv.forEach(function (el) {
+          if (!el.classList.contains('in') && el.getBoundingClientRect().top < window.innerHeight) el.classList.add('in');
+        });
+      }, 1500);
+    } else {
+      rv.forEach(function (el) { el.classList.add('in'); });
+    }
+  }
+
   /* --- the menu: one panel holding all seven pages plus the one contact line ---
      The panel explains a state change, so it moves: 190ms, exponential ease-out, one
      transition for the whole drawer. `hidden` still carries the accessible state — it is

@@ -325,11 +325,18 @@ html:not(.js) .wk--video video{ display:block; position:static; height:auto; }
 
 /* -------------------------------------------------------------- MENU ------ */
 .menu{ position:absolute; left:0; right:0; top:100%; z-index:70; background:var(--navy);
-  border-top:1px solid var(--line); border-bottom:1px solid var(--line);
+  border-top:1px solid var(--line); border-bottom:1px solid var(--line); min-height:calc(100svh - 4.4rem);
   display:flex; flex-direction:column;
   opacity:0; transform:translateY(-6px);
   transition:opacity .19s cubic-bezier(.16,1,.3,1), transform .19s cubic-bezier(.16,1,.3,1); }
 .menu.is-open{ opacity:1; transform:none; }
+/* the seven pages arrive one after another — the drawer's own authored moment */
+.menu.is-open nav a{ animation:menuRow .36s cubic-bezier(.16,1,.3,1) both; }
+.menu.is-open nav a:nth-child(1){ animation-delay:.03s } .menu.is-open nav a:nth-child(2){ animation-delay:.06s }
+.menu.is-open nav a:nth-child(3){ animation-delay:.09s } .menu.is-open nav a:nth-child(4){ animation-delay:.12s }
+.menu.is-open nav a:nth-child(5){ animation-delay:.15s } .menu.is-open nav a:nth-child(6){ animation-delay:.18s }
+.menu.is-open nav a:nth-child(7){ animation-delay:.21s } .menu.is-open nav a:nth-child(8){ animation-delay:.24s }
+@keyframes menuRow{ from{ opacity:.001; transform:translateY(-10px); } to{ opacity:1; transform:none; } }
 .menu[hidden]{ display:none; }
 .menu nav{ display:flex; flex-direction:column; padding:.4rem var(--pad) 0; }
 .menu a{ font-family:var(--f-label); font-weight:600; font-size:var(--s2); letter-spacing:.03em;
@@ -340,13 +347,33 @@ html:not(.js) .wk--video video{ display:block; position:static; height:auto; }
 .menu__tag{ margin-top:auto; padding:1rem var(--pad) 1.4rem; color:var(--ink-2); font-size:var(--s1); }
 .menu__tag::before{ content:"· "; color:var(--gold); }
 
+/* ------------------------------------------------------------- REVEALS ---- */
+/* One entrance for the whole surface: content rises 14px as it enters, and each
+   chapter's gold rule draws itself. Scroll-driven where the browser supports it,
+   IntersectionObserver (see app.js) where it does not. */
+@supports (animation-timeline: view()){
+  [data-rv]{ animation:riser linear both; animation-timeline:view(); animation-range:entry 6% cover 26%; }
+  [data-rv="rule"]{ animation:drawRule linear both; animation-timeline:view(); animation-range:entry 18% cover 32%; }
+}
+@supports not (animation-timeline: view()){
+  html.js [data-rv]{ opacity:0; }
+  html.js [data-rv].in{ animation:riser .68s cubic-bezier(.16,1,.3,1) both; }
+  html.js [data-rv="rule"].in{ animation:drawRule .8s cubic-bezier(.16,1,.3,1) both; }
+}
+@keyframes riser{ from{ opacity:.001; transform:translateY(14px); } to{ opacity:1; transform:none; } }
+@keyframes drawRule{ from{ transform:scaleX(0); } to{ transform:scaleX(1); } }
+
 /* --------------------------------------------------------- HOME (the reel) */
 /* three ways into the house — media-led, the name under the picture */
 .trio{ display:grid; grid-template-columns:repeat(3,minmax(0,1fr)); gap:.7rem; }
 .trio li{ list-style:none; }
 .trio a{ text-decoration:none; display:block; }
 .trio figure{ margin:0; display:flex; flex-direction:column; gap:.55rem; }
-.trio .wk__fr img{ transition:transform 400ms var(--ease); }
+.trio .wk__fr img,.wk .wk__fr img{ transition:transform 460ms cubic-bezier(.16,1,.3,1); }
+.btn{ will-change:transform; }
+.btn:active{ transform:translateY(1px) scale(.99); }
+.menu a:active{ color:var(--ink); }
+html{ scroll-behavior:smooth; }
 .trio a:hover .wk__fr img{ transform:scale(1.03); }
 .strip__more{ margin-top:1.4rem; }
 
@@ -423,7 +450,12 @@ html:not(.js) .wk--video video{ display:block; position:static; height:auto; }
 
 /* ------------------------------------------------------ REDUCED MOTION ---- */
 @media (prefers-reduced-motion:reduce){
-  /* the authored moment becomes a single held frame — not a broken one */
+  /* the authored moments become single held frames — not broken ones */
   .reel-hero__stage video{ animation:none !important; }
   .reel-hero__stage video:nth-child(2){ display:none; }
+  html{ scroll-behavior:auto; }
+  [data-rv],[data-rv="rule"]{ animation:none !important; opacity:1 !important; transform:none !important; }
+  .menu.is-open nav a{ animation:none !important; opacity:1 !important; transform:none !important; }
+  .menu{ transition:none !important; }
+  .btn,.trio .wk__fr img,.wk .wk__fr img{ transition:none !important; }
 }

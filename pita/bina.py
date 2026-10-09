@@ -137,7 +137,7 @@ def chap_open(n, hid, heading, sub=""):
             f'  <div class="wrap">\n'
             f'    <header class="chap__hd">\n'
             f'      <span class="chap__n" aria-hidden="true">{n:02d}</span>\n'
-            f'      <div><h2>{heading}</h2>{sub_html}</div>\n'
+            f'      <div data-rv><h2>{heading}</h2>{sub_html}</div>\n'
             f'    </header>')
 
 
@@ -244,16 +244,16 @@ GALLERY = [
 
 def gtile(kind, a, b=None):
     if kind == "img":
-        return (f'      <li><figure><div class="wk__fr">'
+        return (f'      <li data-rv><figure><div class="wk__fr">'
                 f'<img src="assets/img/{a}" alt="{b}" width="960" height="1280" loading="lazy" decoding="async">'
                 f'</div><figcaption class="film__cap"><span class="chip">Foto</span><span>{b}</span></figcaption></figure></li>')
     if kind == "render":
-        return (f'      <li><figure><div class="wk__fr">'
+        return (f'      <li data-rv><figure><div class="wk__fr">'
                 f'<img src="assets/img/{a}" alt="Render reka bentuk: {b}" width="960" height="1280" loading="lazy" decoding="async">'
                 f'</div><figcaption class="film__cap"><span class="chip">Render</span><span>{b}</span></figcaption></figure></li>')
     src, cap = VIDEOS[a]
     poster = f"work-poster-{a}.jpg"
-    return (f'      <li class="wk--video"><figure><div class="wk__fr">'
+    return (f'      <li data-rv class="wk--video"><figure><div class="wk__fr">'
             f'<video src="{src}" poster="assets/img/{poster}" controls playsinline preload="none" '
             f'width="787" height="1400"></video>'
             f'<button class="wk__play" type="button" aria-label="Main video: {cap}">'
@@ -315,15 +315,15 @@ INDEX = REEL + """
 ) + """
     <div class="chap__body">
       <ul class="trio">
-        <li><a href="perkhidmatan.html#renovasi">
+        <li data-rv><a href="perkhidmatan.html#renovasi">
           <figure><div class="wk__fr"><img src="assets/img/hero-living.jpg" alt="Ruang tamu siap: sofa, tingkap besar dan lantai kayu" width="1600" height="1000" loading="lazy" decoding="async"></div>
           <figcaption class="film__cap"><span class="chip">Renovasi rumah</span><span>Full house Renovation</span></figcaption></figure>
         </a></li>
-        <li><a href="perkhidmatan.html#dapur">
+        <li data-rv><a href="perkhidmatan.html#dapur">
           <figure><div class="wk__fr"><img src="assets/img/reno-kitchen.jpg" alt="Dapur siap: kabinet kelabu, sinki dan tingkap" width="1040" height="1300" loading="lazy" decoding="async"></div>
           <figcaption class="film__cap"><span class="chip">Renovasi dapur</span><span>Kitchen renovations</span></figcaption></figure>
         </a></li>
-        <li><a href="perkhidmatan.html#tapak">
+        <li data-rv><a href="perkhidmatan.html#tapak">
           <figure><div class="wk__fr"><img src="assets/img/construction-site.jpg" alt="Rumah dua tingkat dalam pembinaan" width="1600" height="1000" loading="lazy" decoding="async"></div>
           <figcaption class="film__cap"><span class="chip">Pembinaan</span><span>New house Constructions</span></figcaption></figure>
         </a></li>
@@ -354,7 +354,7 @@ INDEX = REEL + """
 """ + CHAP_CLOSE + """
 
 <section class="cta" id="kontak" aria-labelledby="kontak-h">
-  <div class="wrap cta__in">
+  <div class="wrap cta__in" data-rv>
     <div>
       <h2 id="kontak-h">Planning to renovate your space?</h2>
       <p>Tell us what you need and let's start with a conversation.</p>
@@ -515,7 +515,7 @@ ABOUT = """<main id="main">
 </section>
 
 <section class="cta">
-  <div class="wrap cta__in">
+  <div class="wrap cta__in" data-rv>
     <div>
       <h2>One team. One project. One responsibility.</h2>
       <p>From consultation and site visit to construction and handover, you know who you're dealing with at every stage.</p>
