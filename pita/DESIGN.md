@@ -114,6 +114,10 @@ components:
     backgroundColor: "{colors.scrim-deep}"
     textColor: "{colors.tertiary}"
     padding: 28px
+  link-channel:
+    backgroundColor: "{colors.primary}"
+    textColor: "{colors.ink-2}"
+    height: 48px
   link-quiet:
     backgroundColor: "{colors.primary}"
     textColor: "{colors.ink-2}"

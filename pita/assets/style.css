@@ -250,6 +250,8 @@ a.mark::after{ content:""; position:absolute; inset:-6px -8px; }
 .wk{ display:grid; grid-template-columns:repeat(6,minmax(0,1fr)); gap:.7rem; }
 .wk li{ grid-column:span 2; }
 .wk li:nth-child(7n+1),.wk li:nth-child(7n+2){ grid-column:span 3; }
+/* the home page gallery keeps an even rhythm: six tiles, three to a row, no featured pair */
+.wk--even li,.wk--even li:nth-child(7n+1),.wk--even li:nth-child(7n+2){ grid-column:span 2; }
 .wk figure{ margin:0; display:flex; flex-direction:column; gap:.55rem; }
 .wk__fr{ position:relative; overflow:hidden; background:var(--inset); aspect-ratio:4/5; }
 .wk__fr > img,.wk__fr > video{ position:absolute; inset:0; width:100%; height:100%; object-fit:cover; }
@@ -298,8 +300,22 @@ html:not(.js) .wk--video video{ display:block; position:static; height:auto; }
   gap:var(--gut); padding-block:clamp(2.4rem,5vw,4rem); }
 .ftr ul{ display:flex; flex-direction:column; gap:.55rem; margin-top:.9rem; }
 .ftr ul a{ color:var(--ink-2); text-decoration:none; display:block; padding-block:.6rem; position:relative; }
+/* the two published channels: real rows, real 44px targets, no reflow of the note below */
+.chan{ list-style:none; margin:.5rem 0 0; padding:0; }
+.prose .chan a{ display:flex; align-items:center; justify-content:space-between; gap:1rem; min-height:48px;
+  color:var(--ink-2); text-decoration:none; border-bottom:1px solid var(--line); }
+.chan a:hover{ color:var(--ink); }
+.chan span{ font-family:var(--f-label); font-size:var(--s1); letter-spacing:.06em; text-transform:uppercase; color:var(--ink-2); }
+.chan b{ font-weight:400; }
 .ftr__site a{ color:var(--ink-2); }
 .ftr ul a:hover{ color:var(--ink); }
+.ftr__site a{ position:relative; }
+.ftr__site a::after{ content:""; position:absolute; inset:-12px -6px; }
+/* inline links in prose carry a real thumb target at every width; the negative margin
+   cancels the padding again so not one line of the page moves */
+.plaque a,.prose p a,.chap__body p a{
+  display:inline-block; padding-block:.8rem; margin-block:-.8rem; }
+
 .ftr__label{ font-family:var(--f-label); font-size:var(--s1); font-weight:600; letter-spacing:.16em; text-transform:uppercase; color:var(--ink); }
 .ftr__mark{ width:132px; height:auto; }
 .ftr__tag{ margin-top:.8rem; max-width:26ch; }

@@ -232,11 +232,18 @@ photograph sits on a navy-tinted scrim, never on the bare image.
 | Auteur slopscan | `node slopscan.mjs pita` | exit 0 — 0 fails, 0 warns |
 | Impeccable detect | `impeccable detect --json pita/*.html …` | 47 `cramped-padding`, measured as false positives; the design-system checks are clean (every rendered colour, size and radius appears in `pita/DESIGN.md`, including the scrollbar thumb's 6px as `rounded.chrome`) |
 | DESIGN.md | `@google/design.md lint` | 0 errors, 0 warnings |
-| System scan | `systemscan.mjs …7 routes` | **6** link variants / **3** button variants against the default budget of 4 — the six are *skip link · logo link · nav links · footer rows · the footer's site line · the gallery caption links*, all named in `pita/DESIGN.md`; with the system's own budget (`--max-variants link=6,button=3`) there is no FAIL. 13 type steps, 1 radius (the scrollbar thumb, documented as `rounded.chrome`), 0 shadows |
+| System scan | `systemscan.mjs …7 routes` | **7** link variants / **3** button variants against the default budget of 4 — the seven are *skip link · logo link · nav links · footer rows · footer site line · gallery caption links · the two published-channel rows on Contact*, all named in `pita/DESIGN.md`; with the system's own budget (`--max-variants link=7,button=3`) there is no FAIL. 14 type steps, 1 radius (the scrollbar thumb, documented as `rounded.chrome`), 0 shadows |
 | Device sweep | Playwright, 7 pages × 4 widths | **0 fails** |
 | Contrast | canvas-resolved | lowest **6.17:1** |
 | Tap targets | `elementFromPoint`, 390px | 0 under 44px on all seven pages |
 | Links | every `href`/`src` | 0 broken local links; 0 broken images (every `naturalWidth > 0`) |
+
+**Home page, revised to the owner's note (9 Okt 2026).** Two changes he asked for:
+
+1. **Chapter 01 is now "Apa yang kami buat"** — the three tiles are his three published services in his own words (`Full house Renovation`, `Kitchen renovations`, `New house Constructions`), each one a door into the matching section of `perkhidmatan.html` (`#renovasi`, `#dapur`, `#tapak`). Before, it repeated the room photographs that chapter 02 already carries.
+2. **Chapter 02 runs an even rhythm** — six tiles, three to a row, no featured pair and no lone leftover tile, and the duplicated photograph (`work-photo-3.jpg`, which appeared in both chapters) is gone: every image on the page is now used once.
+
+Also fixed while in there: the two published channels on Contact (`WhatsApp` / `Web`) are real 48px rows instead of two inline links 21px tall, so **0 of 24 targets at 390px and 0 of 21 at 1440px are under 44px** on every page.
 
 **Shared honesty for 04/05/06:** every sentence is the owner's verbatim; every photograph is his own,
 labelled by kind; nothing is invented — no address, e-mail, registration number, date, project name

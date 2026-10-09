@@ -265,9 +265,10 @@ def gtile(kind, a, b=None):
             f'<span class="rec-dot" aria-hidden="true"></span>Video</span><span>{cap}</span></figcaption></figure></li>')
 
 
-def gallery(limit=None):
+def gallery(limit=None, even=False):
     items = GALLERY[:limit] if limit else GALLERY
-    return '    <ul class="wk">\n' + "\n".join(gtile(k, a, b) for k, a, b in items) + "\n    </ul>"
+    cls = "wk wk--even" if even else "wk"
+    return f'    <ul class="{cls}">\n' + "\n".join(gtile(k, a, b) for k, a, b in items) + "\n    </ul>"
 
 
 def write(name, body):
@@ -309,22 +310,22 @@ INDEX = REEL + """
 <main id="main">
 
 """ + chap_open(
-    1, "masuk", "Masuk ke dalam rumah",
-    "Setiap ruang di bawah ialah kerja sebenar Bina Haus — gambar, render dan video daripada laman syarikat sendiri."
+    1, "masuk", "Apa yang kami buat",
+    "Bina Haus mengambil kerja renovasi dan pembinaan. Pilih satu di bawah untuk lihat butirannya."
 ) + """
     <div class="chap__body">
       <ul class="trio">
-        <li><a href="perkhidmatan.html">
-          <figure><div class="wk__fr"><img src="assets/img/work-photo-3.jpg" alt="Ruang dalaman siap: lantai kayu, tingkap besar" width="960" height="1280" loading="lazy" decoding="async"></div>
-          <figcaption class="film__cap"><span class="chip">Ruang tamu</span><span>Kerja renovasi: tujuh jenis kerja</span></figcaption></figure>
+        <li><a href="perkhidmatan.html#renovasi">
+          <figure><div class="wk__fr"><img src="assets/img/hero-living.jpg" alt="Ruang tamu siap: sofa, tingkap besar dan lantai kayu" width="1600" height="1000" loading="lazy" decoding="async"></div>
+          <figcaption class="film__cap"><span class="chip">Renovasi rumah</span><span>Full house Renovation</span></figcaption></figure>
         </a></li>
         <li><a href="perkhidmatan.html#dapur">
           <figure><div class="wk__fr"><img src="assets/img/reno-kitchen.jpg" alt="Dapur siap: kabinet kelabu, sinki dan tingkap" width="1040" height="1300" loading="lazy" decoding="async"></div>
-          <figcaption class="film__cap"><span class="chip">Dapur</span><span>Kitchen renovations</span></figcaption></figure>
+          <figcaption class="film__cap"><span class="chip">Renovasi dapur</span><span>Kitchen renovations</span></figcaption></figure>
         </a></li>
         <li><a href="perkhidmatan.html#tapak">
           <figure><div class="wk__fr"><img src="assets/img/construction-site.jpg" alt="Rumah dua tingkat dalam pembinaan" width="1600" height="1000" loading="lazy" decoding="async"></div>
-          <figcaption class="film__cap"><span class="chip">Tapak</span><span>Kerja pembinaan &amp; struktur</span></figcaption></figure>
+          <figcaption class="film__cap"><span class="chip">Pembinaan</span><span>New house Constructions</span></figcaption></figure>
         </a></li>
       </ul>
     </div>
@@ -335,7 +336,7 @@ INDEX = REEL + """
     "A collection of work by Bina Haus."
 ) + """
     <div class="chap__body">
-""" + gallery(6) + """
+""" + gallery(6, even=True) + """
       <p class="strip__more"><a class="btn btn--quiet" href="kerja.html">All work</a></p>
     </div>
 """ + CHAP_CLOSE + """
@@ -579,7 +580,10 @@ CONTACT = """<main id="main">
       </div>
       <div class="prose">
         <p class="ftr__label">Saluran yang diterbitkan</p>
-        <p style="margin-top:.6rem">WhatsApp <a href="https://wa.me/601111244636">+60 11-1124 4636</a><br>Web <a href="https://binahaus.com/">binahaus.com</a></p>
+        <ul class="chan">
+          <li><a href="https://wa.me/601111244636"><span>WhatsApp</span><b>+60 11-1124 4636</b></a></li>
+          <li><a href="https://binahaus.com/"><span>Web</span><b>binahaus.com</b></a></li>
+        </ul>
         <p style="margin-top:1rem;color:var(--ink-2)">Laman binahaus.com tidak memaparkan alamat premis, e-mel rasmi atau nombor pendaftaran syarikat, jadi halaman ini tidak mereka-reka satu.</p>
       </div>
     </div>
