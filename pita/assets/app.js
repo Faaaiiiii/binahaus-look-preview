@@ -27,26 +27,46 @@
     });
   });
 
-  /* --- the menu: one panel holding all seven pages plus the one contact line --- */
+  /* --- the menu: one panel holding all seven pages plus the one contact line ---
+     The panel explains a state change, so it moves: 190ms, exponential ease-out, one
+     transition for the whole drawer. `hidden` still carries the accessible state — it is
+     set after the close finishes, so the transition is never cut off. */
   var menu = document.getElementById('menu');
   var burger = document.querySelector('.burger');
   if (menu && burger) {
+    var reduce = window.matchMedia && window.matchMedia('(prefers-reduced-motion: reduce)').matches;
+    var openState = false;
+    var closeTimer = null;
     var setOpen = function (open) {
-      menu.hidden = !open;
+      if (closeTimer) { clearTimeout(closeTimer); closeTimer = null; }
+      openState = open;
       burger.setAttribute('aria-expanded', open ? 'true' : 'false');
       burger.textContent = open ? 'Tutup' : 'Menu';
       document.body.style.overflow = open ? 'hidden' : '';
       if (open) {
+        menu.hidden = false;
+        if (reduce) {
+          menu.classList.add('is-open');
+        } else {
+          /* remove `hidden` first, then move on the next frame so the browser has a
+             starting point to animate from */
+          requestAnimationFrame(function () {
+            requestAnimationFrame(function () { menu.classList.add('is-open'); });
+          });
+        }
         var first = menu.querySelector('a');
         if (first) first.focus({ preventScroll: true });
       } else {
+        menu.classList.remove('is-open');
+        var finish = function () { menu.hidden = true; };
+        if (reduce) finish(); else closeTimer = setTimeout(finish, 210);
         burger.focus({ preventScroll: true });
       }
     };
-    burger.addEventListener('click', function () { setOpen(menu.hidden); });
-    document.addEventListener('keydown', function (e) { if (e.key === 'Escape' && !menu.hidden) setOpen(false); });
+    burger.addEventListener('click', function () { setOpen(!openState); });
+    document.addEventListener('keydown', function (e) { if (e.key === 'Escape' && openState) setOpen(false); });
     document.addEventListener('click', function (e) {
-      if (menu.hidden) return;
+      if (!openState) return;
       if (menu.contains(e.target) || burger.contains(e.target)) return;
       setOpen(false);
     });
