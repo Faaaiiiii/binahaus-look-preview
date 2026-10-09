@@ -64,6 +64,7 @@
     var setOpen = function (open) {
       if (closeTimer) { clearTimeout(closeTimer); closeTimer = null; }
       openState = open;
+      document.body.classList.toggle('menu-open', open);
       burger.setAttribute('aria-expanded', open ? 'true' : 'false');
       burger.textContent = open ? 'Tutup' : 'Menu';
       document.body.style.overflow = open ? 'hidden' : '';
