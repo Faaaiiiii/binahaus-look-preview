@@ -237,7 +237,7 @@ html:not(.js) .tile--video video{ display:block; position:static; height:auto; }
 
 /* ------------------------------------------------------------ A ROOM ----- */
 .room{ padding-top:clamp(2.4rem,6vw,4.4rem); }
-.room__in{ padding-bottom:clamp(1.8rem,4.5vw,3.2rem); }
+.room__in{ padding-bottom:clamp(2.6rem,6vw,4.2rem); }
 .room__hd{ margin-bottom:1.2rem; }
 .room__hd h2{ max-width:16ch; }
 .room__body{ display:grid; grid-template-columns:minmax(0,6fr) minmax(0,7fr); gap:var(--gut); align-items:start; }
@@ -318,7 +318,7 @@ html:not(.js) .tile--video video{ display:block; position:static; height:auto; }
 
 /* ------------------------------------------------------------------ CTA -- */
 .cta{ background:var(--navy-deep); color:var(--beige-soft); border-radius:var(--r-block);
-  width:min(var(--wrap), 100% - (2 * var(--pad))); margin:clamp(2rem,5vw,3.4rem) auto clamp(2.2rem,5vw,3.6rem);
+  width:min(var(--wrap), 100% - (2 * var(--pad))); margin:clamp(2.9rem,6.5vw,4.4rem) auto clamp(2.6rem,6vw,4rem);
   box-shadow:var(--sh-2); }
 .cta__in{ display:grid; grid-template-columns:minmax(0,7fr) minmax(0,5fr); gap:var(--gut);
   align-items:center; padding:clamp(2rem,5vw,3.4rem) clamp(1.5rem,4vw,3rem); }
