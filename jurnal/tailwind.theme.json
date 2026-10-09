@@ -1,0 +1,94 @@
+{
+  "theme": {
+    "extend": {
+      "colors": {
+        "primary": "#e8dcc8",
+        "secondary": "#faf8f4",
+        "tertiary": "#0f1626",
+        "accent": "#c6a75e",
+        "accent-ink": "#665d4b",
+        "surface-deep": "#1f2a44",
+        "muted-ink": "#394255"
+      },
+      "fontFamily": {
+        "display-1": [
+          "Schibsted Grotesk"
+        ],
+        "display-2": [
+          "Schibsted Grotesk"
+        ],
+        "heading-2": [
+          "Schibsted Grotesk"
+        ],
+        "body-md": [
+          "Source Sans 3"
+        ],
+        "body-sm": [
+          "Source Sans 3"
+        ],
+        "label": [
+          "Schibsted Grotesk"
+        ],
+        "numeral": [
+          "Schibsted Grotesk"
+        ]
+      },
+      "fontSize": {
+        "display-1": [
+          "2.7rem",
+          {
+            "letterSpacing": "-0.008em",
+            "fontWeight": "600"
+          }
+        ],
+        "display-2": [
+          "2.7rem",
+          {
+            "fontWeight": "600"
+          }
+        ],
+        "heading-2": [
+          "1.7rem",
+          {
+            "fontWeight": "600"
+          }
+        ],
+        "body-md": [
+          "1.2rem",
+          {
+            "fontWeight": "400"
+          }
+        ],
+        "body-sm": [
+          "1rem",
+          {
+            "fontWeight": "400"
+          }
+        ],
+        "label": [
+          "0.875rem",
+          {
+            "fontWeight": "600"
+          }
+        ],
+        "numeral": [
+          "1.2rem",
+          {
+            "fontWeight": "700"
+          }
+        ]
+      },
+      "borderRadius": {
+        "none": "0px",
+        "pill": "999px"
+      },
+      "spacing": {
+        "section": "64px",
+        "gutter": "56px",
+        "block": "24px",
+        "row": "16px",
+        "inline": "9px"
+      }
+    }
+  }
+}

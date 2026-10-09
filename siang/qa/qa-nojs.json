@@ -1,0 +1,208 @@
+{
+ "mode": "nojs",
+ "sweep": [],
+ "fails": [],
+ "lowestContrast": {
+  "ratio": 99
+ },
+ "touch": {},
+ "nojs": [
+  {
+   "nav": 6,
+   "navLabels": [
+    "Services",
+    "Our Work",
+    "Cara Kami Kerja",
+    "About Us",
+    "Profil Syarikat",
+    "Contact"
+   ],
+   "hiddenRev": 0,
+   "markVisible": true,
+   "videos": 2,
+   "bodyText": 976,
+   "hasJs": false,
+   "h1": 1,
+   "page": "index.html",
+   "navHits": [
+    "=52px",
+    "Services=48px",
+    "Our Work=48px",
+    "Cara Kami Kerja=48px",
+    "About Us=48px",
+    "Profil Syarikat=48px",
+    "Contact=48px",
+    "Get free Quotation=48px",
+    "WhatsApp Us=48px",
+    "All work=48px",
+    "Get free Quotations=48px",
+    "WhatsApp Us=48px"
+   ]
+  },
+  {
+   "nav": 6,
+   "navLabels": [
+    "Services",
+    "Our Work",
+    "Cara Kami Kerja",
+    "About Us",
+    "Profil Syarikat",
+    "Contact"
+   ],
+   "hiddenRev": 0,
+   "markVisible": true,
+   "videos": 2,
+   "bodyText": 1970,
+   "hasJs": false,
+   "h1": 1,
+   "page": "perkhidmatan.html",
+   "navHits": [
+    "=52px",
+    "Services=48px",
+    "Our Work=48px",
+    "Cara Kami Kerja=48px",
+    "About Us=48px",
+    "Profil Syarikat=48px",
+    "Contact=48px"
+   ]
+  },
+  {
+   "nav": 6,
+   "navLabels": [
+    "Services",
+    "Our Work",
+    "Cara Kami Kerja",
+    "About Us",
+    "Profil Syarikat",
+    "Contact"
+   ],
+   "hiddenRev": 0,
+   "markVisible": true,
+   "videos": 7,
+   "bodyText": 949,
+   "hasJs": false,
+   "h1": 1,
+   "page": "kerja.html",
+   "navHits": [
+    "=52px",
+    "Services=48px",
+    "Our Work=48px",
+    "Cara Kami Kerja=48px",
+    "About Us=48px",
+    "Profil Syarikat=48px",
+    "Contact=48px"
+   ]
+  },
+  {
+   "nav": 6,
+   "navLabels": [
+    "Services",
+    "Our Work",
+    "Cara Kami Kerja",
+    "About Us",
+    "Profil Syarikat",
+    "Contact"
+   ],
+   "hiddenRev": 0,
+   "markVisible": true,
+   "videos": 0,
+   "bodyText": 745,
+   "hasJs": false,
+   "h1": 1,
+   "page": "cara.html",
+   "navHits": [
+    "=52px",
+    "Services=48px",
+    "Our Work=48px",
+    "Cara Kami Kerja=48px",
+    "About Us=48px",
+    "Profil Syarikat=48px",
+    "Contact=48px"
+   ]
+  },
+  {
+   "nav": 6,
+   "navLabels": [
+    "Services",
+    "Our Work",
+    "Cara Kami Kerja",
+    "About Us",
+    "Profil Syarikat",
+    "Contact"
+   ],
+   "hiddenRev": 0,
+   "markVisible": true,
+   "videos": 0,
+   "bodyText": 722,
+   "hasJs": false,
+   "h1": 1,
+   "page": "tentang.html",
+   "navHits": [
+    "=52px",
+    "Services=48px",
+    "Our Work=48px",
+    "Cara Kami Kerja=48px",
+    "About Us=48px",
+    "Profil Syarikat=48px",
+    "Contact=48px"
+   ]
+  },
+  {
+   "nav": 6,
+   "navLabels": [
+    "Services",
+    "Our Work",
+    "Cara Kami Kerja",
+    "About Us",
+    "Profil Syarikat",
+    "Contact"
+   ],
+   "hiddenRev": 0,
+   "markVisible": true,
+   "videos": 0,
+   "bodyText": 1347,
+   "hasJs": false,
+   "h1": 1,
+   "page": "syarikat.html",
+   "navHits": [
+    "=52px",
+    "Services=48px",
+    "Our Work=48px",
+    "Cara Kami Kerja=48px",
+    "About Us=48px",
+    "Profil Syarikat=48px",
+    "Contact=48px"
+   ]
+  },
+  {
+   "nav": 6,
+   "navLabels": [
+    "Services",
+    "Our Work",
+    "Cara Kami Kerja",
+    "About Us",
+    "Profil Syarikat",
+    "Contact"
+   ],
+   "hiddenRev": 0,
+   "markVisible": true,
+   "videos": 0,
+   "bodyText": 501,
+   "hasJs": false,
+   "h1": 1,
+   "page": "kontak.html",
+   "navHits": [
+    "=52px",
+    "Services=48px",
+    "Our Work=48px",
+    "Cara Kami Kerja=48px",
+    "About Us=48px",
+    "Profil Syarikat=48px",
+    "Contact=48px",
+    "Get free Quotations=48px",
+    "WhatsApp Us=48px"
+   ]
+  }
+ ],
+ "shots": []
+}

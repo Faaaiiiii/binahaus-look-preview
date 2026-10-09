@@ -1,0 +1,154 @@
+{
+ "mode": "touch",
+ "sweep": [],
+ "fails": [],
+ "lowestContrast": {
+  "ratio": 99
+ },
+ "touch": {
+  "measured": 19,
+  "pass44": 19,
+  "under44": [],
+  "probeErrors": [],
+  "notRendered": [
+   "Services —  (hidden or inside a hidden ancestor)",
+   "Our Work —  (hidden or inside a hidden ancestor)",
+   "Cara Kami Kerja —  (hidden or inside a hidden ancestor)",
+   "About Us —  (hidden or inside a hidden ancestor)",
+   "Profil Syarikat —  (hidden or inside a hidden ancestor)",
+   "Contact —  (hidden or inside a hidden ancestor)",
+   "Utama —  (hidden or inside a hidden ancestor)",
+   "Services —  (hidden or inside a hidden ancestor)",
+   "Our Work —  (hidden or inside a hidden ancestor)",
+   "Cara Kami Kerja —  (hidden or inside a hidden ancestor)",
+   "About Us —  (hidden or inside a hidden ancestor)",
+   "Profil Syarikat —  (hidden or inside a hidden ancestor)",
+   "Contact —  (hidden or inside a hidden ancestor)",
+   "WhatsApp +60 11-1124 4636 —  (hidden or inside a hidden ancestor)"
+  ],
+  "clippedProbe": [],
+  "skipLink": {
+   "unfocused": {
+    "label": "Skip to content",
+    "h": 0,
+    "rect": 45,
+    "why": "probe-error(y=-41)"
+   },
+   "onFocus": {
+    "h": 45,
+    "w": 177,
+    "top": 0,
+    "isIt": true,
+    "visible": true
+   }
+  },
+  "all": [
+   "Bina Haus — utama hit=52 rect=51 ok",
+   "Services hit=-1 rect=0 not rendered (hidden or inside a hidden ancestor)",
+   "Our Work hit=-1 rect=0 not rendered (hidden or inside a hidden ancestor)",
+   "Cara Kami Kerja hit=-1 rect=0 not rendered (hidden or inside a hidden ancestor)",
+   "About Us hit=-1 rect=0 not rendered (hidden or inside a hidden ancestor)",
+   "Profil Syarikat hit=-1 rect=0 not rendered (hidden or inside a hidden ancestor)",
+   "Contact hit=-1 rect=0 not rendered (hidden or inside a hidden ancestor)",
+   "Menu hit=48 rect=48 ok",
+   "Utama hit=-1 rect=0 not rendered (hidden or inside a hidden ancestor)",
+   "Services hit=-1 rect=0 not rendered (hidden or inside a hidden ancestor)",
+   "Our Work hit=-1 rect=0 not rendered (hidden or inside a hidden ancestor)",
+   "Cara Kami Kerja hit=-1 rect=0 not rendered (hidden or inside a hidden ancestor)",
+   "About Us hit=-1 rect=0 not rendered (hidden or inside a hidden ancestor)",
+   "Profil Syarikat hit=-1 rect=0 not rendered (hidden or inside a hidden ancestor)",
+   "Contact hit=-1 rect=0 not rendered (hidden or inside a hidden ancestor)",
+   "WhatsApp +60 11-1124 4636 hit=-1 rect=0 not rendered (hidden or inside a hidden ancestor)",
+   "Get free Quotation hit=48 rect=48 ok",
+   "WhatsApp Us hit=48 rect=48 ok",
+   "FotoRuang tamu — tujuh jen hit=536 rect=536 ok",
+   "FotoDapur — kitchen renova hit=508 rect=507 ok",
+   "FotoTapak — kerja pembinaa hit=288 rect=287 ok",
+   "All work hit=48 rect=48 ok",
+   "Get free Quotations hit=48 rect=48 ok",
+   "WhatsApp Us hit=48 rect=48 ok",
+   "binahaus.com hit=44 rect=44 ok",
+   "WhatsApp +60 11-1124 4636 hit=44 rect=44 ok",
+   "Contact hit=44 rect=44 ok",
+   "Services hit=44 rect=44 ok",
+   "Our Work hit=44 rect=44 ok",
+   "Cara Kami Kerja hit=44 rect=44 ok",
+   "About Us hit=44 rect=44 ok",
+   "Profil Syarikat hit=44 rect=44 ok",
+   "Contact hit=44 rect=44 ok"
+  ],
+  "menu": {
+   "pageLinks": 7,
+   "waLinks": 1,
+   "visibleRows": 8,
+   "rows": [
+    "Utama=48px",
+    "Services=48px",
+    "Our Work=48px",
+    "Cara Kami Kerja=48px",
+    "About Us=48px",
+    "Profil Syarikat=48px",
+    "Contact=48px",
+    "WhatsApp +60 11-1124 4636=48px"
+   ]
+  },
+  "menuContrast": [
+   {
+    "sel": "a",
+    "text": "Utama",
+    "r": 6.17,
+    "bg": "menu"
+   },
+   {
+    "sel": "a",
+    "text": "Services",
+    "r": 13.44,
+    "bg": "menu"
+   },
+   {
+    "sel": "a",
+    "text": "Our Work",
+    "r": 13.44,
+    "bg": "menu"
+   },
+   {
+    "sel": "a",
+    "text": "Cara Kami Kerja",
+    "r": 13.44,
+    "bg": "menu"
+   },
+   {
+    "sel": "a",
+    "text": "About Us",
+    "r": 13.44,
+    "bg": "menu"
+   },
+   {
+    "sel": "a",
+    "text": "Profil Syarikat",
+    "r": 13.44,
+    "bg": "menu"
+   },
+   {
+    "sel": "a",
+    "text": "Contact",
+    "r": 13.44,
+    "bg": "menu"
+   },
+   {
+    "sel": "menu__wa",
+    "text": "WhatsApp +60 11-1124 4",
+    "r": 13.44,
+    "bg": "menu"
+   },
+   {
+    "sel": "menu__tag",
+    "text": "Ruang dibina dengan ra",
+    "r": 10.53,
+    "bg": "menu"
+   }
+  ]
+ },
+ "nojs": [],
+ "shots": []
+}

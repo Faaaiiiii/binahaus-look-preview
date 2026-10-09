@@ -1,0 +1,10120 @@
+{
+ "mode": "sweep",
+ "sweep": [
+  {
+   "page": "index.html",
+   "width": 360,
+   "innerWidth": 360,
+   "overflow": 0,
+   "clipped": 0,
+   "h1": 1,
+   "h1First": true,
+   "imgs": 10,
+   "imgsBad": 0,
+   "overlaps": 0,
+   "contrastPairs": 56,
+   "scrollH": 5380,
+   "failed": 0
+  },
+  {
+   "page": "perkhidmatan.html",
+   "width": 360,
+   "innerWidth": 360,
+   "overflow": 0,
+   "clipped": 0,
+   "h1": 1,
+   "h1First": true,
+   "imgs": 8,
+   "imgsBad": 0,
+   "overlaps": 0,
+   "contrastPairs": 76,
+   "scrollH": 5475,
+   "failed": 0
+  },
+  {
+   "page": "kerja.html",
+   "width": 360,
+   "innerWidth": 360,
+   "overflow": 0,
+   "clipped": 0,
+   "h1": 1,
+   "h1First": true,
+   "imgs": 15,
+   "imgsBad": 0,
+   "overlaps": 0,
+   "contrastPairs": 62,
+   "scrollH": 4655,
+   "failed": 0
+  },
+  {
+   "page": "cara.html",
+   "width": 360,
+   "innerWidth": 360,
+   "overflow": 0,
+   "clipped": 0,
+   "h1": 1,
+   "h1First": true,
+   "imgs": 4,
+   "imgsBad": 0,
+   "overlaps": 0,
+   "contrastPairs": 41,
+   "scrollH": 2784,
+   "failed": 0
+  },
+  {
+   "page": "tentang.html",
+   "width": 360,
+   "innerWidth": 360,
+   "overflow": 0,
+   "clipped": 0,
+   "h1": 1,
+   "h1First": true,
+   "imgs": 3,
+   "imgsBad": 0,
+   "overlaps": 0,
+   "contrastPairs": 28,
+   "scrollH": 2189,
+   "failed": 0
+  },
+  {
+   "page": "syarikat.html",
+   "width": 360,
+   "innerWidth": 360,
+   "overflow": 0,
+   "clipped": 0,
+   "h1": 1,
+   "h1First": true,
+   "imgs": 2,
+   "imgsBad": 0,
+   "overlaps": 0,
+   "contrastPairs": 45,
+   "scrollH": 2586,
+   "failed": 0
+  },
+  {
+   "page": "kontak.html",
+   "width": 360,
+   "innerWidth": 360,
+   "overflow": 0,
+   "clipped": 0,
+   "h1": 1,
+   "h1First": true,
+   "imgs": 3,
+   "imgsBad": 0,
+   "overlaps": 0,
+   "contrastPairs": 29,
+   "scrollH": 2241,
+   "failed": 0
+  },
+  {
+   "page": "index.html",
+   "width": 390,
+   "innerWidth": 390,
+   "overflow": 0,
+   "clipped": 0,
+   "h1": 1,
+   "h1First": true,
+   "imgs": 10,
+   "imgsBad": 0,
+   "overlaps": 0,
+   "contrastPairs": 56,
+   "scrollH": 5531,
+   "failed": 0
+  },
+  {
+   "page": "perkhidmatan.html",
+   "width": 390,
+   "innerWidth": 390,
+   "overflow": 0,
+   "clipped": 0,
+   "h1": 1,
+   "h1First": true,
+   "imgs": 8,
+   "imgsBad": 0,
+   "overlaps": 0,
+   "contrastPairs": 76,
+   "scrollH": 5549,
+   "failed": 0
+  },
+  {
+   "page": "kerja.html",
+   "width": 390,
+   "innerWidth": 390,
+   "overflow": 0,
+   "clipped": 0,
+   "h1": 1,
+   "h1First": true,
+   "imgs": 15,
+   "imgsBad": 0,
+   "overlaps": 0,
+   "contrastPairs": 62,
+   "scrollH": 4821,
+   "failed": 0
+  },
+  {
+   "page": "cara.html",
+   "width": 390,
+   "innerWidth": 390,
+   "overflow": 0,
+   "clipped": 0,
+   "h1": 1,
+   "h1First": true,
+   "imgs": 4,
+   "imgsBad": 0,
+   "overlaps": 0,
+   "contrastPairs": 41,
+   "scrollH": 2771,
+   "failed": 0
+  },
+  {
+   "page": "tentang.html",
+   "width": 390,
+   "innerWidth": 390,
+   "overflow": 0,
+   "clipped": 0,
+   "h1": 1,
+   "h1First": true,
+   "imgs": 3,
+   "imgsBad": 0,
+   "overlaps": 0,
+   "contrastPairs": 28,
+   "scrollH": 2186,
+   "failed": 0
+  },
+  {
+   "page": "syarikat.html",
+   "width": 390,
+   "innerWidth": 390,
+   "overflow": 0,
+   "clipped": 0,
+   "h1": 1,
+   "h1First": true,
+   "imgs": 2,
+   "imgsBad": 0,
+   "overlaps": 0,
+   "contrastPairs": 45,
+   "scrollH": 2589,
+   "failed": 0
+  },
+  {
+   "page": "kontak.html",
+   "width": 390,
+   "innerWidth": 390,
+   "overflow": 0,
+   "clipped": 0,
+   "h1": 1,
+   "h1First": true,
+   "imgs": 3,
+   "imgsBad": 0,
+   "overlaps": 0,
+   "contrastPairs": 29,
+   "scrollH": 2283,
+   "failed": 0
+  },
+  {
+   "page": "index.html",
+   "width": 768,
+   "innerWidth": 768,
+   "overflow": 0,
+   "clipped": 0,
+   "h1": 1,
+   "h1First": true,
+   "imgs": 10,
+   "imgsBad": 0,
+   "overlaps": 0,
+   "contrastPairs": 56,
+   "scrollH": 6694,
+   "failed": 0
+  },
+  {
+   "page": "perkhidmatan.html",
+   "width": 768,
+   "innerWidth": 768,
+   "overflow": 0,
+   "clipped": 0,
+   "h1": 1,
+   "h1First": true,
+   "imgs": 8,
+   "imgsBad": 0,
+   "overlaps": 0,
+   "contrastPairs": 76,
+   "scrollH": 6925,
+   "failed": 0
+  },
+  {
+   "page": "kerja.html",
+   "width": 768,
+   "innerWidth": 768,
+   "overflow": 0,
+   "clipped": 0,
+   "h1": 1,
+   "h1First": true,
+   "imgs": 15,
+   "imgsBad": 0,
+   "overlaps": 0,
+   "contrastPairs": 62,
+   "scrollH": 4381,
+   "failed": 0
+  },
+  {
+   "page": "cara.html",
+   "width": 768,
+   "innerWidth": 768,
+   "overflow": 0,
+   "clipped": 0,
+   "h1": 1,
+   "h1First": true,
+   "imgs": 4,
+   "imgsBad": 0,
+   "overlaps": 0,
+   "contrastPairs": 41,
+   "scrollH": 3270,
+   "failed": 0
+  },
+  {
+   "page": "tentang.html",
+   "width": 768,
+   "innerWidth": 768,
+   "overflow": 0,
+   "clipped": 0,
+   "h1": 1,
+   "h1First": true,
+   "imgs": 3,
+   "imgsBad": 0,
+   "overlaps": 0,
+   "contrastPairs": 28,
+   "scrollH": 2370,
+   "failed": 0
+  },
+  {
+   "page": "syarikat.html",
+   "width": 768,
+   "innerWidth": 768,
+   "overflow": 0,
+   "clipped": 0,
+   "h1": 1,
+   "h1First": true,
+   "imgs": 2,
+   "imgsBad": 0,
+   "overlaps": 0,
+   "contrastPairs": 45,
+   "scrollH": 2537,
+   "failed": 0
+  },
+  {
+   "page": "kontak.html",
+   "width": 768,
+   "innerWidth": 768,
+   "overflow": 0,
+   "clipped": 0,
+   "h1": 1,
+   "h1First": true,
+   "imgs": 3,
+   "imgsBad": 0,
+   "overlaps": 0,
+   "contrastPairs": 29,
+   "scrollH": 2673,
+   "failed": 0
+  },
+  {
+   "page": "index.html",
+   "width": 1440,
+   "innerWidth": 1440,
+   "overflow": 0,
+   "clipped": 0,
+   "h1": 1,
+   "h1First": true,
+   "imgs": 10,
+   "imgsBad": 0,
+   "overlaps": 0,
+   "contrastPairs": 61,
+   "scrollH": 5736,
+   "failed": 0
+  },
+  {
+   "page": "perkhidmatan.html",
+   "width": 1440,
+   "innerWidth": 1440,
+   "overflow": 0,
+   "clipped": 0,
+   "h1": 1,
+   "h1First": true,
+   "imgs": 8,
+   "imgsBad": 0,
+   "overlaps": 0,
+   "contrastPairs": 81,
+   "scrollH": 7143,
+   "failed": 0
+  },
+  {
+   "page": "kerja.html",
+   "width": 1440,
+   "innerWidth": 1440,
+   "overflow": 0,
+   "clipped": 0,
+   "h1": 1,
+   "h1First": true,
+   "imgs": 15,
+   "imgsBad": 0,
+   "overlaps": 0,
+   "contrastPairs": 67,
+   "scrollH": 4265,
+   "failed": 0
+  },
+  {
+   "page": "cara.html",
+   "width": 1440,
+   "innerWidth": 1440,
+   "overflow": 0,
+   "clipped": 0,
+   "h1": 1,
+   "h1First": true,
+   "imgs": 4,
+   "imgsBad": 0,
+   "overlaps": 0,
+   "contrastPairs": 46,
+   "scrollH": 3247,
+   "failed": 0
+  },
+  {
+   "page": "tentang.html",
+   "width": 1440,
+   "innerWidth": 1440,
+   "overflow": 0,
+   "clipped": 0,
+   "h1": 1,
+   "h1First": true,
+   "imgs": 3,
+   "imgsBad": 0,
+   "overlaps": 0,
+   "contrastPairs": 33,
+   "scrollH": 2253,
+   "failed": 0
+  },
+  {
+   "page": "syarikat.html",
+   "width": 1440,
+   "innerWidth": 1440,
+   "overflow": 0,
+   "clipped": 0,
+   "h1": 1,
+   "h1First": true,
+   "imgs": 2,
+   "imgsBad": 0,
+   "overlaps": 0,
+   "contrastPairs": 50,
+   "scrollH": 2209,
+   "failed": 0
+  },
+  {
+   "page": "kontak.html",
+   "width": 1440,
+   "innerWidth": 1440,
+   "overflow": 0,
+   "clipped": 0,
+   "h1": 1,
+   "h1First": true,
+   "imgs": 3,
+   "imgsBad": 0,
+   "overlaps": 0,
+   "contrastPairs": 34,
+   "scrollH": 2146,
+   "failed": 0
+  }
+ ],
+ "fails": [],
+ "lowestContrast": {
+  "ratio": 10.53,
+  "where": "index.html@360",
+  "sel": "P.",
+  "text": "Renovation and construct",
+  "bg": "band"
+ },
+ "touch": {},
+ "nojs": [],
+ "shots": [],
+ "allPairs": [
+  {
+   "r": 17.02,
+   "where": "index.html@360",
+   "sel": "A.skip",
+   "t": "Skip to content",
+   "bg": "skip"
+  },
+  {
+   "r": 17.02,
+   "where": "index.html@360",
+   "sel": "BUTTON.burger",
+   "t": "Menu",
+   "bg": "hdr"
+  },
+  {
+   "r": 17.02,
+   "where": "index.html@360",
+   "sel": "H1.",
+   "t": "Ruang dibina dengan rasa",
+   "bg": "BODY"
+  },
+  {
+   "r": 13.44,
+   "where": "index.html@360",
+   "sel": "P.lede",
+   "t": "Renovation and construct",
+   "bg": "BODY"
+  },
+  {
+   "r": 17.02,
+   "where": "index.html@360",
+   "sel": "P.",
+   "t": "From the first consultat",
+   "bg": "BODY"
+  },
+  {
+   "r": 17.02,
+   "where": "index.html@360",
+   "sel": "A.btn",
+   "t": "Get free Quotation",
+   "bg": "btn"
+  },
+  {
+   "r": 17.02,
+   "where": "index.html@360",
+   "sel": "A.btn",
+   "t": "WhatsApp Us",
+   "bg": "BODY"
+  },
+  {
+   "r": 17.02,
+   "where": "index.html@360",
+   "sel": "SPAN.tag",
+   "t": "Foto",
+   "bg": "BODY"
+  },
+  {
+   "r": 13.44,
+   "where": "index.html@360",
+   "sel": "SPAN.",
+   "t": "Ruang tamu sebuah rumah ",
+   "bg": "BODY"
+  },
+  {
+   "r": 17.02,
+   "where": "index.html@360",
+   "sel": "H2.",
+   "t": "Masuk ke dalam rumah",
+   "bg": "BODY"
+  },
+  {
+   "r": 13.44,
+   "where": "index.html@360",
+   "sel": "P.section__stand",
+   "t": "Setiap ruang di bawah ia",
+   "bg": "BODY"
+  },
+  {
+   "r": 17.02,
+   "where": "index.html@360",
+   "sel": "SPAN.tag",
+   "t": "Foto",
+   "bg": "BODY"
+  },
+  {
+   "r": 13.44,
+   "where": "index.html@360",
+   "sel": "SPAN.",
+   "t": "Ruang tamu — tujuh jenis",
+   "bg": "BODY"
+  },
+  {
+   "r": 17.02,
+   "where": "index.html@360",
+   "sel": "SPAN.tag",
+   "t": "Foto",
+   "bg": "BODY"
+  },
+  {
+   "r": 13.44,
+   "where": "index.html@360",
+   "sel": "SPAN.",
+   "t": "Dapur — kitchen renovati",
+   "bg": "BODY"
+  },
+  {
+   "r": 17.02,
+   "where": "index.html@360",
+   "sel": "SPAN.tag",
+   "t": "Foto",
+   "bg": "BODY"
+  },
+  {
+   "r": 13.44,
+   "where": "index.html@360",
+   "sel": "SPAN.",
+   "t": "Tapak — kerja pembinaan ",
+   "bg": "BODY"
+  },
+  {
+   "r": 17.02,
+   "where": "index.html@360",
+   "sel": "H2.",
+   "t": "See the work for yoursel",
+   "bg": "BODY"
+  },
+  {
+   "r": 13.44,
+   "where": "index.html@360",
+   "sel": "P.section__stand",
+   "t": "A collection of work by ",
+   "bg": "BODY"
+  },
+  {
+   "r": 17.02,
+   "where": "index.html@360",
+   "sel": "SPAN.tag",
+   "t": "Foto",
+   "bg": "BODY"
+  },
+  {
+   "r": 13.44,
+   "where": "index.html@360",
+   "sel": "SPAN.",
+   "t": "Bangunan sedia ada, kerj",
+   "bg": "BODY"
+  },
+  {
+   "r": 17.02,
+   "where": "index.html@360",
+   "sel": "SPAN.tag",
+   "t": "Video",
+   "bg": "BODY"
+  },
+  {
+   "r": 13.44,
+   "where": "index.html@360",
+   "sel": "SPAN.",
+   "t": "Unit dalam kerja, kaca &",
+   "bg": "BODY"
+  },
+  {
+   "r": 17.02,
+   "where": "index.html@360",
+   "sel": "SPAN.tag",
+   "t": "Foto",
+   "bg": "BODY"
+  },
+  {
+   "r": 13.44,
+   "where": "index.html@360",
+   "sel": "SPAN.",
+   "t": "Ruang dalaman, tingkap b",
+   "bg": "BODY"
+  },
+  {
+   "r": 17.02,
+   "where": "index.html@360",
+   "sel": "SPAN.tag",
+   "t": "Render",
+   "bg": "BODY"
+  },
+  {
+   "r": 13.44,
+   "where": "index.html@360",
+   "sel": "SPAN.",
+   "t": "Dry Kitchen",
+   "bg": "BODY"
+  },
+  {
+   "r": 17.02,
+   "where": "index.html@360",
+   "sel": "SPAN.tag",
+   "t": "Video",
+   "bg": "BODY"
+  },
+  {
+   "r": 13.44,
+   "where": "index.html@360",
+   "sel": "SPAN.",
+   "t": "Unit komersial, partitio",
+   "bg": "BODY"
+  },
+  {
+   "r": 17.02,
+   "where": "index.html@360",
+   "sel": "SPAN.tag",
+   "t": "Foto",
+   "bg": "BODY"
+  },
+  {
+   "r": 13.44,
+   "where": "index.html@360",
+   "sel": "SPAN.",
+   "t": "Kerja luaran, scaffold",
+   "bg": "BODY"
+  },
+  {
+   "r": 17.02,
+   "where": "index.html@360",
+   "sel": "A.btn",
+   "t": "All work",
+   "bg": "BODY"
+  },
+  {
+   "r": 13.44,
+   "where": "index.html@360",
+   "sel": "H2.",
+   "t": "One team. One project. O",
+   "bg": "band"
+  },
+  {
+   "r": 10.53,
+   "where": "index.html@360",
+   "sel": "P.",
+   "t": "Renovation and construct",
+   "bg": "band"
+  },
+  {
+   "r": 10.53,
+   "where": "index.html@360",
+   "sel": "P.",
+   "t": "With Bina Haus, you have",
+   "bg": "band"
+  },
+  {
+   "r": 10.53,
+   "where": "index.html@360",
+   "sel": "P.",
+   "t": "From consultation and si",
+   "bg": "band"
+  },
+  {
+   "r": 13.44,
+   "where": "index.html@360",
+   "sel": "P.pull",
+   "t": "One project. One point o",
+   "bg": "band"
+  },
+  {
+   "r": 13.33,
+   "where": "index.html@360",
+   "sel": "H2.",
+   "t": "Planning to renovate you",
+   "bg": "cta"
+  },
+  {
+   "r": 10.53,
+   "where": "index.html@360",
+   "sel": "P.",
+   "t": "Tell us what you need an",
+   "bg": "cta"
+  },
+  {
+   "r": 17.02,
+   "where": "index.html@360",
+   "sel": "A.btn",
+   "t": "Get free Quotations",
+   "bg": "btn"
+  },
+  {
+   "r": 13.33,
+   "where": "index.html@360",
+   "sel": "A.btn",
+   "t": "WhatsApp Us",
+   "bg": "cta"
+  },
+  {
+   "r": 13.44,
+   "where": "index.html@360",
+   "sel": "P.ftr__tag",
+   "t": "Ruang dibina dengan rasa",
+   "bg": "ftr"
+  },
+  {
+   "r": 17.02,
+   "where": "index.html@360",
+   "sel": "P.ftr__site",
+   "t": "· Renovation & Construct",
+   "bg": "ftr"
+  },
+  {
+   "r": 17.02,
+   "where": "index.html@360",
+   "sel": "A.",
+   "t": "binahaus.com",
+   "bg": "ftr"
+  },
+  {
+   "r": 13.44,
+   "where": "index.html@360",
+   "sel": "P.ftr__label",
+   "t": "Contact",
+   "bg": "ftr"
+  },
+  {
+   "r": 17.02,
+   "where": "index.html@360",
+   "sel": "A.",
+   "t": "WhatsApp +60 11-1124 463",
+   "bg": "ftr"
+  },
+  {
+   "r": 17.02,
+   "where": "index.html@360",
+   "sel": "A.",
+   "t": "Contact",
+   "bg": "ftr"
+  },
+  {
+   "r": 13.44,
+   "where": "index.html@360",
+   "sel": "P.ftr__label",
+   "t": "Navigation",
+   "bg": "ftr"
+  },
+  {
+   "r": 17.02,
+   "where": "index.html@360",
+   "sel": "A.",
+   "t": "Services",
+   "bg": "ftr"
+  },
+  {
+   "r": 17.02,
+   "where": "index.html@360",
+   "sel": "A.",
+   "t": "Our Work",
+   "bg": "ftr"
+  },
+  {
+   "r": 17.02,
+   "where": "index.html@360",
+   "sel": "A.",
+   "t": "Cara Kami Kerja",
+   "bg": "ftr"
+  },
+  {
+   "r": 17.02,
+   "where": "index.html@360",
+   "sel": "A.",
+   "t": "About Us",
+   "bg": "ftr"
+  },
+  {
+   "r": 17.02,
+   "where": "index.html@360",
+   "sel": "A.",
+   "t": "Profil Syarikat",
+   "bg": "ftr"
+  },
+  {
+   "r": 17.02,
+   "where": "index.html@360",
+   "sel": "A.",
+   "t": "Contact",
+   "bg": "ftr"
+  },
+  {
+   "r": 13.44,
+   "where": "index.html@360",
+   "sel": "SPAN.",
+   "t": "© 2026 Bina Haus. All ri",
+   "bg": "ftr"
+  },
+  {
+   "r": 13.44,
+   "where": "index.html@360",
+   "sel": "SPAN.",
+   "t": "Look preview: arah 05 “S",
+   "bg": "ftr"
+  },
+  {
+   "r": 17.02,
+   "where": "perkhidmatan.html@360",
+   "sel": "A.skip",
+   "t": "Skip to content",
+   "bg": "skip"
+  },
+  {
+   "r": 17.02,
+   "where": "perkhidmatan.html@360",
+   "sel": "BUTTON.burger",
+   "t": "Menu",
+   "bg": "hdr"
+  },
+  {
+   "r": 17.02,
+   "where": "perkhidmatan.html@360",
+   "sel": "H1.",
+   "t": "Services",
+   "bg": "BODY"
+  },
+  {
+   "r": 13.44,
+   "where": "perkhidmatan.html@360",
+   "sel": "P.section__stand",
+   "t": "Whether you're renovatin",
+   "bg": "BODY"
+  },
+  {
+   "r": 17.02,
+   "where": "perkhidmatan.html@360",
+   "sel": "H2.",
+   "t": "Renovations",
+   "bg": "BODY"
+  },
+  {
+   "r": 13.44,
+   "where": "perkhidmatan.html@360",
+   "sel": "P.section__stand",
+   "t": "A better space starts wi",
+   "bg": "BODY"
+  },
+  {
+   "r": 13.44,
+   "where": "perkhidmatan.html@360",
+   "sel": "SPAN.n",
+   "t": "01",
+   "bg": "BODY"
+  },
+  {
+   "r": 17.02,
+   "where": "perkhidmatan.html@360",
+   "sel": "B.",
+   "t": "Full house Renovation",
+   "bg": "BODY"
+  },
+  {
+   "r": 13.44,
+   "where": "perkhidmatan.html@360",
+   "sel": "P.",
+   "t": "Give your existing home ",
+   "bg": "BODY"
+  },
+  {
+   "r": 13.44,
+   "where": "perkhidmatan.html@360",
+   "sel": "SPAN.n",
+   "t": "02",
+   "bg": "BODY"
+  },
+  {
+   "r": 17.02,
+   "where": "perkhidmatan.html@360",
+   "sel": "B.",
+   "t": "Kitchen renovations",
+   "bg": "BODY"
+  },
+  {
+   "r": 13.44,
+   "where": "perkhidmatan.html@360",
+   "sel": "P.",
+   "t": "Upgrade your kitchen int",
+   "bg": "BODY"
+  },
+  {
+   "r": 13.44,
+   "where": "perkhidmatan.html@360",
+   "sel": "SPAN.n",
+   "t": "03",
+   "bg": "BODY"
+  },
+  {
+   "r": 17.02,
+   "where": "perkhidmatan.html@360",
+   "sel": "B.",
+   "t": "Extension",
+   "bg": "BODY"
+  },
+  {
+   "r": 13.44,
+   "where": "perkhidmatan.html@360",
+   "sel": "P.",
+   "t": "Create the additional sp",
+   "bg": "BODY"
+  },
+  {
+   "r": 13.44,
+   "where": "perkhidmatan.html@360",
+   "sel": "SPAN.n",
+   "t": "04",
+   "bg": "BODY"
+  },
+  {
+   "r": 17.02,
+   "where": "perkhidmatan.html@360",
+   "sel": "B.",
+   "t": "Flooring",
+   "bg": "BODY"
+  },
+  {
+   "r": 13.44,
+   "where": "perkhidmatan.html@360",
+   "sel": "P.",
+   "t": "Refresh your space from ",
+   "bg": "BODY"
+  },
+  {
+   "r": 13.44,
+   "where": "perkhidmatan.html@360",
+   "sel": "SPAN.n",
+   "t": "05",
+   "bg": "BODY"
+  },
+  {
+   "r": 17.02,
+   "where": "perkhidmatan.html@360",
+   "sel": "B.",
+   "t": "Plaster Ceiling",
+   "bg": "BODY"
+  },
+  {
+   "r": 13.44,
+   "where": "perkhidmatan.html@360",
+   "sel": "P.",
+   "t": "Give your interior a cle",
+   "bg": "BODY"
+  },
+  {
+   "r": 13.44,
+   "where": "perkhidmatan.html@360",
+   "sel": "SPAN.n",
+   "t": "06",
+   "bg": "BODY"
+  },
+  {
+   "r": 17.02,
+   "where": "perkhidmatan.html@360",
+   "sel": "B.",
+   "t": "Painting",
+   "bg": "BODY"
+  },
+  {
+   "r": 13.44,
+   "where": "perkhidmatan.html@360",
+   "sel": "P.",
+   "t": "Refresh the look and fee",
+   "bg": "BODY"
+  },
+  {
+   "r": 13.44,
+   "where": "perkhidmatan.html@360",
+   "sel": "SPAN.n",
+   "t": "07",
+   "bg": "BODY"
+  },
+  {
+   "r": 17.02,
+   "where": "perkhidmatan.html@360",
+   "sel": "B.",
+   "t": "Electrical & Plumbing",
+   "bg": "BODY"
+  },
+  {
+   "r": 13.44,
+   "where": "perkhidmatan.html@360",
+   "sel": "P.",
+   "t": "Essential electrical and",
+   "bg": "BODY"
+  },
+  {
+   "r": 13.33,
+   "where": "perkhidmatan.html@360",
+   "sel": "H2.",
+   "t": "Kitchen renovations",
+   "bg": "section section--raised"
+  },
+  {
+   "r": 10.53,
+   "where": "perkhidmatan.html@360",
+   "sel": "P.section__stand",
+   "t": "Upgrade your kitchen int",
+   "bg": "section section--raised"
+  },
+  {
+   "r": 10.53,
+   "where": "perkhidmatan.html@360",
+   "sel": "P.strip__note",
+   "t": "The two tiles opposite a",
+   "bg": "section section--raised"
+  },
+  {
+   "r": 13.33,
+   "where": "perkhidmatan.html@360",
+   "sel": "SPAN.tag",
+   "t": "Foto",
+   "bg": "section section--raised"
+  },
+  {
+   "r": 10.53,
+   "where": "perkhidmatan.html@360",
+   "sel": "SPAN.",
+   "t": "Dapur selepas kerja — ka",
+   "bg": "section section--raised"
+  },
+  {
+   "r": 13.33,
+   "where": "perkhidmatan.html@360",
+   "sel": "SPAN.tag",
+   "t": "Render",
+   "bg": "section section--raised"
+  },
+  {
+   "r": 10.53,
+   "where": "perkhidmatan.html@360",
+   "sel": "SPAN.",
+   "t": "Kitchen",
+   "bg": "section section--raised"
+  },
+  {
+   "r": 13.33,
+   "where": "perkhidmatan.html@360",
+   "sel": "SPAN.tag",
+   "t": "Render",
+   "bg": "section section--raised"
+  },
+  {
+   "r": 10.53,
+   "where": "perkhidmatan.html@360",
+   "sel": "SPAN.",
+   "t": "Dry Kitchen",
+   "bg": "section section--raised"
+  },
+  {
+   "r": 17.02,
+   "where": "perkhidmatan.html@360",
+   "sel": "H2.",
+   "t": "Construction",
+   "bg": "BODY"
+  },
+  {
+   "r": 13.44,
+   "where": "perkhidmatan.html@360",
+   "sel": "P.section__stand",
+   "t": "Built for what comes nex",
+   "bg": "BODY"
+  },
+  {
+   "r": 13.44,
+   "where": "perkhidmatan.html@360",
+   "sel": "P.section__stand",
+   "t": "Whether you're building ",
+   "bg": "BODY"
+  },
+  {
+   "r": 13.44,
+   "where": "perkhidmatan.html@360",
+   "sel": "SPAN.n",
+   "t": "01",
+   "bg": "BODY"
+  },
+  {
+   "r": 17.02,
+   "where": "perkhidmatan.html@360",
+   "sel": "B.",
+   "t": "New house Constructions",
+   "bg": "BODY"
+  },
+  {
+   "r": 13.44,
+   "where": "perkhidmatan.html@360",
+   "sel": "P.",
+   "t": "Building your new home f",
+   "bg": "BODY"
+  },
+  {
+   "r": 13.44,
+   "where": "perkhidmatan.html@360",
+   "sel": "SPAN.n",
+   "t": "02",
+   "bg": "BODY"
+  },
+  {
+   "r": 17.02,
+   "where": "perkhidmatan.html@360",
+   "sel": "B.",
+   "t": "House Extension",
+   "bg": "BODY"
+  },
+  {
+   "r": 13.44,
+   "where": "perkhidmatan.html@360",
+   "sel": "P.",
+   "t": "Add the extra space your",
+   "bg": "BODY"
+  },
+  {
+   "r": 13.44,
+   "where": "perkhidmatan.html@360",
+   "sel": "SPAN.n",
+   "t": "03",
+   "bg": "BODY"
+  },
+  {
+   "r": 17.02,
+   "where": "perkhidmatan.html@360",
+   "sel": "B.",
+   "t": "Structural Works",
+   "bg": "BODY"
+  },
+  {
+   "r": 13.44,
+   "where": "perkhidmatan.html@360",
+   "sel": "P.",
+   "t": "Structural works require",
+   "bg": "BODY"
+  },
+  {
+   "r": 13.33,
+   "where": "perkhidmatan.html@360",
+   "sel": "H2.",
+   "t": "Structural works",
+   "bg": "section section--raised"
+  },
+  {
+   "r": 10.53,
+   "where": "perkhidmatan.html@360",
+   "sel": "P.section__stand",
+   "t": "Structural works require",
+   "bg": "section section--raised"
+  },
+  {
+   "r": 10.53,
+   "where": "perkhidmatan.html@360",
+   "sel": "P.strip__note",
+   "t": "A site in progress and t",
+   "bg": "section section--raised"
+  },
+  {
+   "r": 13.33,
+   "where": "perkhidmatan.html@360",
+   "sel": "SPAN.tag",
+   "t": "Foto",
+   "bg": "section section--raised"
+  },
+  {
+   "r": 10.53,
+   "where": "perkhidmatan.html@360",
+   "sel": "SPAN.",
+   "t": "Tapak pembinaan: struktu",
+   "bg": "section section--raised"
+  },
+  {
+   "r": 13.33,
+   "where": "perkhidmatan.html@360",
+   "sel": "SPAN.tag",
+   "t": "Foto",
+   "bg": "section section--raised"
+  },
+  {
+   "r": 10.53,
+   "where": "perkhidmatan.html@360",
+   "sel": "SPAN.",
+   "t": "Kerja luaran, scaffold",
+   "bg": "section section--raised"
+  },
+  {
+   "r": 13.33,
+   "where": "perkhidmatan.html@360",
+   "sel": "SPAN.tag",
+   "t": "Foto",
+   "bg": "section section--raised"
+  },
+  {
+   "r": 10.53,
+   "where": "perkhidmatan.html@360",
+   "sel": "SPAN.",
+   "t": "Kerja plaster, dinding b",
+   "bg": "section section--raised"
+  },
+  {
+   "r": 13.33,
+   "where": "perkhidmatan.html@360",
+   "sel": "SPAN.tag",
+   "t": "Video",
+   "bg": "section section--raised"
+  },
+  {
+   "r": 10.53,
+   "where": "perkhidmatan.html@360",
+   "sel": "SPAN.",
+   "t": "Lantai & skirting",
+   "bg": "section section--raised"
+  },
+  {
+   "r": 13.33,
+   "where": "perkhidmatan.html@360",
+   "sel": "SPAN.tag",
+   "t": "Video",
+   "bg": "section section--raised"
+  },
+  {
+   "r": 10.53,
+   "where": "perkhidmatan.html@360",
+   "sel": "SPAN.",
+   "t": "Jubin lantai & dinding",
+   "bg": "section section--raised"
+  },
+  {
+   "r": 13.44,
+   "where": "perkhidmatan.html@360",
+   "sel": "P.ftr__tag",
+   "t": "Ruang dibina dengan rasa",
+   "bg": "ftr"
+  },
+  {
+   "r": 17.02,
+   "where": "perkhidmatan.html@360",
+   "sel": "P.ftr__site",
+   "t": "· Renovation & Construct",
+   "bg": "ftr"
+  },
+  {
+   "r": 17.02,
+   "where": "perkhidmatan.html@360",
+   "sel": "A.",
+   "t": "binahaus.com",
+   "bg": "ftr"
+  },
+  {
+   "r": 13.44,
+   "where": "perkhidmatan.html@360",
+   "sel": "P.ftr__label",
+   "t": "Contact",
+   "bg": "ftr"
+  },
+  {
+   "r": 17.02,
+   "where": "perkhidmatan.html@360",
+   "sel": "A.",
+   "t": "WhatsApp +60 11-1124 463",
+   "bg": "ftr"
+  },
+  {
+   "r": 17.02,
+   "where": "perkhidmatan.html@360",
+   "sel": "A.",
+   "t": "Contact",
+   "bg": "ftr"
+  },
+  {
+   "r": 13.44,
+   "where": "perkhidmatan.html@360",
+   "sel": "P.ftr__label",
+   "t": "Navigation",
+   "bg": "ftr"
+  },
+  {
+   "r": 17.02,
+   "where": "perkhidmatan.html@360",
+   "sel": "A.",
+   "t": "Services",
+   "bg": "ftr"
+  },
+  {
+   "r": 17.02,
+   "where": "perkhidmatan.html@360",
+   "sel": "A.",
+   "t": "Our Work",
+   "bg": "ftr"
+  },
+  {
+   "r": 17.02,
+   "where": "perkhidmatan.html@360",
+   "sel": "A.",
+   "t": "Cara Kami Kerja",
+   "bg": "ftr"
+  },
+  {
+   "r": 17.02,
+   "where": "perkhidmatan.html@360",
+   "sel": "A.",
+   "t": "About Us",
+   "bg": "ftr"
+  },
+  {
+   "r": 17.02,
+   "where": "perkhidmatan.html@360",
+   "sel": "A.",
+   "t": "Profil Syarikat",
+   "bg": "ftr"
+  },
+  {
+   "r": 17.02,
+   "where": "perkhidmatan.html@360",
+   "sel": "A.",
+   "t": "Contact",
+   "bg": "ftr"
+  },
+  {
+   "r": 13.44,
+   "where": "perkhidmatan.html@360",
+   "sel": "SPAN.",
+   "t": "© 2026 Bina Haus. All ri",
+   "bg": "ftr"
+  },
+  {
+   "r": 13.44,
+   "where": "perkhidmatan.html@360",
+   "sel": "SPAN.",
+   "t": "Look preview: arah 05 “S",
+   "bg": "ftr"
+  },
+  {
+   "r": 17.02,
+   "where": "kerja.html@360",
+   "sel": "A.skip",
+   "t": "Skip to content",
+   "bg": "skip"
+  },
+  {
+   "r": 17.02,
+   "where": "kerja.html@360",
+   "sel": "BUTTON.burger",
+   "t": "Menu",
+   "bg": "hdr"
+  },
+  {
+   "r": 17.02,
+   "where": "kerja.html@360",
+   "sel": "H1.",
+   "t": "Our Work",
+   "bg": "BODY"
+  },
+  {
+   "r": 13.44,
+   "where": "kerja.html@360",
+   "sel": "P.section__stand",
+   "t": "A collection of work by ",
+   "bg": "BODY"
+  },
+  {
+   "r": 17.02,
+   "where": "kerja.html@360",
+   "sel": "H2.",
+   "t": "See the work for yoursel",
+   "bg": "BODY"
+  },
+  {
+   "r": 13.44,
+   "where": "kerja.html@360",
+   "sel": "P.section__stand",
+   "t": "Photographs, 3D renders ",
+   "bg": "BODY"
+  },
+  {
+   "r": 17.02,
+   "where": "kerja.html@360",
+   "sel": "SPAN.tag",
+   "t": "Foto",
+   "bg": "BODY"
+  },
+  {
+   "r": 13.44,
+   "where": "kerja.html@360",
+   "sel": "SPAN.",
+   "t": "Bangunan sedia ada, kerj",
+   "bg": "BODY"
+  },
+  {
+   "r": 17.02,
+   "where": "kerja.html@360",
+   "sel": "SPAN.tag",
+   "t": "Video",
+   "bg": "BODY"
+  },
+  {
+   "r": 13.44,
+   "where": "kerja.html@360",
+   "sel": "SPAN.",
+   "t": "Unit dalam kerja, kaca &",
+   "bg": "BODY"
+  },
+  {
+   "r": 17.02,
+   "where": "kerja.html@360",
+   "sel": "SPAN.tag",
+   "t": "Foto",
+   "bg": "BODY"
+  },
+  {
+   "r": 13.44,
+   "where": "kerja.html@360",
+   "sel": "SPAN.",
+   "t": "Ruang dalaman, tingkap b",
+   "bg": "BODY"
+  },
+  {
+   "r": 17.02,
+   "where": "kerja.html@360",
+   "sel": "SPAN.tag",
+   "t": "Render",
+   "bg": "BODY"
+  },
+  {
+   "r": 13.44,
+   "where": "kerja.html@360",
+   "sel": "SPAN.",
+   "t": "Dry Kitchen",
+   "bg": "BODY"
+  },
+  {
+   "r": 17.02,
+   "where": "kerja.html@360",
+   "sel": "SPAN.tag",
+   "t": "Video",
+   "bg": "BODY"
+  },
+  {
+   "r": 13.44,
+   "where": "kerja.html@360",
+   "sel": "SPAN.",
+   "t": "Unit komersial, partitio",
+   "bg": "BODY"
+  },
+  {
+   "r": 17.02,
+   "where": "kerja.html@360",
+   "sel": "SPAN.tag",
+   "t": "Foto",
+   "bg": "BODY"
+  },
+  {
+   "r": 13.44,
+   "where": "kerja.html@360",
+   "sel": "SPAN.",
+   "t": "Kerja luaran, scaffold",
+   "bg": "BODY"
+  },
+  {
+   "r": 17.02,
+   "where": "kerja.html@360",
+   "sel": "SPAN.tag",
+   "t": "Foto",
+   "bg": "BODY"
+  },
+  {
+   "r": 13.44,
+   "where": "kerja.html@360",
+   "sel": "SPAN.",
+   "t": "Ruang dalaman, lantai ka",
+   "bg": "BODY"
+  },
+  {
+   "r": 17.02,
+   "where": "kerja.html@360",
+   "sel": "SPAN.tag",
+   "t": "Video",
+   "bg": "BODY"
+  },
+  {
+   "r": 13.44,
+   "where": "kerja.html@360",
+   "sel": "SPAN.",
+   "t": "Jubin lantai",
+   "bg": "BODY"
+  },
+  {
+   "r": 17.02,
+   "where": "kerja.html@360",
+   "sel": "SPAN.tag",
+   "t": "Render",
+   "bg": "BODY"
+  },
+  {
+   "r": 13.44,
+   "where": "kerja.html@360",
+   "sel": "SPAN.",
+   "t": "Living and Dining",
+   "bg": "BODY"
+  },
+  {
+   "r": 17.02,
+   "where": "kerja.html@360",
+   "sel": "SPAN.tag",
+   "t": "Foto",
+   "bg": "BODY"
+  },
+  {
+   "r": 13.44,
+   "where": "kerja.html@360",
+   "sel": "SPAN.",
+   "t": "Tapak kerja, kayu di lan",
+   "bg": "BODY"
+  },
+  {
+   "r": 17.02,
+   "where": "kerja.html@360",
+   "sel": "SPAN.tag",
+   "t": "Video",
+   "bg": "BODY"
+  },
+  {
+   "r": 13.44,
+   "where": "kerja.html@360",
+   "sel": "SPAN.",
+   "t": "Pintu & dinding",
+   "bg": "BODY"
+  },
+  {
+   "r": 17.02,
+   "where": "kerja.html@360",
+   "sel": "SPAN.tag",
+   "t": "Foto",
+   "bg": "BODY"
+  },
+  {
+   "r": 13.44,
+   "where": "kerja.html@360",
+   "sel": "SPAN.",
+   "t": "Ruang kosong, lantai kay",
+   "bg": "BODY"
+  },
+  {
+   "r": 17.02,
+   "where": "kerja.html@360",
+   "sel": "SPAN.tag",
+   "t": "Render",
+   "bg": "BODY"
+  },
+  {
+   "r": 13.44,
+   "where": "kerja.html@360",
+   "sel": "SPAN.",
+   "t": "Walk-in Wardrobe",
+   "bg": "BODY"
+  },
+  {
+   "r": 17.02,
+   "where": "kerja.html@360",
+   "sel": "SPAN.tag",
+   "t": "Video",
+   "bg": "BODY"
+  },
+  {
+   "r": 13.44,
+   "where": "kerja.html@360",
+   "sel": "SPAN.",
+   "t": "Kerja hacking & peroboha",
+   "bg": "BODY"
+  },
+  {
+   "r": 17.02,
+   "where": "kerja.html@360",
+   "sel": "SPAN.tag",
+   "t": "Foto",
+   "bg": "BODY"
+  },
+  {
+   "r": 13.44,
+   "where": "kerja.html@360",
+   "sel": "SPAN.",
+   "t": "Kerja plaster, dinding b",
+   "bg": "BODY"
+  },
+  {
+   "r": 17.02,
+   "where": "kerja.html@360",
+   "sel": "SPAN.tag",
+   "t": "Render",
+   "bg": "BODY"
+  },
+  {
+   "r": 13.44,
+   "where": "kerja.html@360",
+   "sel": "SPAN.",
+   "t": "Living Area",
+   "bg": "BODY"
+  },
+  {
+   "r": 17.02,
+   "where": "kerja.html@360",
+   "sel": "SPAN.tag",
+   "t": "Video",
+   "bg": "BODY"
+  },
+  {
+   "r": 13.44,
+   "where": "kerja.html@360",
+   "sel": "SPAN.",
+   "t": "Jubin lantai & dinding",
+   "bg": "BODY"
+  },
+  {
+   "r": 17.02,
+   "where": "kerja.html@360",
+   "sel": "SPAN.tag",
+   "t": "Foto",
+   "bg": "BODY"
+  },
+  {
+   "r": 13.44,
+   "where": "kerja.html@360",
+   "sel": "SPAN.",
+   "t": "Ruang kosong, lantai kay",
+   "bg": "BODY"
+  },
+  {
+   "r": 17.02,
+   "where": "kerja.html@360",
+   "sel": "SPAN.tag",
+   "t": "Render",
+   "bg": "BODY"
+  },
+  {
+   "r": 13.44,
+   "where": "kerja.html@360",
+   "sel": "SPAN.",
+   "t": "Kitchen",
+   "bg": "BODY"
+  },
+  {
+   "r": 17.02,
+   "where": "kerja.html@360",
+   "sel": "SPAN.tag",
+   "t": "Video",
+   "bg": "BODY"
+  },
+  {
+   "r": 13.44,
+   "where": "kerja.html@360",
+   "sel": "SPAN.",
+   "t": "Lantai & skirting",
+   "bg": "BODY"
+  },
+  {
+   "r": 13.44,
+   "where": "kerja.html@360",
+   "sel": "P.strip__note",
+   "t": "Media di atas ialah aset",
+   "bg": "BODY"
+  },
+  {
+   "r": 13.44,
+   "where": "kerja.html@360",
+   "sel": "P.ftr__tag",
+   "t": "Ruang dibina dengan rasa",
+   "bg": "ftr"
+  },
+  {
+   "r": 17.02,
+   "where": "kerja.html@360",
+   "sel": "P.ftr__site",
+   "t": "· Renovation & Construct",
+   "bg": "ftr"
+  },
+  {
+   "r": 17.02,
+   "where": "kerja.html@360",
+   "sel": "A.",
+   "t": "binahaus.com",
+   "bg": "ftr"
+  },
+  {
+   "r": 13.44,
+   "where": "kerja.html@360",
+   "sel": "P.ftr__label",
+   "t": "Contact",
+   "bg": "ftr"
+  },
+  {
+   "r": 17.02,
+   "where": "kerja.html@360",
+   "sel": "A.",
+   "t": "WhatsApp +60 11-1124 463",
+   "bg": "ftr"
+  },
+  {
+   "r": 17.02,
+   "where": "kerja.html@360",
+   "sel": "A.",
+   "t": "Contact",
+   "bg": "ftr"
+  },
+  {
+   "r": 13.44,
+   "where": "kerja.html@360",
+   "sel": "P.ftr__label",
+   "t": "Navigation",
+   "bg": "ftr"
+  },
+  {
+   "r": 17.02,
+   "where": "kerja.html@360",
+   "sel": "A.",
+   "t": "Services",
+   "bg": "ftr"
+  },
+  {
+   "r": 17.02,
+   "where": "kerja.html@360",
+   "sel": "A.",
+   "t": "Our Work",
+   "bg": "ftr"
+  },
+  {
+   "r": 17.02,
+   "where": "kerja.html@360",
+   "sel": "A.",
+   "t": "Cara Kami Kerja",
+   "bg": "ftr"
+  },
+  {
+   "r": 17.02,
+   "where": "kerja.html@360",
+   "sel": "A.",
+   "t": "About Us",
+   "bg": "ftr"
+  },
+  {
+   "r": 17.02,
+   "where": "kerja.html@360",
+   "sel": "A.",
+   "t": "Profil Syarikat",
+   "bg": "ftr"
+  },
+  {
+   "r": 17.02,
+   "where": "kerja.html@360",
+   "sel": "A.",
+   "t": "Contact",
+   "bg": "ftr"
+  },
+  {
+   "r": 13.44,
+   "where": "kerja.html@360",
+   "sel": "SPAN.",
+   "t": "© 2026 Bina Haus. All ri",
+   "bg": "ftr"
+  },
+  {
+   "r": 13.44,
+   "where": "kerja.html@360",
+   "sel": "SPAN.",
+   "t": "Look preview: arah 05 “S",
+   "bg": "ftr"
+  },
+  {
+   "r": 17.02,
+   "where": "cara.html@360",
+   "sel": "A.skip",
+   "t": "Skip to content",
+   "bg": "skip"
+  },
+  {
+   "r": 17.02,
+   "where": "cara.html@360",
+   "sel": "BUTTON.burger",
+   "t": "Menu",
+   "bg": "hdr"
+  },
+  {
+   "r": 17.02,
+   "where": "cara.html@360",
+   "sel": "H1.",
+   "t": "Cara Kami Kerja",
+   "bg": "BODY"
+  },
+  {
+   "r": 13.44,
+   "where": "cara.html@360",
+   "sel": "P.section__stand",
+   "t": "Satu proses yang jelas, ",
+   "bg": "BODY"
+  },
+  {
+   "r": 17.02,
+   "where": "cara.html@360",
+   "sel": "H2.",
+   "t": "A clear process from sta",
+   "bg": "BODY"
+  },
+  {
+   "r": 13.44,
+   "where": "cara.html@360",
+   "sel": "SPAN.n",
+   "t": "01",
+   "bg": "BODY"
+  },
+  {
+   "r": 17.02,
+   "where": "cara.html@360",
+   "sel": "H3.",
+   "t": "Consultation",
+   "bg": "BODY"
+  },
+  {
+   "r": 13.44,
+   "where": "cara.html@360",
+   "sel": "P.",
+   "t": "We start by understandin",
+   "bg": "BODY"
+  },
+  {
+   "r": 13.44,
+   "where": "cara.html@360",
+   "sel": "SPAN.n",
+   "t": "02",
+   "bg": "BODY"
+  },
+  {
+   "r": 17.02,
+   "where": "cara.html@360",
+   "sel": "H3.",
+   "t": "Site Visit",
+   "bg": "BODY"
+  },
+  {
+   "r": 13.44,
+   "where": "cara.html@360",
+   "sel": "P.",
+   "t": "Our team visits the site",
+   "bg": "BODY"
+  },
+  {
+   "r": 13.44,
+   "where": "cara.html@360",
+   "sel": "SPAN.n",
+   "t": "03",
+   "bg": "BODY"
+  },
+  {
+   "r": 17.02,
+   "where": "cara.html@360",
+   "sel": "H3.",
+   "t": "Quotations",
+   "bg": "BODY"
+  },
+  {
+   "r": 13.44,
+   "where": "cara.html@360",
+   "sel": "P.",
+   "t": "You receive a quotation ",
+   "bg": "BODY"
+  },
+  {
+   "r": 13.44,
+   "where": "cara.html@360",
+   "sel": "SPAN.n",
+   "t": "04",
+   "bg": "BODY"
+  },
+  {
+   "r": 17.02,
+   "where": "cara.html@360",
+   "sel": "H3.",
+   "t": "Construction",
+   "bg": "BODY"
+  },
+  {
+   "r": 13.44,
+   "where": "cara.html@360",
+   "sel": "P.",
+   "t": "Once everything is agree",
+   "bg": "BODY"
+  },
+  {
+   "r": 13.44,
+   "where": "cara.html@360",
+   "sel": "SPAN.n",
+   "t": "05",
+   "bg": "BODY"
+  },
+  {
+   "r": 17.02,
+   "where": "cara.html@360",
+   "sel": "H3.",
+   "t": "Handover",
+   "bg": "BODY"
+  },
+  {
+   "r": 13.44,
+   "where": "cara.html@360",
+   "sel": "P.",
+   "t": "When the work is complet",
+   "bg": "BODY"
+  },
+  {
+   "r": 13.33,
+   "where": "cara.html@360",
+   "sel": "H2.",
+   "t": "One team. One project. O",
+   "bg": "section section--raised"
+  },
+  {
+   "r": 10.53,
+   "where": "cara.html@360",
+   "sel": "P.section__stand",
+   "t": "From consultation and si",
+   "bg": "section section--raised"
+  },
+  {
+   "r": 13.33,
+   "where": "cara.html@360",
+   "sel": "SPAN.tag",
+   "t": "Foto",
+   "bg": "section section--raised"
+  },
+  {
+   "r": 10.53,
+   "where": "cara.html@360",
+   "sel": "SPAN.",
+   "t": "Pasukan di tapak kerja, ",
+   "bg": "section section--raised"
+  },
+  {
+   "r": 13.33,
+   "where": "cara.html@360",
+   "sel": "SPAN.tag",
+   "t": "Foto",
+   "bg": "section section--raised"
+  },
+  {
+   "r": 10.53,
+   "where": "cara.html@360",
+   "sel": "SPAN.",
+   "t": "Kerja dalaman dalam pros",
+   "bg": "section section--raised"
+  },
+  {
+   "r": 13.44,
+   "where": "cara.html@360",
+   "sel": "P.ftr__tag",
+   "t": "Ruang dibina dengan rasa",
+   "bg": "ftr"
+  },
+  {
+   "r": 17.02,
+   "where": "cara.html@360",
+   "sel": "P.ftr__site",
+   "t": "· Renovation & Construct",
+   "bg": "ftr"
+  },
+  {
+   "r": 17.02,
+   "where": "cara.html@360",
+   "sel": "A.",
+   "t": "binahaus.com",
+   "bg": "ftr"
+  },
+  {
+   "r": 13.44,
+   "where": "cara.html@360",
+   "sel": "P.ftr__label",
+   "t": "Contact",
+   "bg": "ftr"
+  },
+  {
+   "r": 17.02,
+   "where": "cara.html@360",
+   "sel": "A.",
+   "t": "WhatsApp +60 11-1124 463",
+   "bg": "ftr"
+  },
+  {
+   "r": 17.02,
+   "where": "cara.html@360",
+   "sel": "A.",
+   "t": "Contact",
+   "bg": "ftr"
+  },
+  {
+   "r": 13.44,
+   "where": "cara.html@360",
+   "sel": "P.ftr__label",
+   "t": "Navigation",
+   "bg": "ftr"
+  },
+  {
+   "r": 17.02,
+   "where": "cara.html@360",
+   "sel": "A.",
+   "t": "Services",
+   "bg": "ftr"
+  },
+  {
+   "r": 17.02,
+   "where": "cara.html@360",
+   "sel": "A.",
+   "t": "Our Work",
+   "bg": "ftr"
+  },
+  {
+   "r": 17.02,
+   "where": "cara.html@360",
+   "sel": "A.",
+   "t": "Cara Kami Kerja",
+   "bg": "ftr"
+  },
+  {
+   "r": 17.02,
+   "where": "cara.html@360",
+   "sel": "A.",
+   "t": "About Us",
+   "bg": "ftr"
+  },
+  {
+   "r": 17.02,
+   "where": "cara.html@360",
+   "sel": "A.",
+   "t": "Profil Syarikat",
+   "bg": "ftr"
+  },
+  {
+   "r": 17.02,
+   "where": "cara.html@360",
+   "sel": "A.",
+   "t": "Contact",
+   "bg": "ftr"
+  },
+  {
+   "r": 13.44,
+   "where": "cara.html@360",
+   "sel": "SPAN.",
+   "t": "© 2026 Bina Haus. All ri",
+   "bg": "ftr"
+  },
+  {
+   "r": 13.44,
+   "where": "cara.html@360",
+   "sel": "SPAN.",
+   "t": "Look preview: arah 05 “S",
+   "bg": "ftr"
+  },
+  {
+   "r": 17.02,
+   "where": "tentang.html@360",
+   "sel": "A.skip",
+   "t": "Skip to content",
+   "bg": "skip"
+  },
+  {
+   "r": 17.02,
+   "where": "tentang.html@360",
+   "sel": "BUTTON.burger",
+   "t": "Menu",
+   "bg": "hdr"
+  },
+  {
+   "r": 17.02,
+   "where": "tentang.html@360",
+   "sel": "H1.",
+   "t": "About Us",
+   "bg": "BODY"
+  },
+  {
+   "r": 13.44,
+   "where": "tentang.html@360",
+   "sel": "P.section__stand",
+   "t": "Bina Haus is a renovatio",
+   "bg": "BODY"
+  },
+  {
+   "r": 17.02,
+   "where": "tentang.html@360",
+   "sel": "H2.",
+   "t": "We build spaces for ever",
+   "bg": "BODY"
+  },
+  {
+   "r": 17.02,
+   "where": "tentang.html@360",
+   "sel": "P.",
+   "t": "Our work ranges from ful",
+   "bg": "BODY"
+  },
+  {
+   "r": 17.02,
+   "where": "tentang.html@360",
+   "sel": "P.",
+   "t": "Whatever the scale of th",
+   "bg": "BODY"
+  },
+  {
+   "r": 17.02,
+   "where": "tentang.html@360",
+   "sel": "SPAN.tag",
+   "t": "Foto",
+   "bg": "BODY"
+  },
+  {
+   "r": 13.44,
+   "where": "tentang.html@360",
+   "sel": "SPAN.",
+   "t": "Pasukan Bina Haus di tap",
+   "bg": "BODY"
+  },
+  {
+   "r": 13.33,
+   "where": "tentang.html@360",
+   "sel": "H2.pull",
+   "t": "Ruang dibina dengan rasa",
+   "bg": "section section--raised"
+  },
+  {
+   "r": 13.33,
+   "where": "tentang.html@360",
+   "sel": "P.",
+   "t": "Because a space is more ",
+   "bg": "section section--raised"
+  },
+  {
+   "r": 13.33,
+   "where": "tentang.html@360",
+   "sel": "P.",
+   "t": "So when we build or reno",
+   "bg": "section section--raised"
+  },
+  {
+   "r": 13.33,
+   "where": "tentang.html@360",
+   "sel": "P.tag",
+   "t": "BINA HAUS. RUANG DIBINA ",
+   "bg": "section section--raised"
+  },
+  {
+   "r": 13.44,
+   "where": "tentang.html@360",
+   "sel": "P.ftr__tag",
+   "t": "Ruang dibina dengan rasa",
+   "bg": "ftr"
+  },
+  {
+   "r": 17.02,
+   "where": "tentang.html@360",
+   "sel": "P.ftr__site",
+   "t": "· Renovation & Construct",
+   "bg": "ftr"
+  },
+  {
+   "r": 17.02,
+   "where": "tentang.html@360",
+   "sel": "A.",
+   "t": "binahaus.com",
+   "bg": "ftr"
+  },
+  {
+   "r": 13.44,
+   "where": "tentang.html@360",
+   "sel": "P.ftr__label",
+   "t": "Contact",
+   "bg": "ftr"
+  },
+  {
+   "r": 17.02,
+   "where": "tentang.html@360",
+   "sel": "A.",
+   "t": "WhatsApp +60 11-1124 463",
+   "bg": "ftr"
+  },
+  {
+   "r": 17.02,
+   "where": "tentang.html@360",
+   "sel": "A.",
+   "t": "Contact",
+   "bg": "ftr"
+  },
+  {
+   "r": 13.44,
+   "where": "tentang.html@360",
+   "sel": "P.ftr__label",
+   "t": "Navigation",
+   "bg": "ftr"
+  },
+  {
+   "r": 17.02,
+   "where": "tentang.html@360",
+   "sel": "A.",
+   "t": "Services",
+   "bg": "ftr"
+  },
+  {
+   "r": 17.02,
+   "where": "tentang.html@360",
+   "sel": "A.",
+   "t": "Our Work",
+   "bg": "ftr"
+  },
+  {
+   "r": 17.02,
+   "where": "tentang.html@360",
+   "sel": "A.",
+   "t": "Cara Kami Kerja",
+   "bg": "ftr"
+  },
+  {
+   "r": 17.02,
+   "where": "tentang.html@360",
+   "sel": "A.",
+   "t": "About Us",
+   "bg": "ftr"
+  },
+  {
+   "r": 17.02,
+   "where": "tentang.html@360",
+   "sel": "A.",
+   "t": "Profil Syarikat",
+   "bg": "ftr"
+  },
+  {
+   "r": 17.02,
+   "where": "tentang.html@360",
+   "sel": "A.",
+   "t": "Contact",
+   "bg": "ftr"
+  },
+  {
+   "r": 13.44,
+   "where": "tentang.html@360",
+   "sel": "SPAN.",
+   "t": "© 2026 Bina Haus. All ri",
+   "bg": "ftr"
+  },
+  {
+   "r": 13.44,
+   "where": "tentang.html@360",
+   "sel": "SPAN.",
+   "t": "Look preview: arah 05 “S",
+   "bg": "ftr"
+  },
+  {
+   "r": 17.02,
+   "where": "syarikat.html@360",
+   "sel": "A.skip",
+   "t": "Skip to content",
+   "bg": "skip"
+  },
+  {
+   "r": 17.02,
+   "where": "syarikat.html@360",
+   "sel": "BUTTON.burger",
+   "t": "Menu",
+   "bg": "hdr"
+  },
+  {
+   "r": 17.02,
+   "where": "syarikat.html@360",
+   "sel": "H1.",
+   "t": "Profil Syarikat",
+   "bg": "BODY"
+  },
+  {
+   "r": 13.44,
+   "where": "syarikat.html@360",
+   "sel": "P.section__stand",
+   "t": "Everything the company p",
+   "bg": "BODY"
+  },
+  {
+   "r": 17.02,
+   "where": "syarikat.html@360",
+   "sel": "H2.",
+   "t": "BINA HAUS — Ruang dibina",
+   "bg": "BODY"
+  },
+  {
+   "r": 13.44,
+   "where": "syarikat.html@360",
+   "sel": "DT.",
+   "t": "Nama syarikat",
+   "bg": "BODY"
+  },
+  {
+   "r": 17.02,
+   "where": "syarikat.html@360",
+   "sel": "DD.",
+   "t": "Bina Haus",
+   "bg": "BODY"
+  },
+  {
+   "r": 13.44,
+   "where": "syarikat.html@360",
+   "sel": "SMALL.",
+   "t": "Seperti yang dipaparkan ",
+   "bg": "BODY"
+  },
+  {
+   "r": 13.44,
+   "where": "syarikat.html@360",
+   "sel": "DT.",
+   "t": "Bidang",
+   "bg": "BODY"
+  },
+  {
+   "r": 17.02,
+   "where": "syarikat.html@360",
+   "sel": "DD.",
+   "t": "Renovation and construct",
+   "bg": "BODY"
+  },
+  {
+   "r": 13.44,
+   "where": "syarikat.html@360",
+   "sel": "SMALL.",
+   "t": "Homes, offices and comme",
+   "bg": "BODY"
+  },
+  {
+   "r": 13.44,
+   "where": "syarikat.html@360",
+   "sel": "DT.",
+   "t": "Skop kerja — renovasi",
+   "bg": "BODY"
+  },
+  {
+   "r": 17.02,
+   "where": "syarikat.html@360",
+   "sel": "DD.",
+   "t": "Full house renovation · ",
+   "bg": "BODY"
+  },
+  {
+   "r": 13.44,
+   "where": "syarikat.html@360",
+   "sel": "SMALL.",
+   "t": "7 jenis kerja, seperti d",
+   "bg": "BODY"
+  },
+  {
+   "r": 13.44,
+   "where": "syarikat.html@360",
+   "sel": "DT.",
+   "t": "Skop kerja — pembinaan",
+   "bg": "BODY"
+  },
+  {
+   "r": 17.02,
+   "where": "syarikat.html@360",
+   "sel": "DD.",
+   "t": "New house construction ·",
+   "bg": "BODY"
+  },
+  {
+   "r": 13.44,
+   "where": "syarikat.html@360",
+   "sel": "SMALL.",
+   "t": "3 jenis kerja, seperti d",
+   "bg": "BODY"
+  },
+  {
+   "r": 13.44,
+   "where": "syarikat.html@360",
+   "sel": "DT.",
+   "t": "Proses",
+   "bg": "BODY"
+  },
+  {
+   "r": 17.02,
+   "where": "syarikat.html@360",
+   "sel": "DD.",
+   "t": "Consultation → Site visi",
+   "bg": "BODY"
+  },
+  {
+   "r": 13.44,
+   "where": "syarikat.html@360",
+   "sel": "SMALL.",
+   "t": "Lima langkah yang sama p",
+   "bg": "BODY"
+  },
+  {
+   "r": 13.44,
+   "where": "syarikat.html@360",
+   "sel": "DT.",
+   "t": "Cara kami bekerja",
+   "bg": "BODY"
+  },
+  {
+   "r": 17.02,
+   "where": "syarikat.html@360",
+   "sel": "DD.",
+   "t": "One team. One project. O",
+   "bg": "BODY"
+  },
+  {
+   "r": 13.44,
+   "where": "syarikat.html@360",
+   "sel": "SMALL.",
+   "t": "Satu pasukan dari konsul",
+   "bg": "BODY"
+  },
+  {
+   "r": 13.44,
+   "where": "syarikat.html@360",
+   "sel": "DT.",
+   "t": "Hubungan",
+   "bg": "BODY"
+  },
+  {
+   "r": 17.02,
+   "where": "syarikat.html@360",
+   "sel": "DD.",
+   "t": "WhatsApp +60 11-1124 463",
+   "bg": "BODY"
+  },
+  {
+   "r": 13.44,
+   "where": "syarikat.html@360",
+   "sel": "SMALL.",
+   "t": "Satu-satunya saluran yan",
+   "bg": "BODY"
+  },
+  {
+   "r": 13.44,
+   "where": "syarikat.html@360",
+   "sel": "DT.",
+   "t": "Alamat · E-mel · Pendaft",
+   "bg": "BODY"
+  },
+  {
+   "r": 17.02,
+   "where": "syarikat.html@360",
+   "sel": "DD.",
+   "t": "Belum diterbitkan",
+   "bg": "BODY"
+  },
+  {
+   "r": 13.44,
+   "where": "syarikat.html@360",
+   "sel": "SMALL.",
+   "t": "Laman binahaus.com tidak",
+   "bg": "BODY"
+  },
+  {
+   "r": 13.44,
+   "where": "syarikat.html@360",
+   "sel": "P.plaque__ft",
+   "t": "Profil ini dibaca terus ",
+   "bg": "BODY"
+  },
+  {
+   "r": 13.44,
+   "where": "syarikat.html@360",
+   "sel": "P.ftr__tag",
+   "t": "Ruang dibina dengan rasa",
+   "bg": "ftr"
+  },
+  {
+   "r": 17.02,
+   "where": "syarikat.html@360",
+   "sel": "P.ftr__site",
+   "t": "· Renovation & Construct",
+   "bg": "ftr"
+  },
+  {
+   "r": 17.02,
+   "where": "syarikat.html@360",
+   "sel": "A.",
+   "t": "binahaus.com",
+   "bg": "ftr"
+  },
+  {
+   "r": 13.44,
+   "where": "syarikat.html@360",
+   "sel": "P.ftr__label",
+   "t": "Contact",
+   "bg": "ftr"
+  },
+  {
+   "r": 17.02,
+   "where": "syarikat.html@360",
+   "sel": "A.",
+   "t": "WhatsApp +60 11-1124 463",
+   "bg": "ftr"
+  },
+  {
+   "r": 17.02,
+   "where": "syarikat.html@360",
+   "sel": "A.",
+   "t": "Contact",
+   "bg": "ftr"
+  },
+  {
+   "r": 13.44,
+   "where": "syarikat.html@360",
+   "sel": "P.ftr__label",
+   "t": "Navigation",
+   "bg": "ftr"
+  },
+  {
+   "r": 17.02,
+   "where": "syarikat.html@360",
+   "sel": "A.",
+   "t": "Services",
+   "bg": "ftr"
+  },
+  {
+   "r": 17.02,
+   "where": "syarikat.html@360",
+   "sel": "A.",
+   "t": "Our Work",
+   "bg": "ftr"
+  },
+  {
+   "r": 17.02,
+   "where": "syarikat.html@360",
+   "sel": "A.",
+   "t": "Cara Kami Kerja",
+   "bg": "ftr"
+  },
+  {
+   "r": 17.02,
+   "where": "syarikat.html@360",
+   "sel": "A.",
+   "t": "About Us",
+   "bg": "ftr"
+  },
+  {
+   "r": 17.02,
+   "where": "syarikat.html@360",
+   "sel": "A.",
+   "t": "Profil Syarikat",
+   "bg": "ftr"
+  },
+  {
+   "r": 17.02,
+   "where": "syarikat.html@360",
+   "sel": "A.",
+   "t": "Contact",
+   "bg": "ftr"
+  },
+  {
+   "r": 13.44,
+   "where": "syarikat.html@360",
+   "sel": "SPAN.",
+   "t": "© 2026 Bina Haus. All ri",
+   "bg": "ftr"
+  },
+  {
+   "r": 13.44,
+   "where": "syarikat.html@360",
+   "sel": "SPAN.",
+   "t": "Look preview: arah 05 “S",
+   "bg": "ftr"
+  },
+  {
+   "r": 17.02,
+   "where": "kontak.html@360",
+   "sel": "A.skip",
+   "t": "Skip to content",
+   "bg": "skip"
+  },
+  {
+   "r": 17.02,
+   "where": "kontak.html@360",
+   "sel": "BUTTON.burger",
+   "t": "Menu",
+   "bg": "hdr"
+  },
+  {
+   "r": 17.02,
+   "where": "kontak.html@360",
+   "sel": "H1.",
+   "t": "Contact",
+   "bg": "BODY"
+  },
+  {
+   "r": 13.44,
+   "where": "kontak.html@360",
+   "sel": "P.section__stand",
+   "t": "Tell us what you need an",
+   "bg": "BODY"
+  },
+  {
+   "r": 17.02,
+   "where": "kontak.html@360",
+   "sel": "H2.",
+   "t": "Planning to renovate you",
+   "bg": "BODY"
+  },
+  {
+   "r": 13.44,
+   "where": "kontak.html@360",
+   "sel": "P.section__stand",
+   "t": "Get free quotations, or ",
+   "bg": "BODY"
+  },
+  {
+   "r": 17.02,
+   "where": "kontak.html@360",
+   "sel": "A.btn",
+   "t": "Get free Quotations",
+   "bg": "btn"
+  },
+  {
+   "r": 17.02,
+   "where": "kontak.html@360",
+   "sel": "A.btn",
+   "t": "WhatsApp Us",
+   "bg": "BODY"
+  },
+  {
+   "r": 13.44,
+   "where": "kontak.html@360",
+   "sel": "P.ftr__label",
+   "t": "Saluran yang diterbitkan",
+   "bg": "BODY"
+  },
+  {
+   "r": 17.02,
+   "where": "kontak.html@360",
+   "sel": "A.",
+   "t": "WhatsApp +60 11-1124 463",
+   "bg": "BODY"
+  },
+  {
+   "r": 17.02,
+   "where": "kontak.html@360",
+   "sel": "A.",
+   "t": "binahaus.com",
+   "bg": "BODY"
+  },
+  {
+   "r": 13.44,
+   "where": "kontak.html@360",
+   "sel": "P.strip__note",
+   "t": "Laman binahaus.com tidak",
+   "bg": "BODY"
+  },
+  {
+   "r": 17.02,
+   "where": "kontak.html@360",
+   "sel": "SPAN.tag",
+   "t": "Foto",
+   "bg": "BODY"
+  },
+  {
+   "r": 13.44,
+   "where": "kontak.html@360",
+   "sel": "SPAN.",
+   "t": "Ruang dalaman selepas ke",
+   "bg": "BODY"
+  },
+  {
+   "r": 13.44,
+   "where": "kontak.html@360",
+   "sel": "P.ftr__tag",
+   "t": "Ruang dibina dengan rasa",
+   "bg": "ftr"
+  },
+  {
+   "r": 17.02,
+   "where": "kontak.html@360",
+   "sel": "P.ftr__site",
+   "t": "· Renovation & Construct",
+   "bg": "ftr"
+  },
+  {
+   "r": 17.02,
+   "where": "kontak.html@360",
+   "sel": "A.",
+   "t": "binahaus.com",
+   "bg": "ftr"
+  },
+  {
+   "r": 13.44,
+   "where": "kontak.html@360",
+   "sel": "P.ftr__label",
+   "t": "Contact",
+   "bg": "ftr"
+  },
+  {
+   "r": 17.02,
+   "where": "kontak.html@360",
+   "sel": "A.",
+   "t": "WhatsApp +60 11-1124 463",
+   "bg": "ftr"
+  },
+  {
+   "r": 17.02,
+   "where": "kontak.html@360",
+   "sel": "A.",
+   "t": "Contact",
+   "bg": "ftr"
+  },
+  {
+   "r": 13.44,
+   "where": "kontak.html@360",
+   "sel": "P.ftr__label",
+   "t": "Navigation",
+   "bg": "ftr"
+  },
+  {
+   "r": 17.02,
+   "where": "kontak.html@360",
+   "sel": "A.",
+   "t": "Services",
+   "bg": "ftr"
+  },
+  {
+   "r": 17.02,
+   "where": "kontak.html@360",
+   "sel": "A.",
+   "t": "Our Work",
+   "bg": "ftr"
+  },
+  {
+   "r": 17.02,
+   "where": "kontak.html@360",
+   "sel": "A.",
+   "t": "Cara Kami Kerja",
+   "bg": "ftr"
+  },
+  {
+   "r": 17.02,
+   "where": "kontak.html@360",
+   "sel": "A.",
+   "t": "About Us",
+   "bg": "ftr"
+  },
+  {
+   "r": 17.02,
+   "where": "kontak.html@360",
+   "sel": "A.",
+   "t": "Profil Syarikat",
+   "bg": "ftr"
+  },
+  {
+   "r": 17.02,
+   "where": "kontak.html@360",
+   "sel": "A.",
+   "t": "Contact",
+   "bg": "ftr"
+  },
+  {
+   "r": 13.44,
+   "where": "kontak.html@360",
+   "sel": "SPAN.",
+   "t": "© 2026 Bina Haus. All ri",
+   "bg": "ftr"
+  },
+  {
+   "r": 13.44,
+   "where": "kontak.html@360",
+   "sel": "SPAN.",
+   "t": "Look preview: arah 05 “S",
+   "bg": "ftr"
+  },
+  {
+   "r": 17.02,
+   "where": "index.html@390",
+   "sel": "A.skip",
+   "t": "Skip to content",
+   "bg": "skip"
+  },
+  {
+   "r": 17.02,
+   "where": "index.html@390",
+   "sel": "BUTTON.burger",
+   "t": "Menu",
+   "bg": "hdr"
+  },
+  {
+   "r": 17.02,
+   "where": "index.html@390",
+   "sel": "H1.",
+   "t": "Ruang dibina dengan rasa",
+   "bg": "BODY"
+  },
+  {
+   "r": 13.44,
+   "where": "index.html@390",
+   "sel": "P.lede",
+   "t": "Renovation and construct",
+   "bg": "BODY"
+  },
+  {
+   "r": 17.02,
+   "where": "index.html@390",
+   "sel": "P.",
+   "t": "From the first consultat",
+   "bg": "BODY"
+  },
+  {
+   "r": 17.02,
+   "where": "index.html@390",
+   "sel": "A.btn",
+   "t": "Get free Quotation",
+   "bg": "btn"
+  },
+  {
+   "r": 17.02,
+   "where": "index.html@390",
+   "sel": "A.btn",
+   "t": "WhatsApp Us",
+   "bg": "BODY"
+  },
+  {
+   "r": 17.02,
+   "where": "index.html@390",
+   "sel": "SPAN.tag",
+   "t": "Foto",
+   "bg": "BODY"
+  },
+  {
+   "r": 13.44,
+   "where": "index.html@390",
+   "sel": "SPAN.",
+   "t": "Ruang tamu sebuah rumah ",
+   "bg": "BODY"
+  },
+  {
+   "r": 17.02,
+   "where": "index.html@390",
+   "sel": "H2.",
+   "t": "Masuk ke dalam rumah",
+   "bg": "BODY"
+  },
+  {
+   "r": 13.44,
+   "where": "index.html@390",
+   "sel": "P.section__stand",
+   "t": "Setiap ruang di bawah ia",
+   "bg": "BODY"
+  },
+  {
+   "r": 17.02,
+   "where": "index.html@390",
+   "sel": "SPAN.tag",
+   "t": "Foto",
+   "bg": "BODY"
+  },
+  {
+   "r": 13.44,
+   "where": "index.html@390",
+   "sel": "SPAN.",
+   "t": "Ruang tamu — tujuh jenis",
+   "bg": "BODY"
+  },
+  {
+   "r": 17.02,
+   "where": "index.html@390",
+   "sel": "SPAN.tag",
+   "t": "Foto",
+   "bg": "BODY"
+  },
+  {
+   "r": 13.44,
+   "where": "index.html@390",
+   "sel": "SPAN.",
+   "t": "Dapur — kitchen renovati",
+   "bg": "BODY"
+  },
+  {
+   "r": 17.02,
+   "where": "index.html@390",
+   "sel": "SPAN.tag",
+   "t": "Foto",
+   "bg": "BODY"
+  },
+  {
+   "r": 13.44,
+   "where": "index.html@390",
+   "sel": "SPAN.",
+   "t": "Tapak — kerja pembinaan ",
+   "bg": "BODY"
+  },
+  {
+   "r": 17.02,
+   "where": "index.html@390",
+   "sel": "H2.",
+   "t": "See the work for yoursel",
+   "bg": "BODY"
+  },
+  {
+   "r": 13.44,
+   "where": "index.html@390",
+   "sel": "P.section__stand",
+   "t": "A collection of work by ",
+   "bg": "BODY"
+  },
+  {
+   "r": 17.02,
+   "where": "index.html@390",
+   "sel": "SPAN.tag",
+   "t": "Foto",
+   "bg": "BODY"
+  },
+  {
+   "r": 13.44,
+   "where": "index.html@390",
+   "sel": "SPAN.",
+   "t": "Bangunan sedia ada, kerj",
+   "bg": "BODY"
+  },
+  {
+   "r": 17.02,
+   "where": "index.html@390",
+   "sel": "SPAN.tag",
+   "t": "Video",
+   "bg": "BODY"
+  },
+  {
+   "r": 13.44,
+   "where": "index.html@390",
+   "sel": "SPAN.",
+   "t": "Unit dalam kerja, kaca &",
+   "bg": "BODY"
+  },
+  {
+   "r": 17.02,
+   "where": "index.html@390",
+   "sel": "SPAN.tag",
+   "t": "Foto",
+   "bg": "BODY"
+  },
+  {
+   "r": 13.44,
+   "where": "index.html@390",
+   "sel": "SPAN.",
+   "t": "Ruang dalaman, tingkap b",
+   "bg": "BODY"
+  },
+  {
+   "r": 17.02,
+   "where": "index.html@390",
+   "sel": "SPAN.tag",
+   "t": "Render",
+   "bg": "BODY"
+  },
+  {
+   "r": 13.44,
+   "where": "index.html@390",
+   "sel": "SPAN.",
+   "t": "Dry Kitchen",
+   "bg": "BODY"
+  },
+  {
+   "r": 17.02,
+   "where": "index.html@390",
+   "sel": "SPAN.tag",
+   "t": "Video",
+   "bg": "BODY"
+  },
+  {
+   "r": 13.44,
+   "where": "index.html@390",
+   "sel": "SPAN.",
+   "t": "Unit komersial, partitio",
+   "bg": "BODY"
+  },
+  {
+   "r": 17.02,
+   "where": "index.html@390",
+   "sel": "SPAN.tag",
+   "t": "Foto",
+   "bg": "BODY"
+  },
+  {
+   "r": 13.44,
+   "where": "index.html@390",
+   "sel": "SPAN.",
+   "t": "Kerja luaran, scaffold",
+   "bg": "BODY"
+  },
+  {
+   "r": 17.02,
+   "where": "index.html@390",
+   "sel": "A.btn",
+   "t": "All work",
+   "bg": "BODY"
+  },
+  {
+   "r": 13.44,
+   "where": "index.html@390",
+   "sel": "H2.",
+   "t": "One team. One project. O",
+   "bg": "band"
+  },
+  {
+   "r": 10.53,
+   "where": "index.html@390",
+   "sel": "P.",
+   "t": "Renovation and construct",
+   "bg": "band"
+  },
+  {
+   "r": 10.53,
+   "where": "index.html@390",
+   "sel": "P.",
+   "t": "With Bina Haus, you have",
+   "bg": "band"
+  },
+  {
+   "r": 10.53,
+   "where": "index.html@390",
+   "sel": "P.",
+   "t": "From consultation and si",
+   "bg": "band"
+  },
+  {
+   "r": 13.44,
+   "where": "index.html@390",
+   "sel": "P.pull",
+   "t": "One project. One point o",
+   "bg": "band"
+  },
+  {
+   "r": 13.33,
+   "where": "index.html@390",
+   "sel": "H2.",
+   "t": "Planning to renovate you",
+   "bg": "cta"
+  },
+  {
+   "r": 10.53,
+   "where": "index.html@390",
+   "sel": "P.",
+   "t": "Tell us what you need an",
+   "bg": "cta"
+  },
+  {
+   "r": 17.02,
+   "where": "index.html@390",
+   "sel": "A.btn",
+   "t": "Get free Quotations",
+   "bg": "btn"
+  },
+  {
+   "r": 13.33,
+   "where": "index.html@390",
+   "sel": "A.btn",
+   "t": "WhatsApp Us",
+   "bg": "cta"
+  },
+  {
+   "r": 13.44,
+   "where": "index.html@390",
+   "sel": "P.ftr__tag",
+   "t": "Ruang dibina dengan rasa",
+   "bg": "ftr"
+  },
+  {
+   "r": 17.02,
+   "where": "index.html@390",
+   "sel": "P.ftr__site",
+   "t": "· Renovation & Construct",
+   "bg": "ftr"
+  },
+  {
+   "r": 17.02,
+   "where": "index.html@390",
+   "sel": "A.",
+   "t": "binahaus.com",
+   "bg": "ftr"
+  },
+  {
+   "r": 13.44,
+   "where": "index.html@390",
+   "sel": "P.ftr__label",
+   "t": "Contact",
+   "bg": "ftr"
+  },
+  {
+   "r": 17.02,
+   "where": "index.html@390",
+   "sel": "A.",
+   "t": "WhatsApp +60 11-1124 463",
+   "bg": "ftr"
+  },
+  {
+   "r": 17.02,
+   "where": "index.html@390",
+   "sel": "A.",
+   "t": "Contact",
+   "bg": "ftr"
+  },
+  {
+   "r": 13.44,
+   "where": "index.html@390",
+   "sel": "P.ftr__label",
+   "t": "Navigation",
+   "bg": "ftr"
+  },
+  {
+   "r": 17.02,
+   "where": "index.html@390",
+   "sel": "A.",
+   "t": "Services",
+   "bg": "ftr"
+  },
+  {
+   "r": 17.02,
+   "where": "index.html@390",
+   "sel": "A.",
+   "t": "Our Work",
+   "bg": "ftr"
+  },
+  {
+   "r": 17.02,
+   "where": "index.html@390",
+   "sel": "A.",
+   "t": "Cara Kami Kerja",
+   "bg": "ftr"
+  },
+  {
+   "r": 17.02,
+   "where": "index.html@390",
+   "sel": "A.",
+   "t": "About Us",
+   "bg": "ftr"
+  },
+  {
+   "r": 17.02,
+   "where": "index.html@390",
+   "sel": "A.",
+   "t": "Profil Syarikat",
+   "bg": "ftr"
+  },
+  {
+   "r": 17.02,
+   "where": "index.html@390",
+   "sel": "A.",
+   "t": "Contact",
+   "bg": "ftr"
+  },
+  {
+   "r": 13.44,
+   "where": "index.html@390",
+   "sel": "SPAN.",
+   "t": "© 2026 Bina Haus. All ri",
+   "bg": "ftr"
+  },
+  {
+   "r": 13.44,
+   "where": "index.html@390",
+   "sel": "SPAN.",
+   "t": "Look preview: arah 05 “S",
+   "bg": "ftr"
+  },
+  {
+   "r": 17.02,
+   "where": "perkhidmatan.html@390",
+   "sel": "A.skip",
+   "t": "Skip to content",
+   "bg": "skip"
+  },
+  {
+   "r": 17.02,
+   "where": "perkhidmatan.html@390",
+   "sel": "BUTTON.burger",
+   "t": "Menu",
+   "bg": "hdr"
+  },
+  {
+   "r": 17.02,
+   "where": "perkhidmatan.html@390",
+   "sel": "H1.",
+   "t": "Services",
+   "bg": "BODY"
+  },
+  {
+   "r": 13.44,
+   "where": "perkhidmatan.html@390",
+   "sel": "P.section__stand",
+   "t": "Whether you're renovatin",
+   "bg": "BODY"
+  },
+  {
+   "r": 17.02,
+   "where": "perkhidmatan.html@390",
+   "sel": "H2.",
+   "t": "Renovations",
+   "bg": "BODY"
+  },
+  {
+   "r": 13.44,
+   "where": "perkhidmatan.html@390",
+   "sel": "P.section__stand",
+   "t": "A better space starts wi",
+   "bg": "BODY"
+  },
+  {
+   "r": 13.44,
+   "where": "perkhidmatan.html@390",
+   "sel": "SPAN.n",
+   "t": "01",
+   "bg": "BODY"
+  },
+  {
+   "r": 17.02,
+   "where": "perkhidmatan.html@390",
+   "sel": "B.",
+   "t": "Full house Renovation",
+   "bg": "BODY"
+  },
+  {
+   "r": 13.44,
+   "where": "perkhidmatan.html@390",
+   "sel": "P.",
+   "t": "Give your existing home ",
+   "bg": "BODY"
+  },
+  {
+   "r": 13.44,
+   "where": "perkhidmatan.html@390",
+   "sel": "SPAN.n",
+   "t": "02",
+   "bg": "BODY"
+  },
+  {
+   "r": 17.02,
+   "where": "perkhidmatan.html@390",
+   "sel": "B.",
+   "t": "Kitchen renovations",
+   "bg": "BODY"
+  },
+  {
+   "r": 13.44,
+   "where": "perkhidmatan.html@390",
+   "sel": "P.",
+   "t": "Upgrade your kitchen int",
+   "bg": "BODY"
+  },
+  {
+   "r": 13.44,
+   "where": "perkhidmatan.html@390",
+   "sel": "SPAN.n",
+   "t": "03",
+   "bg": "BODY"
+  },
+  {
+   "r": 17.02,
+   "where": "perkhidmatan.html@390",
+   "sel": "B.",
+   "t": "Extension",
+   "bg": "BODY"
+  },
+  {
+   "r": 13.44,
+   "where": "perkhidmatan.html@390",
+   "sel": "P.",
+   "t": "Create the additional sp",
+   "bg": "BODY"
+  },
+  {
+   "r": 13.44,
+   "where": "perkhidmatan.html@390",
+   "sel": "SPAN.n",
+   "t": "04",
+   "bg": "BODY"
+  },
+  {
+   "r": 17.02,
+   "where": "perkhidmatan.html@390",
+   "sel": "B.",
+   "t": "Flooring",
+   "bg": "BODY"
+  },
+  {
+   "r": 13.44,
+   "where": "perkhidmatan.html@390",
+   "sel": "P.",
+   "t": "Refresh your space from ",
+   "bg": "BODY"
+  },
+  {
+   "r": 13.44,
+   "where": "perkhidmatan.html@390",
+   "sel": "SPAN.n",
+   "t": "05",
+   "bg": "BODY"
+  },
+  {
+   "r": 17.02,
+   "where": "perkhidmatan.html@390",
+   "sel": "B.",
+   "t": "Plaster Ceiling",
+   "bg": "BODY"
+  },
+  {
+   "r": 13.44,
+   "where": "perkhidmatan.html@390",
+   "sel": "P.",
+   "t": "Give your interior a cle",
+   "bg": "BODY"
+  },
+  {
+   "r": 13.44,
+   "where": "perkhidmatan.html@390",
+   "sel": "SPAN.n",
+   "t": "06",
+   "bg": "BODY"
+  },
+  {
+   "r": 17.02,
+   "where": "perkhidmatan.html@390",
+   "sel": "B.",
+   "t": "Painting",
+   "bg": "BODY"
+  },
+  {
+   "r": 13.44,
+   "where": "perkhidmatan.html@390",
+   "sel": "P.",
+   "t": "Refresh the look and fee",
+   "bg": "BODY"
+  },
+  {
+   "r": 13.44,
+   "where": "perkhidmatan.html@390",
+   "sel": "SPAN.n",
+   "t": "07",
+   "bg": "BODY"
+  },
+  {
+   "r": 17.02,
+   "where": "perkhidmatan.html@390",
+   "sel": "B.",
+   "t": "Electrical & Plumbing",
+   "bg": "BODY"
+  },
+  {
+   "r": 13.44,
+   "where": "perkhidmatan.html@390",
+   "sel": "P.",
+   "t": "Essential electrical and",
+   "bg": "BODY"
+  },
+  {
+   "r": 13.33,
+   "where": "perkhidmatan.html@390",
+   "sel": "H2.",
+   "t": "Kitchen renovations",
+   "bg": "section section--raised"
+  },
+  {
+   "r": 10.53,
+   "where": "perkhidmatan.html@390",
+   "sel": "P.section__stand",
+   "t": "Upgrade your kitchen int",
+   "bg": "section section--raised"
+  },
+  {
+   "r": 10.53,
+   "where": "perkhidmatan.html@390",
+   "sel": "P.strip__note",
+   "t": "The two tiles opposite a",
+   "bg": "section section--raised"
+  },
+  {
+   "r": 13.33,
+   "where": "perkhidmatan.html@390",
+   "sel": "SPAN.tag",
+   "t": "Foto",
+   "bg": "section section--raised"
+  },
+  {
+   "r": 10.53,
+   "where": "perkhidmatan.html@390",
+   "sel": "SPAN.",
+   "t": "Dapur selepas kerja — ka",
+   "bg": "section section--raised"
+  },
+  {
+   "r": 13.33,
+   "where": "perkhidmatan.html@390",
+   "sel": "SPAN.tag",
+   "t": "Render",
+   "bg": "section section--raised"
+  },
+  {
+   "r": 10.53,
+   "where": "perkhidmatan.html@390",
+   "sel": "SPAN.",
+   "t": "Kitchen",
+   "bg": "section section--raised"
+  },
+  {
+   "r": 13.33,
+   "where": "perkhidmatan.html@390",
+   "sel": "SPAN.tag",
+   "t": "Render",
+   "bg": "section section--raised"
+  },
+  {
+   "r": 10.53,
+   "where": "perkhidmatan.html@390",
+   "sel": "SPAN.",
+   "t": "Dry Kitchen",
+   "bg": "section section--raised"
+  },
+  {
+   "r": 17.02,
+   "where": "perkhidmatan.html@390",
+   "sel": "H2.",
+   "t": "Construction",
+   "bg": "BODY"
+  },
+  {
+   "r": 13.44,
+   "where": "perkhidmatan.html@390",
+   "sel": "P.section__stand",
+   "t": "Built for what comes nex",
+   "bg": "BODY"
+  },
+  {
+   "r": 13.44,
+   "where": "perkhidmatan.html@390",
+   "sel": "P.section__stand",
+   "t": "Whether you're building ",
+   "bg": "BODY"
+  },
+  {
+   "r": 13.44,
+   "where": "perkhidmatan.html@390",
+   "sel": "SPAN.n",
+   "t": "01",
+   "bg": "BODY"
+  },
+  {
+   "r": 17.02,
+   "where": "perkhidmatan.html@390",
+   "sel": "B.",
+   "t": "New house Constructions",
+   "bg": "BODY"
+  },
+  {
+   "r": 13.44,
+   "where": "perkhidmatan.html@390",
+   "sel": "P.",
+   "t": "Building your new home f",
+   "bg": "BODY"
+  },
+  {
+   "r": 13.44,
+   "where": "perkhidmatan.html@390",
+   "sel": "SPAN.n",
+   "t": "02",
+   "bg": "BODY"
+  },
+  {
+   "r": 17.02,
+   "where": "perkhidmatan.html@390",
+   "sel": "B.",
+   "t": "House Extension",
+   "bg": "BODY"
+  },
+  {
+   "r": 13.44,
+   "where": "perkhidmatan.html@390",
+   "sel": "P.",
+   "t": "Add the extra space your",
+   "bg": "BODY"
+  },
+  {
+   "r": 13.44,
+   "where": "perkhidmatan.html@390",
+   "sel": "SPAN.n",
+   "t": "03",
+   "bg": "BODY"
+  },
+  {
+   "r": 17.02,
+   "where": "perkhidmatan.html@390",
+   "sel": "B.",
+   "t": "Structural Works",
+   "bg": "BODY"
+  },
+  {
+   "r": 13.44,
+   "where": "perkhidmatan.html@390",
+   "sel": "P.",
+   "t": "Structural works require",
+   "bg": "BODY"
+  },
+  {
+   "r": 13.33,
+   "where": "perkhidmatan.html@390",
+   "sel": "H2.",
+   "t": "Structural works",
+   "bg": "section section--raised"
+  },
+  {
+   "r": 10.53,
+   "where": "perkhidmatan.html@390",
+   "sel": "P.section__stand",
+   "t": "Structural works require",
+   "bg": "section section--raised"
+  },
+  {
+   "r": 10.53,
+   "where": "perkhidmatan.html@390",
+   "sel": "P.strip__note",
+   "t": "A site in progress and t",
+   "bg": "section section--raised"
+  },
+  {
+   "r": 13.33,
+   "where": "perkhidmatan.html@390",
+   "sel": "SPAN.tag",
+   "t": "Foto",
+   "bg": "section section--raised"
+  },
+  {
+   "r": 10.53,
+   "where": "perkhidmatan.html@390",
+   "sel": "SPAN.",
+   "t": "Tapak pembinaan: struktu",
+   "bg": "section section--raised"
+  },
+  {
+   "r": 13.33,
+   "where": "perkhidmatan.html@390",
+   "sel": "SPAN.tag",
+   "t": "Foto",
+   "bg": "section section--raised"
+  },
+  {
+   "r": 10.53,
+   "where": "perkhidmatan.html@390",
+   "sel": "SPAN.",
+   "t": "Kerja luaran, scaffold",
+   "bg": "section section--raised"
+  },
+  {
+   "r": 13.33,
+   "where": "perkhidmatan.html@390",
+   "sel": "SPAN.tag",
+   "t": "Foto",
+   "bg": "section section--raised"
+  },
+  {
+   "r": 10.53,
+   "where": "perkhidmatan.html@390",
+   "sel": "SPAN.",
+   "t": "Kerja plaster, dinding b",
+   "bg": "section section--raised"
+  },
+  {
+   "r": 13.33,
+   "where": "perkhidmatan.html@390",
+   "sel": "SPAN.tag",
+   "t": "Video",
+   "bg": "section section--raised"
+  },
+  {
+   "r": 10.53,
+   "where": "perkhidmatan.html@390",
+   "sel": "SPAN.",
+   "t": "Lantai & skirting",
+   "bg": "section section--raised"
+  },
+  {
+   "r": 13.33,
+   "where": "perkhidmatan.html@390",
+   "sel": "SPAN.tag",
+   "t": "Video",
+   "bg": "section section--raised"
+  },
+  {
+   "r": 10.53,
+   "where": "perkhidmatan.html@390",
+   "sel": "SPAN.",
+   "t": "Jubin lantai & dinding",
+   "bg": "section section--raised"
+  },
+  {
+   "r": 13.44,
+   "where": "perkhidmatan.html@390",
+   "sel": "P.ftr__tag",
+   "t": "Ruang dibina dengan rasa",
+   "bg": "ftr"
+  },
+  {
+   "r": 17.02,
+   "where": "perkhidmatan.html@390",
+   "sel": "P.ftr__site",
+   "t": "· Renovation & Construct",
+   "bg": "ftr"
+  },
+  {
+   "r": 17.02,
+   "where": "perkhidmatan.html@390",
+   "sel": "A.",
+   "t": "binahaus.com",
+   "bg": "ftr"
+  },
+  {
+   "r": 13.44,
+   "where": "perkhidmatan.html@390",
+   "sel": "P.ftr__label",
+   "t": "Contact",
+   "bg": "ftr"
+  },
+  {
+   "r": 17.02,
+   "where": "perkhidmatan.html@390",
+   "sel": "A.",
+   "t": "WhatsApp +60 11-1124 463",
+   "bg": "ftr"
+  },
+  {
+   "r": 17.02,
+   "where": "perkhidmatan.html@390",
+   "sel": "A.",
+   "t": "Contact",
+   "bg": "ftr"
+  },
+  {
+   "r": 13.44,
+   "where": "perkhidmatan.html@390",
+   "sel": "P.ftr__label",
+   "t": "Navigation",
+   "bg": "ftr"
+  },
+  {
+   "r": 17.02,
+   "where": "perkhidmatan.html@390",
+   "sel": "A.",
+   "t": "Services",
+   "bg": "ftr"
+  },
+  {
+   "r": 17.02,
+   "where": "perkhidmatan.html@390",
+   "sel": "A.",
+   "t": "Our Work",
+   "bg": "ftr"
+  },
+  {
+   "r": 17.02,
+   "where": "perkhidmatan.html@390",
+   "sel": "A.",
+   "t": "Cara Kami Kerja",
+   "bg": "ftr"
+  },
+  {
+   "r": 17.02,
+   "where": "perkhidmatan.html@390",
+   "sel": "A.",
+   "t": "About Us",
+   "bg": "ftr"
+  },
+  {
+   "r": 17.02,
+   "where": "perkhidmatan.html@390",
+   "sel": "A.",
+   "t": "Profil Syarikat",
+   "bg": "ftr"
+  },
+  {
+   "r": 17.02,
+   "where": "perkhidmatan.html@390",
+   "sel": "A.",
+   "t": "Contact",
+   "bg": "ftr"
+  },
+  {
+   "r": 13.44,
+   "where": "perkhidmatan.html@390",
+   "sel": "SPAN.",
+   "t": "© 2026 Bina Haus. All ri",
+   "bg": "ftr"
+  },
+  {
+   "r": 13.44,
+   "where": "perkhidmatan.html@390",
+   "sel": "SPAN.",
+   "t": "Look preview: arah 05 “S",
+   "bg": "ftr"
+  },
+  {
+   "r": 17.02,
+   "where": "kerja.html@390",
+   "sel": "A.skip",
+   "t": "Skip to content",
+   "bg": "skip"
+  },
+  {
+   "r": 17.02,
+   "where": "kerja.html@390",
+   "sel": "BUTTON.burger",
+   "t": "Menu",
+   "bg": "hdr"
+  },
+  {
+   "r": 17.02,
+   "where": "kerja.html@390",
+   "sel": "H1.",
+   "t": "Our Work",
+   "bg": "BODY"
+  },
+  {
+   "r": 13.44,
+   "where": "kerja.html@390",
+   "sel": "P.section__stand",
+   "t": "A collection of work by ",
+   "bg": "BODY"
+  },
+  {
+   "r": 17.02,
+   "where": "kerja.html@390",
+   "sel": "H2.",
+   "t": "See the work for yoursel",
+   "bg": "BODY"
+  },
+  {
+   "r": 13.44,
+   "where": "kerja.html@390",
+   "sel": "P.section__stand",
+   "t": "Photographs, 3D renders ",
+   "bg": "BODY"
+  },
+  {
+   "r": 17.02,
+   "where": "kerja.html@390",
+   "sel": "SPAN.tag",
+   "t": "Foto",
+   "bg": "BODY"
+  },
+  {
+   "r": 13.44,
+   "where": "kerja.html@390",
+   "sel": "SPAN.",
+   "t": "Bangunan sedia ada, kerj",
+   "bg": "BODY"
+  },
+  {
+   "r": 17.02,
+   "where": "kerja.html@390",
+   "sel": "SPAN.tag",
+   "t": "Video",
+   "bg": "BODY"
+  },
+  {
+   "r": 13.44,
+   "where": "kerja.html@390",
+   "sel": "SPAN.",
+   "t": "Unit dalam kerja, kaca &",
+   "bg": "BODY"
+  },
+  {
+   "r": 17.02,
+   "where": "kerja.html@390",
+   "sel": "SPAN.tag",
+   "t": "Foto",
+   "bg": "BODY"
+  },
+  {
+   "r": 13.44,
+   "where": "kerja.html@390",
+   "sel": "SPAN.",
+   "t": "Ruang dalaman, tingkap b",
+   "bg": "BODY"
+  },
+  {
+   "r": 17.02,
+   "where": "kerja.html@390",
+   "sel": "SPAN.tag",
+   "t": "Render",
+   "bg": "BODY"
+  },
+  {
+   "r": 13.44,
+   "where": "kerja.html@390",
+   "sel": "SPAN.",
+   "t": "Dry Kitchen",
+   "bg": "BODY"
+  },
+  {
+   "r": 17.02,
+   "where": "kerja.html@390",
+   "sel": "SPAN.tag",
+   "t": "Video",
+   "bg": "BODY"
+  },
+  {
+   "r": 13.44,
+   "where": "kerja.html@390",
+   "sel": "SPAN.",
+   "t": "Unit komersial, partitio",
+   "bg": "BODY"
+  },
+  {
+   "r": 17.02,
+   "where": "kerja.html@390",
+   "sel": "SPAN.tag",
+   "t": "Foto",
+   "bg": "BODY"
+  },
+  {
+   "r": 13.44,
+   "where": "kerja.html@390",
+   "sel": "SPAN.",
+   "t": "Kerja luaran, scaffold",
+   "bg": "BODY"
+  },
+  {
+   "r": 17.02,
+   "where": "kerja.html@390",
+   "sel": "SPAN.tag",
+   "t": "Foto",
+   "bg": "BODY"
+  },
+  {
+   "r": 13.44,
+   "where": "kerja.html@390",
+   "sel": "SPAN.",
+   "t": "Ruang dalaman, lantai ka",
+   "bg": "BODY"
+  },
+  {
+   "r": 17.02,
+   "where": "kerja.html@390",
+   "sel": "SPAN.tag",
+   "t": "Video",
+   "bg": "BODY"
+  },
+  {
+   "r": 13.44,
+   "where": "kerja.html@390",
+   "sel": "SPAN.",
+   "t": "Jubin lantai",
+   "bg": "BODY"
+  },
+  {
+   "r": 17.02,
+   "where": "kerja.html@390",
+   "sel": "SPAN.tag",
+   "t": "Render",
+   "bg": "BODY"
+  },
+  {
+   "r": 13.44,
+   "where": "kerja.html@390",
+   "sel": "SPAN.",
+   "t": "Living and Dining",
+   "bg": "BODY"
+  },
+  {
+   "r": 17.02,
+   "where": "kerja.html@390",
+   "sel": "SPAN.tag",
+   "t": "Foto",
+   "bg": "BODY"
+  },
+  {
+   "r": 13.44,
+   "where": "kerja.html@390",
+   "sel": "SPAN.",
+   "t": "Tapak kerja, kayu di lan",
+   "bg": "BODY"
+  },
+  {
+   "r": 17.02,
+   "where": "kerja.html@390",
+   "sel": "SPAN.tag",
+   "t": "Video",
+   "bg": "BODY"
+  },
+  {
+   "r": 13.44,
+   "where": "kerja.html@390",
+   "sel": "SPAN.",
+   "t": "Pintu & dinding",
+   "bg": "BODY"
+  },
+  {
+   "r": 17.02,
+   "where": "kerja.html@390",
+   "sel": "SPAN.tag",
+   "t": "Foto",
+   "bg": "BODY"
+  },
+  {
+   "r": 13.44,
+   "where": "kerja.html@390",
+   "sel": "SPAN.",
+   "t": "Ruang kosong, lantai kay",
+   "bg": "BODY"
+  },
+  {
+   "r": 17.02,
+   "where": "kerja.html@390",
+   "sel": "SPAN.tag",
+   "t": "Render",
+   "bg": "BODY"
+  },
+  {
+   "r": 13.44,
+   "where": "kerja.html@390",
+   "sel": "SPAN.",
+   "t": "Walk-in Wardrobe",
+   "bg": "BODY"
+  },
+  {
+   "r": 17.02,
+   "where": "kerja.html@390",
+   "sel": "SPAN.tag",
+   "t": "Video",
+   "bg": "BODY"
+  },
+  {
+   "r": 13.44,
+   "where": "kerja.html@390",
+   "sel": "SPAN.",
+   "t": "Kerja hacking & peroboha",
+   "bg": "BODY"
+  },
+  {
+   "r": 17.02,
+   "where": "kerja.html@390",
+   "sel": "SPAN.tag",
+   "t": "Foto",
+   "bg": "BODY"
+  },
+  {
+   "r": 13.44,
+   "where": "kerja.html@390",
+   "sel": "SPAN.",
+   "t": "Kerja plaster, dinding b",
+   "bg": "BODY"
+  },
+  {
+   "r": 17.02,
+   "where": "kerja.html@390",
+   "sel": "SPAN.tag",
+   "t": "Render",
+   "bg": "BODY"
+  },
+  {
+   "r": 13.44,
+   "where": "kerja.html@390",
+   "sel": "SPAN.",
+   "t": "Living Area",
+   "bg": "BODY"
+  },
+  {
+   "r": 17.02,
+   "where": "kerja.html@390",
+   "sel": "SPAN.tag",
+   "t": "Video",
+   "bg": "BODY"
+  },
+  {
+   "r": 13.44,
+   "where": "kerja.html@390",
+   "sel": "SPAN.",
+   "t": "Jubin lantai & dinding",
+   "bg": "BODY"
+  },
+  {
+   "r": 17.02,
+   "where": "kerja.html@390",
+   "sel": "SPAN.tag",
+   "t": "Foto",
+   "bg": "BODY"
+  },
+  {
+   "r": 13.44,
+   "where": "kerja.html@390",
+   "sel": "SPAN.",
+   "t": "Ruang kosong, lantai kay",
+   "bg": "BODY"
+  },
+  {
+   "r": 17.02,
+   "where": "kerja.html@390",
+   "sel": "SPAN.tag",
+   "t": "Render",
+   "bg": "BODY"
+  },
+  {
+   "r": 13.44,
+   "where": "kerja.html@390",
+   "sel": "SPAN.",
+   "t": "Kitchen",
+   "bg": "BODY"
+  },
+  {
+   "r": 17.02,
+   "where": "kerja.html@390",
+   "sel": "SPAN.tag",
+   "t": "Video",
+   "bg": "BODY"
+  },
+  {
+   "r": 13.44,
+   "where": "kerja.html@390",
+   "sel": "SPAN.",
+   "t": "Lantai & skirting",
+   "bg": "BODY"
+  },
+  {
+   "r": 13.44,
+   "where": "kerja.html@390",
+   "sel": "P.strip__note",
+   "t": "Media di atas ialah aset",
+   "bg": "BODY"
+  },
+  {
+   "r": 13.44,
+   "where": "kerja.html@390",
+   "sel": "P.ftr__tag",
+   "t": "Ruang dibina dengan rasa",
+   "bg": "ftr"
+  },
+  {
+   "r": 17.02,
+   "where": "kerja.html@390",
+   "sel": "P.ftr__site",
+   "t": "· Renovation & Construct",
+   "bg": "ftr"
+  },
+  {
+   "r": 17.02,
+   "where": "kerja.html@390",
+   "sel": "A.",
+   "t": "binahaus.com",
+   "bg": "ftr"
+  },
+  {
+   "r": 13.44,
+   "where": "kerja.html@390",
+   "sel": "P.ftr__label",
+   "t": "Contact",
+   "bg": "ftr"
+  },
+  {
+   "r": 17.02,
+   "where": "kerja.html@390",
+   "sel": "A.",
+   "t": "WhatsApp +60 11-1124 463",
+   "bg": "ftr"
+  },
+  {
+   "r": 17.02,
+   "where": "kerja.html@390",
+   "sel": "A.",
+   "t": "Contact",
+   "bg": "ftr"
+  },
+  {
+   "r": 13.44,
+   "where": "kerja.html@390",
+   "sel": "P.ftr__label",
+   "t": "Navigation",
+   "bg": "ftr"
+  },
+  {
+   "r": 17.02,
+   "where": "kerja.html@390",
+   "sel": "A.",
+   "t": "Services",
+   "bg": "ftr"
+  },
+  {
+   "r": 17.02,
+   "where": "kerja.html@390",
+   "sel": "A.",
+   "t": "Our Work",
+   "bg": "ftr"
+  },
+  {
+   "r": 17.02,
+   "where": "kerja.html@390",
+   "sel": "A.",
+   "t": "Cara Kami Kerja",
+   "bg": "ftr"
+  },
+  {
+   "r": 17.02,
+   "where": "kerja.html@390",
+   "sel": "A.",
+   "t": "About Us",
+   "bg": "ftr"
+  },
+  {
+   "r": 17.02,
+   "where": "kerja.html@390",
+   "sel": "A.",
+   "t": "Profil Syarikat",
+   "bg": "ftr"
+  },
+  {
+   "r": 17.02,
+   "where": "kerja.html@390",
+   "sel": "A.",
+   "t": "Contact",
+   "bg": "ftr"
+  },
+  {
+   "r": 13.44,
+   "where": "kerja.html@390",
+   "sel": "SPAN.",
+   "t": "© 2026 Bina Haus. All ri",
+   "bg": "ftr"
+  },
+  {
+   "r": 13.44,
+   "where": "kerja.html@390",
+   "sel": "SPAN.",
+   "t": "Look preview: arah 05 “S",
+   "bg": "ftr"
+  },
+  {
+   "r": 17.02,
+   "where": "cara.html@390",
+   "sel": "A.skip",
+   "t": "Skip to content",
+   "bg": "skip"
+  },
+  {
+   "r": 17.02,
+   "where": "cara.html@390",
+   "sel": "BUTTON.burger",
+   "t": "Menu",
+   "bg": "hdr"
+  },
+  {
+   "r": 17.02,
+   "where": "cara.html@390",
+   "sel": "H1.",
+   "t": "Cara Kami Kerja",
+   "bg": "BODY"
+  },
+  {
+   "r": 13.44,
+   "where": "cara.html@390",
+   "sel": "P.section__stand",
+   "t": "Satu proses yang jelas, ",
+   "bg": "BODY"
+  },
+  {
+   "r": 17.02,
+   "where": "cara.html@390",
+   "sel": "H2.",
+   "t": "A clear process from sta",
+   "bg": "BODY"
+  },
+  {
+   "r": 13.44,
+   "where": "cara.html@390",
+   "sel": "SPAN.n",
+   "t": "01",
+   "bg": "BODY"
+  },
+  {
+   "r": 17.02,
+   "where": "cara.html@390",
+   "sel": "H3.",
+   "t": "Consultation",
+   "bg": "BODY"
+  },
+  {
+   "r": 13.44,
+   "where": "cara.html@390",
+   "sel": "P.",
+   "t": "We start by understandin",
+   "bg": "BODY"
+  },
+  {
+   "r": 13.44,
+   "where": "cara.html@390",
+   "sel": "SPAN.n",
+   "t": "02",
+   "bg": "BODY"
+  },
+  {
+   "r": 17.02,
+   "where": "cara.html@390",
+   "sel": "H3.",
+   "t": "Site Visit",
+   "bg": "BODY"
+  },
+  {
+   "r": 13.44,
+   "where": "cara.html@390",
+   "sel": "P.",
+   "t": "Our team visits the site",
+   "bg": "BODY"
+  },
+  {
+   "r": 13.44,
+   "where": "cara.html@390",
+   "sel": "SPAN.n",
+   "t": "03",
+   "bg": "BODY"
+  },
+  {
+   "r": 17.02,
+   "where": "cara.html@390",
+   "sel": "H3.",
+   "t": "Quotations",
+   "bg": "BODY"
+  },
+  {
+   "r": 13.44,
+   "where": "cara.html@390",
+   "sel": "P.",
+   "t": "You receive a quotation ",
+   "bg": "BODY"
+  },
+  {
+   "r": 13.44,
+   "where": "cara.html@390",
+   "sel": "SPAN.n",
+   "t": "04",
+   "bg": "BODY"
+  },
+  {
+   "r": 17.02,
+   "where": "cara.html@390",
+   "sel": "H3.",
+   "t": "Construction",
+   "bg": "BODY"
+  },
+  {
+   "r": 13.44,
+   "where": "cara.html@390",
+   "sel": "P.",
+   "t": "Once everything is agree",
+   "bg": "BODY"
+  },
+  {
+   "r": 13.44,
+   "where": "cara.html@390",
+   "sel": "SPAN.n",
+   "t": "05",
+   "bg": "BODY"
+  },
+  {
+   "r": 17.02,
+   "where": "cara.html@390",
+   "sel": "H3.",
+   "t": "Handover",
+   "bg": "BODY"
+  },
+  {
+   "r": 13.44,
+   "where": "cara.html@390",
+   "sel": "P.",
+   "t": "When the work is complet",
+   "bg": "BODY"
+  },
+  {
+   "r": 13.33,
+   "where": "cara.html@390",
+   "sel": "H2.",
+   "t": "One team. One project. O",
+   "bg": "section section--raised"
+  },
+  {
+   "r": 10.53,
+   "where": "cara.html@390",
+   "sel": "P.section__stand",
+   "t": "From consultation and si",
+   "bg": "section section--raised"
+  },
+  {
+   "r": 13.33,
+   "where": "cara.html@390",
+   "sel": "SPAN.tag",
+   "t": "Foto",
+   "bg": "section section--raised"
+  },
+  {
+   "r": 10.53,
+   "where": "cara.html@390",
+   "sel": "SPAN.",
+   "t": "Pasukan di tapak kerja, ",
+   "bg": "section section--raised"
+  },
+  {
+   "r": 13.33,
+   "where": "cara.html@390",
+   "sel": "SPAN.tag",
+   "t": "Foto",
+   "bg": "section section--raised"
+  },
+  {
+   "r": 10.53,
+   "where": "cara.html@390",
+   "sel": "SPAN.",
+   "t": "Kerja dalaman dalam pros",
+   "bg": "section section--raised"
+  },
+  {
+   "r": 13.44,
+   "where": "cara.html@390",
+   "sel": "P.ftr__tag",
+   "t": "Ruang dibina dengan rasa",
+   "bg": "ftr"
+  },
+  {
+   "r": 17.02,
+   "where": "cara.html@390",
+   "sel": "P.ftr__site",
+   "t": "· Renovation & Construct",
+   "bg": "ftr"
+  },
+  {
+   "r": 17.02,
+   "where": "cara.html@390",
+   "sel": "A.",
+   "t": "binahaus.com",
+   "bg": "ftr"
+  },
+  {
+   "r": 13.44,
+   "where": "cara.html@390",
+   "sel": "P.ftr__label",
+   "t": "Contact",
+   "bg": "ftr"
+  },
+  {
+   "r": 17.02,
+   "where": "cara.html@390",
+   "sel": "A.",
+   "t": "WhatsApp +60 11-1124 463",
+   "bg": "ftr"
+  },
+  {
+   "r": 17.02,
+   "where": "cara.html@390",
+   "sel": "A.",
+   "t": "Contact",
+   "bg": "ftr"
+  },
+  {
+   "r": 13.44,
+   "where": "cara.html@390",
+   "sel": "P.ftr__label",
+   "t": "Navigation",
+   "bg": "ftr"
+  },
+  {
+   "r": 17.02,
+   "where": "cara.html@390",
+   "sel": "A.",
+   "t": "Services",
+   "bg": "ftr"
+  },
+  {
+   "r": 17.02,
+   "where": "cara.html@390",
+   "sel": "A.",
+   "t": "Our Work",
+   "bg": "ftr"
+  },
+  {
+   "r": 17.02,
+   "where": "cara.html@390",
+   "sel": "A.",
+   "t": "Cara Kami Kerja",
+   "bg": "ftr"
+  },
+  {
+   "r": 17.02,
+   "where": "cara.html@390",
+   "sel": "A.",
+   "t": "About Us",
+   "bg": "ftr"
+  },
+  {
+   "r": 17.02,
+   "where": "cara.html@390",
+   "sel": "A.",
+   "t": "Profil Syarikat",
+   "bg": "ftr"
+  },
+  {
+   "r": 17.02,
+   "where": "cara.html@390",
+   "sel": "A.",
+   "t": "Contact",
+   "bg": "ftr"
+  },
+  {
+   "r": 13.44,
+   "where": "cara.html@390",
+   "sel": "SPAN.",
+   "t": "© 2026 Bina Haus. All ri",
+   "bg": "ftr"
+  },
+  {
+   "r": 13.44,
+   "where": "cara.html@390",
+   "sel": "SPAN.",
+   "t": "Look preview: arah 05 “S",
+   "bg": "ftr"
+  },
+  {
+   "r": 17.02,
+   "where": "tentang.html@390",
+   "sel": "A.skip",
+   "t": "Skip to content",
+   "bg": "skip"
+  },
+  {
+   "r": 17.02,
+   "where": "tentang.html@390",
+   "sel": "BUTTON.burger",
+   "t": "Menu",
+   "bg": "hdr"
+  },
+  {
+   "r": 17.02,
+   "where": "tentang.html@390",
+   "sel": "H1.",
+   "t": "About Us",
+   "bg": "BODY"
+  },
+  {
+   "r": 13.44,
+   "where": "tentang.html@390",
+   "sel": "P.section__stand",
+   "t": "Bina Haus is a renovatio",
+   "bg": "BODY"
+  },
+  {
+   "r": 17.02,
+   "where": "tentang.html@390",
+   "sel": "H2.",
+   "t": "We build spaces for ever",
+   "bg": "BODY"
+  },
+  {
+   "r": 17.02,
+   "where": "tentang.html@390",
+   "sel": "P.",
+   "t": "Our work ranges from ful",
+   "bg": "BODY"
+  },
+  {
+   "r": 17.02,
+   "where": "tentang.html@390",
+   "sel": "P.",
+   "t": "Whatever the scale of th",
+   "bg": "BODY"
+  },
+  {
+   "r": 17.02,
+   "where": "tentang.html@390",
+   "sel": "SPAN.tag",
+   "t": "Foto",
+   "bg": "BODY"
+  },
+  {
+   "r": 13.44,
+   "where": "tentang.html@390",
+   "sel": "SPAN.",
+   "t": "Pasukan Bina Haus di tap",
+   "bg": "BODY"
+  },
+  {
+   "r": 13.33,
+   "where": "tentang.html@390",
+   "sel": "H2.pull",
+   "t": "Ruang dibina dengan rasa",
+   "bg": "section section--raised"
+  },
+  {
+   "r": 13.33,
+   "where": "tentang.html@390",
+   "sel": "P.",
+   "t": "Because a space is more ",
+   "bg": "section section--raised"
+  },
+  {
+   "r": 13.33,
+   "where": "tentang.html@390",
+   "sel": "P.",
+   "t": "So when we build or reno",
+   "bg": "section section--raised"
+  },
+  {
+   "r": 13.33,
+   "where": "tentang.html@390",
+   "sel": "P.tag",
+   "t": "BINA HAUS. RUANG DIBINA ",
+   "bg": "section section--raised"
+  },
+  {
+   "r": 13.44,
+   "where": "tentang.html@390",
+   "sel": "P.ftr__tag",
+   "t": "Ruang dibina dengan rasa",
+   "bg": "ftr"
+  },
+  {
+   "r": 17.02,
+   "where": "tentang.html@390",
+   "sel": "P.ftr__site",
+   "t": "· Renovation & Construct",
+   "bg": "ftr"
+  },
+  {
+   "r": 17.02,
+   "where": "tentang.html@390",
+   "sel": "A.",
+   "t": "binahaus.com",
+   "bg": "ftr"
+  },
+  {
+   "r": 13.44,
+   "where": "tentang.html@390",
+   "sel": "P.ftr__label",
+   "t": "Contact",
+   "bg": "ftr"
+  },
+  {
+   "r": 17.02,
+   "where": "tentang.html@390",
+   "sel": "A.",
+   "t": "WhatsApp +60 11-1124 463",
+   "bg": "ftr"
+  },
+  {
+   "r": 17.02,
+   "where": "tentang.html@390",
+   "sel": "A.",
+   "t": "Contact",
+   "bg": "ftr"
+  },
+  {
+   "r": 13.44,
+   "where": "tentang.html@390",
+   "sel": "P.ftr__label",
+   "t": "Navigation",
+   "bg": "ftr"
+  },
+  {
+   "r": 17.02,
+   "where": "tentang.html@390",
+   "sel": "A.",
+   "t": "Services",
+   "bg": "ftr"
+  },
+  {
+   "r": 17.02,
+   "where": "tentang.html@390",
+   "sel": "A.",
+   "t": "Our Work",
+   "bg": "ftr"
+  },
+  {
+   "r": 17.02,
+   "where": "tentang.html@390",
+   "sel": "A.",
+   "t": "Cara Kami Kerja",
+   "bg": "ftr"
+  },
+  {
+   "r": 17.02,
+   "where": "tentang.html@390",
+   "sel": "A.",
+   "t": "About Us",
+   "bg": "ftr"
+  },
+  {
+   "r": 17.02,
+   "where": "tentang.html@390",
+   "sel": "A.",
+   "t": "Profil Syarikat",
+   "bg": "ftr"
+  },
+  {
+   "r": 17.02,
+   "where": "tentang.html@390",
+   "sel": "A.",
+   "t": "Contact",
+   "bg": "ftr"
+  },
+  {
+   "r": 13.44,
+   "where": "tentang.html@390",
+   "sel": "SPAN.",
+   "t": "© 2026 Bina Haus. All ri",
+   "bg": "ftr"
+  },
+  {
+   "r": 13.44,
+   "where": "tentang.html@390",
+   "sel": "SPAN.",
+   "t": "Look preview: arah 05 “S",
+   "bg": "ftr"
+  },
+  {
+   "r": 17.02,
+   "where": "syarikat.html@390",
+   "sel": "A.skip",
+   "t": "Skip to content",
+   "bg": "skip"
+  },
+  {
+   "r": 17.02,
+   "where": "syarikat.html@390",
+   "sel": "BUTTON.burger",
+   "t": "Menu",
+   "bg": "hdr"
+  },
+  {
+   "r": 17.02,
+   "where": "syarikat.html@390",
+   "sel": "H1.",
+   "t": "Profil Syarikat",
+   "bg": "BODY"
+  },
+  {
+   "r": 13.44,
+   "where": "syarikat.html@390",
+   "sel": "P.section__stand",
+   "t": "Everything the company p",
+   "bg": "BODY"
+  },
+  {
+   "r": 17.02,
+   "where": "syarikat.html@390",
+   "sel": "H2.",
+   "t": "BINA HAUS — Ruang dibina",
+   "bg": "BODY"
+  },
+  {
+   "r": 13.44,
+   "where": "syarikat.html@390",
+   "sel": "DT.",
+   "t": "Nama syarikat",
+   "bg": "BODY"
+  },
+  {
+   "r": 17.02,
+   "where": "syarikat.html@390",
+   "sel": "DD.",
+   "t": "Bina Haus",
+   "bg": "BODY"
+  },
+  {
+   "r": 13.44,
+   "where": "syarikat.html@390",
+   "sel": "SMALL.",
+   "t": "Seperti yang dipaparkan ",
+   "bg": "BODY"
+  },
+  {
+   "r": 13.44,
+   "where": "syarikat.html@390",
+   "sel": "DT.",
+   "t": "Bidang",
+   "bg": "BODY"
+  },
+  {
+   "r": 17.02,
+   "where": "syarikat.html@390",
+   "sel": "DD.",
+   "t": "Renovation and construct",
+   "bg": "BODY"
+  },
+  {
+   "r": 13.44,
+   "where": "syarikat.html@390",
+   "sel": "SMALL.",
+   "t": "Homes, offices and comme",
+   "bg": "BODY"
+  },
+  {
+   "r": 13.44,
+   "where": "syarikat.html@390",
+   "sel": "DT.",
+   "t": "Skop kerja — renovasi",
+   "bg": "BODY"
+  },
+  {
+   "r": 17.02,
+   "where": "syarikat.html@390",
+   "sel": "DD.",
+   "t": "Full house renovation · ",
+   "bg": "BODY"
+  },
+  {
+   "r": 13.44,
+   "where": "syarikat.html@390",
+   "sel": "SMALL.",
+   "t": "7 jenis kerja, seperti d",
+   "bg": "BODY"
+  },
+  {
+   "r": 13.44,
+   "where": "syarikat.html@390",
+   "sel": "DT.",
+   "t": "Skop kerja — pembinaan",
+   "bg": "BODY"
+  },
+  {
+   "r": 17.02,
+   "where": "syarikat.html@390",
+   "sel": "DD.",
+   "t": "New house construction ·",
+   "bg": "BODY"
+  },
+  {
+   "r": 13.44,
+   "where": "syarikat.html@390",
+   "sel": "SMALL.",
+   "t": "3 jenis kerja, seperti d",
+   "bg": "BODY"
+  },
+  {
+   "r": 13.44,
+   "where": "syarikat.html@390",
+   "sel": "DT.",
+   "t": "Proses",
+   "bg": "BODY"
+  },
+  {
+   "r": 17.02,
+   "where": "syarikat.html@390",
+   "sel": "DD.",
+   "t": "Consultation → Site visi",
+   "bg": "BODY"
+  },
+  {
+   "r": 13.44,
+   "where": "syarikat.html@390",
+   "sel": "SMALL.",
+   "t": "Lima langkah yang sama p",
+   "bg": "BODY"
+  },
+  {
+   "r": 13.44,
+   "where": "syarikat.html@390",
+   "sel": "DT.",
+   "t": "Cara kami bekerja",
+   "bg": "BODY"
+  },
+  {
+   "r": 17.02,
+   "where": "syarikat.html@390",
+   "sel": "DD.",
+   "t": "One team. One project. O",
+   "bg": "BODY"
+  },
+  {
+   "r": 13.44,
+   "where": "syarikat.html@390",
+   "sel": "SMALL.",
+   "t": "Satu pasukan dari konsul",
+   "bg": "BODY"
+  },
+  {
+   "r": 13.44,
+   "where": "syarikat.html@390",
+   "sel": "DT.",
+   "t": "Hubungan",
+   "bg": "BODY"
+  },
+  {
+   "r": 17.02,
+   "where": "syarikat.html@390",
+   "sel": "DD.",
+   "t": "WhatsApp +60 11-1124 463",
+   "bg": "BODY"
+  },
+  {
+   "r": 13.44,
+   "where": "syarikat.html@390",
+   "sel": "SMALL.",
+   "t": "Satu-satunya saluran yan",
+   "bg": "BODY"
+  },
+  {
+   "r": 13.44,
+   "where": "syarikat.html@390",
+   "sel": "DT.",
+   "t": "Alamat · E-mel · Pendaft",
+   "bg": "BODY"
+  },
+  {
+   "r": 17.02,
+   "where": "syarikat.html@390",
+   "sel": "DD.",
+   "t": "Belum diterbitkan",
+   "bg": "BODY"
+  },
+  {
+   "r": 13.44,
+   "where": "syarikat.html@390",
+   "sel": "SMALL.",
+   "t": "Laman binahaus.com tidak",
+   "bg": "BODY"
+  },
+  {
+   "r": 13.44,
+   "where": "syarikat.html@390",
+   "sel": "P.plaque__ft",
+   "t": "Profil ini dibaca terus ",
+   "bg": "BODY"
+  },
+  {
+   "r": 13.44,
+   "where": "syarikat.html@390",
+   "sel": "P.ftr__tag",
+   "t": "Ruang dibina dengan rasa",
+   "bg": "ftr"
+  },
+  {
+   "r": 17.02,
+   "where": "syarikat.html@390",
+   "sel": "P.ftr__site",
+   "t": "· Renovation & Construct",
+   "bg": "ftr"
+  },
+  {
+   "r": 17.02,
+   "where": "syarikat.html@390",
+   "sel": "A.",
+   "t": "binahaus.com",
+   "bg": "ftr"
+  },
+  {
+   "r": 13.44,
+   "where": "syarikat.html@390",
+   "sel": "P.ftr__label",
+   "t": "Contact",
+   "bg": "ftr"
+  },
+  {
+   "r": 17.02,
+   "where": "syarikat.html@390",
+   "sel": "A.",
+   "t": "WhatsApp +60 11-1124 463",
+   "bg": "ftr"
+  },
+  {
+   "r": 17.02,
+   "where": "syarikat.html@390",
+   "sel": "A.",
+   "t": "Contact",
+   "bg": "ftr"
+  },
+  {
+   "r": 13.44,
+   "where": "syarikat.html@390",
+   "sel": "P.ftr__label",
+   "t": "Navigation",
+   "bg": "ftr"
+  },
+  {
+   "r": 17.02,
+   "where": "syarikat.html@390",
+   "sel": "A.",
+   "t": "Services",
+   "bg": "ftr"
+  },
+  {
+   "r": 17.02,
+   "where": "syarikat.html@390",
+   "sel": "A.",
+   "t": "Our Work",
+   "bg": "ftr"
+  },
+  {
+   "r": 17.02,
+   "where": "syarikat.html@390",
+   "sel": "A.",
+   "t": "Cara Kami Kerja",
+   "bg": "ftr"
+  },
+  {
+   "r": 17.02,
+   "where": "syarikat.html@390",
+   "sel": "A.",
+   "t": "About Us",
+   "bg": "ftr"
+  },
+  {
+   "r": 17.02,
+   "where": "syarikat.html@390",
+   "sel": "A.",
+   "t": "Profil Syarikat",
+   "bg": "ftr"
+  },
+  {
+   "r": 17.02,
+   "where": "syarikat.html@390",
+   "sel": "A.",
+   "t": "Contact",
+   "bg": "ftr"
+  },
+  {
+   "r": 13.44,
+   "where": "syarikat.html@390",
+   "sel": "SPAN.",
+   "t": "© 2026 Bina Haus. All ri",
+   "bg": "ftr"
+  },
+  {
+   "r": 13.44,
+   "where": "syarikat.html@390",
+   "sel": "SPAN.",
+   "t": "Look preview: arah 05 “S",
+   "bg": "ftr"
+  },
+  {
+   "r": 17.02,
+   "where": "kontak.html@390",
+   "sel": "A.skip",
+   "t": "Skip to content",
+   "bg": "skip"
+  },
+  {
+   "r": 17.02,
+   "where": "kontak.html@390",
+   "sel": "BUTTON.burger",
+   "t": "Menu",
+   "bg": "hdr"
+  },
+  {
+   "r": 17.02,
+   "where": "kontak.html@390",
+   "sel": "H1.",
+   "t": "Contact",
+   "bg": "BODY"
+  },
+  {
+   "r": 13.44,
+   "where": "kontak.html@390",
+   "sel": "P.section__stand",
+   "t": "Tell us what you need an",
+   "bg": "BODY"
+  },
+  {
+   "r": 17.02,
+   "where": "kontak.html@390",
+   "sel": "H2.",
+   "t": "Planning to renovate you",
+   "bg": "BODY"
+  },
+  {
+   "r": 13.44,
+   "where": "kontak.html@390",
+   "sel": "P.section__stand",
+   "t": "Get free quotations, or ",
+   "bg": "BODY"
+  },
+  {
+   "r": 17.02,
+   "where": "kontak.html@390",
+   "sel": "A.btn",
+   "t": "Get free Quotations",
+   "bg": "btn"
+  },
+  {
+   "r": 17.02,
+   "where": "kontak.html@390",
+   "sel": "A.btn",
+   "t": "WhatsApp Us",
+   "bg": "BODY"
+  },
+  {
+   "r": 13.44,
+   "where": "kontak.html@390",
+   "sel": "P.ftr__label",
+   "t": "Saluran yang diterbitkan",
+   "bg": "BODY"
+  },
+  {
+   "r": 17.02,
+   "where": "kontak.html@390",
+   "sel": "A.",
+   "t": "WhatsApp +60 11-1124 463",
+   "bg": "BODY"
+  },
+  {
+   "r": 17.02,
+   "where": "kontak.html@390",
+   "sel": "A.",
+   "t": "binahaus.com",
+   "bg": "BODY"
+  },
+  {
+   "r": 13.44,
+   "where": "kontak.html@390",
+   "sel": "P.strip__note",
+   "t": "Laman binahaus.com tidak",
+   "bg": "BODY"
+  },
+  {
+   "r": 17.02,
+   "where": "kontak.html@390",
+   "sel": "SPAN.tag",
+   "t": "Foto",
+   "bg": "BODY"
+  },
+  {
+   "r": 13.44,
+   "where": "kontak.html@390",
+   "sel": "SPAN.",
+   "t": "Ruang dalaman selepas ke",
+   "bg": "BODY"
+  },
+  {
+   "r": 13.44,
+   "where": "kontak.html@390",
+   "sel": "P.ftr__tag",
+   "t": "Ruang dibina dengan rasa",
+   "bg": "ftr"
+  },
+  {
+   "r": 17.02,
+   "where": "kontak.html@390",
+   "sel": "P.ftr__site",
+   "t": "· Renovation & Construct",
+   "bg": "ftr"
+  },
+  {
+   "r": 17.02,
+   "where": "kontak.html@390",
+   "sel": "A.",
+   "t": "binahaus.com",
+   "bg": "ftr"
+  },
+  {
+   "r": 13.44,
+   "where": "kontak.html@390",
+   "sel": "P.ftr__label",
+   "t": "Contact",
+   "bg": "ftr"
+  },
+  {
+   "r": 17.02,
+   "where": "kontak.html@390",
+   "sel": "A.",
+   "t": "WhatsApp +60 11-1124 463",
+   "bg": "ftr"
+  },
+  {
+   "r": 17.02,
+   "where": "kontak.html@390",
+   "sel": "A.",
+   "t": "Contact",
+   "bg": "ftr"
+  },
+  {
+   "r": 13.44,
+   "where": "kontak.html@390",
+   "sel": "P.ftr__label",
+   "t": "Navigation",
+   "bg": "ftr"
+  },
+  {
+   "r": 17.02,
+   "where": "kontak.html@390",
+   "sel": "A.",
+   "t": "Services",
+   "bg": "ftr"
+  },
+  {
+   "r": 17.02,
+   "where": "kontak.html@390",
+   "sel": "A.",
+   "t": "Our Work",
+   "bg": "ftr"
+  },
+  {
+   "r": 17.02,
+   "where": "kontak.html@390",
+   "sel": "A.",
+   "t": "Cara Kami Kerja",
+   "bg": "ftr"
+  },
+  {
+   "r": 17.02,
+   "where": "kontak.html@390",
+   "sel": "A.",
+   "t": "About Us",
+   "bg": "ftr"
+  },
+  {
+   "r": 17.02,
+   "where": "kontak.html@390",
+   "sel": "A.",
+   "t": "Profil Syarikat",
+   "bg": "ftr"
+  },
+  {
+   "r": 17.02,
+   "where": "kontak.html@390",
+   "sel": "A.",
+   "t": "Contact",
+   "bg": "ftr"
+  },
+  {
+   "r": 13.44,
+   "where": "kontak.html@390",
+   "sel": "SPAN.",
+   "t": "© 2026 Bina Haus. All ri",
+   "bg": "ftr"
+  },
+  {
+   "r": 13.44,
+   "where": "kontak.html@390",
+   "sel": "SPAN.",
+   "t": "Look preview: arah 05 “S",
+   "bg": "ftr"
+  },
+  {
+   "r": 17.02,
+   "where": "index.html@768",
+   "sel": "A.skip",
+   "t": "Skip to content",
+   "bg": "skip"
+  },
+  {
+   "r": 17.02,
+   "where": "index.html@768",
+   "sel": "BUTTON.burger",
+   "t": "Menu",
+   "bg": "hdr"
+  },
+  {
+   "r": 17.02,
+   "where": "index.html@768",
+   "sel": "H1.",
+   "t": "Ruang dibina dengan rasa",
+   "bg": "BODY"
+  },
+  {
+   "r": 13.44,
+   "where": "index.html@768",
+   "sel": "P.lede",
+   "t": "Renovation and construct",
+   "bg": "BODY"
+  },
+  {
+   "r": 17.02,
+   "where": "index.html@768",
+   "sel": "P.",
+   "t": "From the first consultat",
+   "bg": "BODY"
+  },
+  {
+   "r": 17.02,
+   "where": "index.html@768",
+   "sel": "A.btn",
+   "t": "Get free Quotation",
+   "bg": "btn"
+  },
+  {
+   "r": 17.02,
+   "where": "index.html@768",
+   "sel": "A.btn",
+   "t": "WhatsApp Us",
+   "bg": "BODY"
+  },
+  {
+   "r": 17.02,
+   "where": "index.html@768",
+   "sel": "SPAN.tag",
+   "t": "Foto",
+   "bg": "BODY"
+  },
+  {
+   "r": 13.44,
+   "where": "index.html@768",
+   "sel": "SPAN.",
+   "t": "Ruang tamu sebuah rumah ",
+   "bg": "BODY"
+  },
+  {
+   "r": 17.02,
+   "where": "index.html@768",
+   "sel": "H2.",
+   "t": "Masuk ke dalam rumah",
+   "bg": "BODY"
+  },
+  {
+   "r": 13.44,
+   "where": "index.html@768",
+   "sel": "P.section__stand",
+   "t": "Setiap ruang di bawah ia",
+   "bg": "BODY"
+  },
+  {
+   "r": 17.02,
+   "where": "index.html@768",
+   "sel": "SPAN.tag",
+   "t": "Foto",
+   "bg": "BODY"
+  },
+  {
+   "r": 13.44,
+   "where": "index.html@768",
+   "sel": "SPAN.",
+   "t": "Ruang tamu — tujuh jenis",
+   "bg": "BODY"
+  },
+  {
+   "r": 17.02,
+   "where": "index.html@768",
+   "sel": "SPAN.tag",
+   "t": "Foto",
+   "bg": "BODY"
+  },
+  {
+   "r": 13.44,
+   "where": "index.html@768",
+   "sel": "SPAN.",
+   "t": "Dapur — kitchen renovati",
+   "bg": "BODY"
+  },
+  {
+   "r": 17.02,
+   "where": "index.html@768",
+   "sel": "SPAN.tag",
+   "t": "Foto",
+   "bg": "BODY"
+  },
+  {
+   "r": 13.44,
+   "where": "index.html@768",
+   "sel": "SPAN.",
+   "t": "Tapak — kerja pembinaan ",
+   "bg": "BODY"
+  },
+  {
+   "r": 17.02,
+   "where": "index.html@768",
+   "sel": "H2.",
+   "t": "See the work for yoursel",
+   "bg": "BODY"
+  },
+  {
+   "r": 13.44,
+   "where": "index.html@768",
+   "sel": "P.section__stand",
+   "t": "A collection of work by ",
+   "bg": "BODY"
+  },
+  {
+   "r": 17.02,
+   "where": "index.html@768",
+   "sel": "SPAN.tag",
+   "t": "Foto",
+   "bg": "BODY"
+  },
+  {
+   "r": 13.44,
+   "where": "index.html@768",
+   "sel": "SPAN.",
+   "t": "Bangunan sedia ada, kerj",
+   "bg": "BODY"
+  },
+  {
+   "r": 17.02,
+   "where": "index.html@768",
+   "sel": "SPAN.tag",
+   "t": "Video",
+   "bg": "BODY"
+  },
+  {
+   "r": 13.44,
+   "where": "index.html@768",
+   "sel": "SPAN.",
+   "t": "Unit dalam kerja, kaca &",
+   "bg": "BODY"
+  },
+  {
+   "r": 17.02,
+   "where": "index.html@768",
+   "sel": "SPAN.tag",
+   "t": "Foto",
+   "bg": "BODY"
+  },
+  {
+   "r": 13.44,
+   "where": "index.html@768",
+   "sel": "SPAN.",
+   "t": "Ruang dalaman, tingkap b",
+   "bg": "BODY"
+  },
+  {
+   "r": 17.02,
+   "where": "index.html@768",
+   "sel": "SPAN.tag",
+   "t": "Render",
+   "bg": "BODY"
+  },
+  {
+   "r": 13.44,
+   "where": "index.html@768",
+   "sel": "SPAN.",
+   "t": "Dry Kitchen",
+   "bg": "BODY"
+  },
+  {
+   "r": 17.02,
+   "where": "index.html@768",
+   "sel": "SPAN.tag",
+   "t": "Video",
+   "bg": "BODY"
+  },
+  {
+   "r": 13.44,
+   "where": "index.html@768",
+   "sel": "SPAN.",
+   "t": "Unit komersial, partitio",
+   "bg": "BODY"
+  },
+  {
+   "r": 17.02,
+   "where": "index.html@768",
+   "sel": "SPAN.tag",
+   "t": "Foto",
+   "bg": "BODY"
+  },
+  {
+   "r": 13.44,
+   "where": "index.html@768",
+   "sel": "SPAN.",
+   "t": "Kerja luaran, scaffold",
+   "bg": "BODY"
+  },
+  {
+   "r": 17.02,
+   "where": "index.html@768",
+   "sel": "A.btn",
+   "t": "All work",
+   "bg": "BODY"
+  },
+  {
+   "r": 13.44,
+   "where": "index.html@768",
+   "sel": "H2.",
+   "t": "One team. One project. O",
+   "bg": "band"
+  },
+  {
+   "r": 10.53,
+   "where": "index.html@768",
+   "sel": "P.",
+   "t": "Renovation and construct",
+   "bg": "band"
+  },
+  {
+   "r": 10.53,
+   "where": "index.html@768",
+   "sel": "P.",
+   "t": "With Bina Haus, you have",
+   "bg": "band"
+  },
+  {
+   "r": 10.53,
+   "where": "index.html@768",
+   "sel": "P.",
+   "t": "From consultation and si",
+   "bg": "band"
+  },
+  {
+   "r": 13.44,
+   "where": "index.html@768",
+   "sel": "P.pull",
+   "t": "One project. One point o",
+   "bg": "band"
+  },
+  {
+   "r": 13.33,
+   "where": "index.html@768",
+   "sel": "H2.",
+   "t": "Planning to renovate you",
+   "bg": "cta"
+  },
+  {
+   "r": 10.53,
+   "where": "index.html@768",
+   "sel": "P.",
+   "t": "Tell us what you need an",
+   "bg": "cta"
+  },
+  {
+   "r": 17.02,
+   "where": "index.html@768",
+   "sel": "A.btn",
+   "t": "Get free Quotations",
+   "bg": "btn"
+  },
+  {
+   "r": 13.33,
+   "where": "index.html@768",
+   "sel": "A.btn",
+   "t": "WhatsApp Us",
+   "bg": "cta"
+  },
+  {
+   "r": 13.44,
+   "where": "index.html@768",
+   "sel": "P.ftr__tag",
+   "t": "Ruang dibina dengan rasa",
+   "bg": "ftr"
+  },
+  {
+   "r": 17.02,
+   "where": "index.html@768",
+   "sel": "P.ftr__site",
+   "t": "· Renovation & Construct",
+   "bg": "ftr"
+  },
+  {
+   "r": 17.02,
+   "where": "index.html@768",
+   "sel": "A.",
+   "t": "binahaus.com",
+   "bg": "ftr"
+  },
+  {
+   "r": 13.44,
+   "where": "index.html@768",
+   "sel": "P.ftr__label",
+   "t": "Contact",
+   "bg": "ftr"
+  },
+  {
+   "r": 17.02,
+   "where": "index.html@768",
+   "sel": "A.",
+   "t": "WhatsApp +60 11-1124 463",
+   "bg": "ftr"
+  },
+  {
+   "r": 17.02,
+   "where": "index.html@768",
+   "sel": "A.",
+   "t": "Contact",
+   "bg": "ftr"
+  },
+  {
+   "r": 13.44,
+   "where": "index.html@768",
+   "sel": "P.ftr__label",
+   "t": "Navigation",
+   "bg": "ftr"
+  },
+  {
+   "r": 17.02,
+   "where": "index.html@768",
+   "sel": "A.",
+   "t": "Services",
+   "bg": "ftr"
+  },
+  {
+   "r": 17.02,
+   "where": "index.html@768",
+   "sel": "A.",
+   "t": "Our Work",
+   "bg": "ftr"
+  },
+  {
+   "r": 17.02,
+   "where": "index.html@768",
+   "sel": "A.",
+   "t": "Cara Kami Kerja",
+   "bg": "ftr"
+  },
+  {
+   "r": 17.02,
+   "where": "index.html@768",
+   "sel": "A.",
+   "t": "About Us",
+   "bg": "ftr"
+  },
+  {
+   "r": 17.02,
+   "where": "index.html@768",
+   "sel": "A.",
+   "t": "Profil Syarikat",
+   "bg": "ftr"
+  },
+  {
+   "r": 17.02,
+   "where": "index.html@768",
+   "sel": "A.",
+   "t": "Contact",
+   "bg": "ftr"
+  },
+  {
+   "r": 13.44,
+   "where": "index.html@768",
+   "sel": "SPAN.",
+   "t": "© 2026 Bina Haus. All ri",
+   "bg": "ftr"
+  },
+  {
+   "r": 13.44,
+   "where": "index.html@768",
+   "sel": "SPAN.",
+   "t": "Look preview: arah 05 “S",
+   "bg": "ftr"
+  },
+  {
+   "r": 17.02,
+   "where": "perkhidmatan.html@768",
+   "sel": "A.skip",
+   "t": "Skip to content",
+   "bg": "skip"
+  },
+  {
+   "r": 17.02,
+   "where": "perkhidmatan.html@768",
+   "sel": "BUTTON.burger",
+   "t": "Menu",
+   "bg": "hdr"
+  },
+  {
+   "r": 17.02,
+   "where": "perkhidmatan.html@768",
+   "sel": "H1.",
+   "t": "Services",
+   "bg": "BODY"
+  },
+  {
+   "r": 13.44,
+   "where": "perkhidmatan.html@768",
+   "sel": "P.section__stand",
+   "t": "Whether you're renovatin",
+   "bg": "BODY"
+  },
+  {
+   "r": 17.02,
+   "where": "perkhidmatan.html@768",
+   "sel": "H2.",
+   "t": "Renovations",
+   "bg": "BODY"
+  },
+  {
+   "r": 13.44,
+   "where": "perkhidmatan.html@768",
+   "sel": "P.section__stand",
+   "t": "A better space starts wi",
+   "bg": "BODY"
+  },
+  {
+   "r": 13.44,
+   "where": "perkhidmatan.html@768",
+   "sel": "SPAN.n",
+   "t": "01",
+   "bg": "BODY"
+  },
+  {
+   "r": 17.02,
+   "where": "perkhidmatan.html@768",
+   "sel": "B.",
+   "t": "Full house Renovation",
+   "bg": "BODY"
+  },
+  {
+   "r": 13.44,
+   "where": "perkhidmatan.html@768",
+   "sel": "P.",
+   "t": "Give your existing home ",
+   "bg": "BODY"
+  },
+  {
+   "r": 13.44,
+   "where": "perkhidmatan.html@768",
+   "sel": "SPAN.n",
+   "t": "02",
+   "bg": "BODY"
+  },
+  {
+   "r": 17.02,
+   "where": "perkhidmatan.html@768",
+   "sel": "B.",
+   "t": "Kitchen renovations",
+   "bg": "BODY"
+  },
+  {
+   "r": 13.44,
+   "where": "perkhidmatan.html@768",
+   "sel": "P.",
+   "t": "Upgrade your kitchen int",
+   "bg": "BODY"
+  },
+  {
+   "r": 13.44,
+   "where": "perkhidmatan.html@768",
+   "sel": "SPAN.n",
+   "t": "03",
+   "bg": "BODY"
+  },
+  {
+   "r": 17.02,
+   "where": "perkhidmatan.html@768",
+   "sel": "B.",
+   "t": "Extension",
+   "bg": "BODY"
+  },
+  {
+   "r": 13.44,
+   "where": "perkhidmatan.html@768",
+   "sel": "P.",
+   "t": "Create the additional sp",
+   "bg": "BODY"
+  },
+  {
+   "r": 13.44,
+   "where": "perkhidmatan.html@768",
+   "sel": "SPAN.n",
+   "t": "04",
+   "bg": "BODY"
+  },
+  {
+   "r": 17.02,
+   "where": "perkhidmatan.html@768",
+   "sel": "B.",
+   "t": "Flooring",
+   "bg": "BODY"
+  },
+  {
+   "r": 13.44,
+   "where": "perkhidmatan.html@768",
+   "sel": "P.",
+   "t": "Refresh your space from ",
+   "bg": "BODY"
+  },
+  {
+   "r": 13.44,
+   "where": "perkhidmatan.html@768",
+   "sel": "SPAN.n",
+   "t": "05",
+   "bg": "BODY"
+  },
+  {
+   "r": 17.02,
+   "where": "perkhidmatan.html@768",
+   "sel": "B.",
+   "t": "Plaster Ceiling",
+   "bg": "BODY"
+  },
+  {
+   "r": 13.44,
+   "where": "perkhidmatan.html@768",
+   "sel": "P.",
+   "t": "Give your interior a cle",
+   "bg": "BODY"
+  },
+  {
+   "r": 13.44,
+   "where": "perkhidmatan.html@768",
+   "sel": "SPAN.n",
+   "t": "06",
+   "bg": "BODY"
+  },
+  {
+   "r": 17.02,
+   "where": "perkhidmatan.html@768",
+   "sel": "B.",
+   "t": "Painting",
+   "bg": "BODY"
+  },
+  {
+   "r": 13.44,
+   "where": "perkhidmatan.html@768",
+   "sel": "P.",
+   "t": "Refresh the look and fee",
+   "bg": "BODY"
+  },
+  {
+   "r": 13.44,
+   "where": "perkhidmatan.html@768",
+   "sel": "SPAN.n",
+   "t": "07",
+   "bg": "BODY"
+  },
+  {
+   "r": 17.02,
+   "where": "perkhidmatan.html@768",
+   "sel": "B.",
+   "t": "Electrical & Plumbing",
+   "bg": "BODY"
+  },
+  {
+   "r": 13.44,
+   "where": "perkhidmatan.html@768",
+   "sel": "P.",
+   "t": "Essential electrical and",
+   "bg": "BODY"
+  },
+  {
+   "r": 13.33,
+   "where": "perkhidmatan.html@768",
+   "sel": "H2.",
+   "t": "Kitchen renovations",
+   "bg": "section section--raised"
+  },
+  {
+   "r": 10.53,
+   "where": "perkhidmatan.html@768",
+   "sel": "P.section__stand",
+   "t": "Upgrade your kitchen int",
+   "bg": "section section--raised"
+  },
+  {
+   "r": 10.53,
+   "where": "perkhidmatan.html@768",
+   "sel": "P.strip__note",
+   "t": "The two tiles opposite a",
+   "bg": "section section--raised"
+  },
+  {
+   "r": 13.33,
+   "where": "perkhidmatan.html@768",
+   "sel": "SPAN.tag",
+   "t": "Foto",
+   "bg": "section section--raised"
+  },
+  {
+   "r": 10.53,
+   "where": "perkhidmatan.html@768",
+   "sel": "SPAN.",
+   "t": "Dapur selepas kerja — ka",
+   "bg": "section section--raised"
+  },
+  {
+   "r": 13.33,
+   "where": "perkhidmatan.html@768",
+   "sel": "SPAN.tag",
+   "t": "Render",
+   "bg": "section section--raised"
+  },
+  {
+   "r": 10.53,
+   "where": "perkhidmatan.html@768",
+   "sel": "SPAN.",
+   "t": "Kitchen",
+   "bg": "section section--raised"
+  },
+  {
+   "r": 13.33,
+   "where": "perkhidmatan.html@768",
+   "sel": "SPAN.tag",
+   "t": "Render",
+   "bg": "section section--raised"
+  },
+  {
+   "r": 10.53,
+   "where": "perkhidmatan.html@768",
+   "sel": "SPAN.",
+   "t": "Dry Kitchen",
+   "bg": "section section--raised"
+  },
+  {
+   "r": 17.02,
+   "where": "perkhidmatan.html@768",
+   "sel": "H2.",
+   "t": "Construction",
+   "bg": "BODY"
+  },
+  {
+   "r": 13.44,
+   "where": "perkhidmatan.html@768",
+   "sel": "P.section__stand",
+   "t": "Built for what comes nex",
+   "bg": "BODY"
+  },
+  {
+   "r": 13.44,
+   "where": "perkhidmatan.html@768",
+   "sel": "P.section__stand",
+   "t": "Whether you're building ",
+   "bg": "BODY"
+  },
+  {
+   "r": 13.44,
+   "where": "perkhidmatan.html@768",
+   "sel": "SPAN.n",
+   "t": "01",
+   "bg": "BODY"
+  },
+  {
+   "r": 17.02,
+   "where": "perkhidmatan.html@768",
+   "sel": "B.",
+   "t": "New house Constructions",
+   "bg": "BODY"
+  },
+  {
+   "r": 13.44,
+   "where": "perkhidmatan.html@768",
+   "sel": "P.",
+   "t": "Building your new home f",
+   "bg": "BODY"
+  },
+  {
+   "r": 13.44,
+   "where": "perkhidmatan.html@768",
+   "sel": "SPAN.n",
+   "t": "02",
+   "bg": "BODY"
+  },
+  {
+   "r": 17.02,
+   "where": "perkhidmatan.html@768",
+   "sel": "B.",
+   "t": "House Extension",
+   "bg": "BODY"
+  },
+  {
+   "r": 13.44,
+   "where": "perkhidmatan.html@768",
+   "sel": "P.",
+   "t": "Add the extra space your",
+   "bg": "BODY"
+  },
+  {
+   "r": 13.44,
+   "where": "perkhidmatan.html@768",
+   "sel": "SPAN.n",
+   "t": "03",
+   "bg": "BODY"
+  },
+  {
+   "r": 17.02,
+   "where": "perkhidmatan.html@768",
+   "sel": "B.",
+   "t": "Structural Works",
+   "bg": "BODY"
+  },
+  {
+   "r": 13.44,
+   "where": "perkhidmatan.html@768",
+   "sel": "P.",
+   "t": "Structural works require",
+   "bg": "BODY"
+  },
+  {
+   "r": 13.33,
+   "where": "perkhidmatan.html@768",
+   "sel": "H2.",
+   "t": "Structural works",
+   "bg": "section section--raised"
+  },
+  {
+   "r": 10.53,
+   "where": "perkhidmatan.html@768",
+   "sel": "P.section__stand",
+   "t": "Structural works require",
+   "bg": "section section--raised"
+  },
+  {
+   "r": 10.53,
+   "where": "perkhidmatan.html@768",
+   "sel": "P.strip__note",
+   "t": "A site in progress and t",
+   "bg": "section section--raised"
+  },
+  {
+   "r": 13.33,
+   "where": "perkhidmatan.html@768",
+   "sel": "SPAN.tag",
+   "t": "Foto",
+   "bg": "section section--raised"
+  },
+  {
+   "r": 10.53,
+   "where": "perkhidmatan.html@768",
+   "sel": "SPAN.",
+   "t": "Tapak pembinaan: struktu",
+   "bg": "section section--raised"
+  },
+  {
+   "r": 13.33,
+   "where": "perkhidmatan.html@768",
+   "sel": "SPAN.tag",
+   "t": "Foto",
+   "bg": "section section--raised"
+  },
+  {
+   "r": 10.53,
+   "where": "perkhidmatan.html@768",
+   "sel": "SPAN.",
+   "t": "Kerja luaran, scaffold",
+   "bg": "section section--raised"
+  },
+  {
+   "r": 13.33,
+   "where": "perkhidmatan.html@768",
+   "sel": "SPAN.tag",
+   "t": "Foto",
+   "bg": "section section--raised"
+  },
+  {
+   "r": 10.53,
+   "where": "perkhidmatan.html@768",
+   "sel": "SPAN.",
+   "t": "Kerja plaster, dinding b",
+   "bg": "section section--raised"
+  },
+  {
+   "r": 13.33,
+   "where": "perkhidmatan.html@768",
+   "sel": "SPAN.tag",
+   "t": "Video",
+   "bg": "section section--raised"
+  },
+  {
+   "r": 10.53,
+   "where": "perkhidmatan.html@768",
+   "sel": "SPAN.",
+   "t": "Lantai & skirting",
+   "bg": "section section--raised"
+  },
+  {
+   "r": 13.33,
+   "where": "perkhidmatan.html@768",
+   "sel": "SPAN.tag",
+   "t": "Video",
+   "bg": "section section--raised"
+  },
+  {
+   "r": 10.53,
+   "where": "perkhidmatan.html@768",
+   "sel": "SPAN.",
+   "t": "Jubin lantai & dinding",
+   "bg": "section section--raised"
+  },
+  {
+   "r": 13.44,
+   "where": "perkhidmatan.html@768",
+   "sel": "P.ftr__tag",
+   "t": "Ruang dibina dengan rasa",
+   "bg": "ftr"
+  },
+  {
+   "r": 17.02,
+   "where": "perkhidmatan.html@768",
+   "sel": "P.ftr__site",
+   "t": "· Renovation & Construct",
+   "bg": "ftr"
+  },
+  {
+   "r": 17.02,
+   "where": "perkhidmatan.html@768",
+   "sel": "A.",
+   "t": "binahaus.com",
+   "bg": "ftr"
+  },
+  {
+   "r": 13.44,
+   "where": "perkhidmatan.html@768",
+   "sel": "P.ftr__label",
+   "t": "Contact",
+   "bg": "ftr"
+  },
+  {
+   "r": 17.02,
+   "where": "perkhidmatan.html@768",
+   "sel": "A.",
+   "t": "WhatsApp +60 11-1124 463",
+   "bg": "ftr"
+  },
+  {
+   "r": 17.02,
+   "where": "perkhidmatan.html@768",
+   "sel": "A.",
+   "t": "Contact",
+   "bg": "ftr"
+  },
+  {
+   "r": 13.44,
+   "where": "perkhidmatan.html@768",
+   "sel": "P.ftr__label",
+   "t": "Navigation",
+   "bg": "ftr"
+  },
+  {
+   "r": 17.02,
+   "where": "perkhidmatan.html@768",
+   "sel": "A.",
+   "t": "Services",
+   "bg": "ftr"
+  },
+  {
+   "r": 17.02,
+   "where": "perkhidmatan.html@768",
+   "sel": "A.",
+   "t": "Our Work",
+   "bg": "ftr"
+  },
+  {
+   "r": 17.02,
+   "where": "perkhidmatan.html@768",
+   "sel": "A.",
+   "t": "Cara Kami Kerja",
+   "bg": "ftr"
+  },
+  {
+   "r": 17.02,
+   "where": "perkhidmatan.html@768",
+   "sel": "A.",
+   "t": "About Us",
+   "bg": "ftr"
+  },
+  {
+   "r": 17.02,
+   "where": "perkhidmatan.html@768",
+   "sel": "A.",
+   "t": "Profil Syarikat",
+   "bg": "ftr"
+  },
+  {
+   "r": 17.02,
+   "where": "perkhidmatan.html@768",
+   "sel": "A.",
+   "t": "Contact",
+   "bg": "ftr"
+  },
+  {
+   "r": 13.44,
+   "where": "perkhidmatan.html@768",
+   "sel": "SPAN.",
+   "t": "© 2026 Bina Haus. All ri",
+   "bg": "ftr"
+  },
+  {
+   "r": 13.44,
+   "where": "perkhidmatan.html@768",
+   "sel": "SPAN.",
+   "t": "Look preview: arah 05 “S",
+   "bg": "ftr"
+  },
+  {
+   "r": 17.02,
+   "where": "kerja.html@768",
+   "sel": "A.skip",
+   "t": "Skip to content",
+   "bg": "skip"
+  },
+  {
+   "r": 17.02,
+   "where": "kerja.html@768",
+   "sel": "BUTTON.burger",
+   "t": "Menu",
+   "bg": "hdr"
+  },
+  {
+   "r": 17.02,
+   "where": "kerja.html@768",
+   "sel": "H1.",
+   "t": "Our Work",
+   "bg": "BODY"
+  },
+  {
+   "r": 13.44,
+   "where": "kerja.html@768",
+   "sel": "P.section__stand",
+   "t": "A collection of work by ",
+   "bg": "BODY"
+  },
+  {
+   "r": 17.02,
+   "where": "kerja.html@768",
+   "sel": "H2.",
+   "t": "See the work for yoursel",
+   "bg": "BODY"
+  },
+  {
+   "r": 13.44,
+   "where": "kerja.html@768",
+   "sel": "P.section__stand",
+   "t": "Photographs, 3D renders ",
+   "bg": "BODY"
+  },
+  {
+   "r": 17.02,
+   "where": "kerja.html@768",
+   "sel": "SPAN.tag",
+   "t": "Foto",
+   "bg": "BODY"
+  },
+  {
+   "r": 13.44,
+   "where": "kerja.html@768",
+   "sel": "SPAN.",
+   "t": "Bangunan sedia ada, kerj",
+   "bg": "BODY"
+  },
+  {
+   "r": 17.02,
+   "where": "kerja.html@768",
+   "sel": "SPAN.tag",
+   "t": "Video",
+   "bg": "BODY"
+  },
+  {
+   "r": 13.44,
+   "where": "kerja.html@768",
+   "sel": "SPAN.",
+   "t": "Unit dalam kerja, kaca &",
+   "bg": "BODY"
+  },
+  {
+   "r": 17.02,
+   "where": "kerja.html@768",
+   "sel": "SPAN.tag",
+   "t": "Foto",
+   "bg": "BODY"
+  },
+  {
+   "r": 13.44,
+   "where": "kerja.html@768",
+   "sel": "SPAN.",
+   "t": "Ruang dalaman, tingkap b",
+   "bg": "BODY"
+  },
+  {
+   "r": 17.02,
+   "where": "kerja.html@768",
+   "sel": "SPAN.tag",
+   "t": "Render",
+   "bg": "BODY"
+  },
+  {
+   "r": 13.44,
+   "where": "kerja.html@768",
+   "sel": "SPAN.",
+   "t": "Dry Kitchen",
+   "bg": "BODY"
+  },
+  {
+   "r": 17.02,
+   "where": "kerja.html@768",
+   "sel": "SPAN.tag",
+   "t": "Video",
+   "bg": "BODY"
+  },
+  {
+   "r": 13.44,
+   "where": "kerja.html@768",
+   "sel": "SPAN.",
+   "t": "Unit komersial, partitio",
+   "bg": "BODY"
+  },
+  {
+   "r": 17.02,
+   "where": "kerja.html@768",
+   "sel": "SPAN.tag",
+   "t": "Foto",
+   "bg": "BODY"
+  },
+  {
+   "r": 13.44,
+   "where": "kerja.html@768",
+   "sel": "SPAN.",
+   "t": "Kerja luaran, scaffold",
+   "bg": "BODY"
+  },
+  {
+   "r": 17.02,
+   "where": "kerja.html@768",
+   "sel": "SPAN.tag",
+   "t": "Foto",
+   "bg": "BODY"
+  },
+  {
+   "r": 13.44,
+   "where": "kerja.html@768",
+   "sel": "SPAN.",
+   "t": "Ruang dalaman, lantai ka",
+   "bg": "BODY"
+  },
+  {
+   "r": 17.02,
+   "where": "kerja.html@768",
+   "sel": "SPAN.tag",
+   "t": "Video",
+   "bg": "BODY"
+  },
+  {
+   "r": 13.44,
+   "where": "kerja.html@768",
+   "sel": "SPAN.",
+   "t": "Jubin lantai",
+   "bg": "BODY"
+  },
+  {
+   "r": 17.02,
+   "where": "kerja.html@768",
+   "sel": "SPAN.tag",
+   "t": "Render",
+   "bg": "BODY"
+  },
+  {
+   "r": 13.44,
+   "where": "kerja.html@768",
+   "sel": "SPAN.",
+   "t": "Living and Dining",
+   "bg": "BODY"
+  },
+  {
+   "r": 17.02,
+   "where": "kerja.html@768",
+   "sel": "SPAN.tag",
+   "t": "Foto",
+   "bg": "BODY"
+  },
+  {
+   "r": 13.44,
+   "where": "kerja.html@768",
+   "sel": "SPAN.",
+   "t": "Tapak kerja, kayu di lan",
+   "bg": "BODY"
+  },
+  {
+   "r": 17.02,
+   "where": "kerja.html@768",
+   "sel": "SPAN.tag",
+   "t": "Video",
+   "bg": "BODY"
+  },
+  {
+   "r": 13.44,
+   "where": "kerja.html@768",
+   "sel": "SPAN.",
+   "t": "Pintu & dinding",
+   "bg": "BODY"
+  },
+  {
+   "r": 17.02,
+   "where": "kerja.html@768",
+   "sel": "SPAN.tag",
+   "t": "Foto",
+   "bg": "BODY"
+  },
+  {
+   "r": 13.44,
+   "where": "kerja.html@768",
+   "sel": "SPAN.",
+   "t": "Ruang kosong, lantai kay",
+   "bg": "BODY"
+  },
+  {
+   "r": 17.02,
+   "where": "kerja.html@768",
+   "sel": "SPAN.tag",
+   "t": "Render",
+   "bg": "BODY"
+  },
+  {
+   "r": 13.44,
+   "where": "kerja.html@768",
+   "sel": "SPAN.",
+   "t": "Walk-in Wardrobe",
+   "bg": "BODY"
+  },
+  {
+   "r": 17.02,
+   "where": "kerja.html@768",
+   "sel": "SPAN.tag",
+   "t": "Video",
+   "bg": "BODY"
+  },
+  {
+   "r": 13.44,
+   "where": "kerja.html@768",
+   "sel": "SPAN.",
+   "t": "Kerja hacking & peroboha",
+   "bg": "BODY"
+  },
+  {
+   "r": 17.02,
+   "where": "kerja.html@768",
+   "sel": "SPAN.tag",
+   "t": "Foto",
+   "bg": "BODY"
+  },
+  {
+   "r": 13.44,
+   "where": "kerja.html@768",
+   "sel": "SPAN.",
+   "t": "Kerja plaster, dinding b",
+   "bg": "BODY"
+  },
+  {
+   "r": 17.02,
+   "where": "kerja.html@768",
+   "sel": "SPAN.tag",
+   "t": "Render",
+   "bg": "BODY"
+  },
+  {
+   "r": 13.44,
+   "where": "kerja.html@768",
+   "sel": "SPAN.",
+   "t": "Living Area",
+   "bg": "BODY"
+  },
+  {
+   "r": 17.02,
+   "where": "kerja.html@768",
+   "sel": "SPAN.tag",
+   "t": "Video",
+   "bg": "BODY"
+  },
+  {
+   "r": 13.44,
+   "where": "kerja.html@768",
+   "sel": "SPAN.",
+   "t": "Jubin lantai & dinding",
+   "bg": "BODY"
+  },
+  {
+   "r": 17.02,
+   "where": "kerja.html@768",
+   "sel": "SPAN.tag",
+   "t": "Foto",
+   "bg": "BODY"
+  },
+  {
+   "r": 13.44,
+   "where": "kerja.html@768",
+   "sel": "SPAN.",
+   "t": "Ruang kosong, lantai kay",
+   "bg": "BODY"
+  },
+  {
+   "r": 17.02,
+   "where": "kerja.html@768",
+   "sel": "SPAN.tag",
+   "t": "Render",
+   "bg": "BODY"
+  },
+  {
+   "r": 13.44,
+   "where": "kerja.html@768",
+   "sel": "SPAN.",
+   "t": "Kitchen",
+   "bg": "BODY"
+  },
+  {
+   "r": 17.02,
+   "where": "kerja.html@768",
+   "sel": "SPAN.tag",
+   "t": "Video",
+   "bg": "BODY"
+  },
+  {
+   "r": 13.44,
+   "where": "kerja.html@768",
+   "sel": "SPAN.",
+   "t": "Lantai & skirting",
+   "bg": "BODY"
+  },
+  {
+   "r": 13.44,
+   "where": "kerja.html@768",
+   "sel": "P.strip__note",
+   "t": "Media di atas ialah aset",
+   "bg": "BODY"
+  },
+  {
+   "r": 13.44,
+   "where": "kerja.html@768",
+   "sel": "P.ftr__tag",
+   "t": "Ruang dibina dengan rasa",
+   "bg": "ftr"
+  },
+  {
+   "r": 17.02,
+   "where": "kerja.html@768",
+   "sel": "P.ftr__site",
+   "t": "· Renovation & Construct",
+   "bg": "ftr"
+  },
+  {
+   "r": 17.02,
+   "where": "kerja.html@768",
+   "sel": "A.",
+   "t": "binahaus.com",
+   "bg": "ftr"
+  },
+  {
+   "r": 13.44,
+   "where": "kerja.html@768",
+   "sel": "P.ftr__label",
+   "t": "Contact",
+   "bg": "ftr"
+  },
+  {
+   "r": 17.02,
+   "where": "kerja.html@768",
+   "sel": "A.",
+   "t": "WhatsApp +60 11-1124 463",
+   "bg": "ftr"
+  },
+  {
+   "r": 17.02,
+   "where": "kerja.html@768",
+   "sel": "A.",
+   "t": "Contact",
+   "bg": "ftr"
+  },
+  {
+   "r": 13.44,
+   "where": "kerja.html@768",
+   "sel": "P.ftr__label",
+   "t": "Navigation",
+   "bg": "ftr"
+  },
+  {
+   "r": 17.02,
+   "where": "kerja.html@768",
+   "sel": "A.",
+   "t": "Services",
+   "bg": "ftr"
+  },
+  {
+   "r": 17.02,
+   "where": "kerja.html@768",
+   "sel": "A.",
+   "t": "Our Work",
+   "bg": "ftr"
+  },
+  {
+   "r": 17.02,
+   "where": "kerja.html@768",
+   "sel": "A.",
+   "t": "Cara Kami Kerja",
+   "bg": "ftr"
+  },
+  {
+   "r": 17.02,
+   "where": "kerja.html@768",
+   "sel": "A.",
+   "t": "About Us",
+   "bg": "ftr"
+  },
+  {
+   "r": 17.02,
+   "where": "kerja.html@768",
+   "sel": "A.",
+   "t": "Profil Syarikat",
+   "bg": "ftr"
+  },
+  {
+   "r": 17.02,
+   "where": "kerja.html@768",
+   "sel": "A.",
+   "t": "Contact",
+   "bg": "ftr"
+  },
+  {
+   "r": 13.44,
+   "where": "kerja.html@768",
+   "sel": "SPAN.",
+   "t": "© 2026 Bina Haus. All ri",
+   "bg": "ftr"
+  },
+  {
+   "r": 13.44,
+   "where": "kerja.html@768",
+   "sel": "SPAN.",
+   "t": "Look preview: arah 05 “S",
+   "bg": "ftr"
+  },
+  {
+   "r": 17.02,
+   "where": "cara.html@768",
+   "sel": "A.skip",
+   "t": "Skip to content",
+   "bg": "skip"
+  },
+  {
+   "r": 17.02,
+   "where": "cara.html@768",
+   "sel": "BUTTON.burger",
+   "t": "Menu",
+   "bg": "hdr"
+  },
+  {
+   "r": 17.02,
+   "where": "cara.html@768",
+   "sel": "H1.",
+   "t": "Cara Kami Kerja",
+   "bg": "BODY"
+  },
+  {
+   "r": 13.44,
+   "where": "cara.html@768",
+   "sel": "P.section__stand",
+   "t": "Satu proses yang jelas, ",
+   "bg": "BODY"
+  },
+  {
+   "r": 17.02,
+   "where": "cara.html@768",
+   "sel": "H2.",
+   "t": "A clear process from sta",
+   "bg": "BODY"
+  },
+  {
+   "r": 13.44,
+   "where": "cara.html@768",
+   "sel": "SPAN.n",
+   "t": "01",
+   "bg": "BODY"
+  },
+  {
+   "r": 17.02,
+   "where": "cara.html@768",
+   "sel": "H3.",
+   "t": "Consultation",
+   "bg": "BODY"
+  },
+  {
+   "r": 13.44,
+   "where": "cara.html@768",
+   "sel": "P.",
+   "t": "We start by understandin",
+   "bg": "BODY"
+  },
+  {
+   "r": 13.44,
+   "where": "cara.html@768",
+   "sel": "SPAN.n",
+   "t": "02",
+   "bg": "BODY"
+  },
+  {
+   "r": 17.02,
+   "where": "cara.html@768",
+   "sel": "H3.",
+   "t": "Site Visit",
+   "bg": "BODY"
+  },
+  {
+   "r": 13.44,
+   "where": "cara.html@768",
+   "sel": "P.",
+   "t": "Our team visits the site",
+   "bg": "BODY"
+  },
+  {
+   "r": 13.44,
+   "where": "cara.html@768",
+   "sel": "SPAN.n",
+   "t": "03",
+   "bg": "BODY"
+  },
+  {
+   "r": 17.02,
+   "where": "cara.html@768",
+   "sel": "H3.",
+   "t": "Quotations",
+   "bg": "BODY"
+  },
+  {
+   "r": 13.44,
+   "where": "cara.html@768",
+   "sel": "P.",
+   "t": "You receive a quotation ",
+   "bg": "BODY"
+  },
+  {
+   "r": 13.44,
+   "where": "cara.html@768",
+   "sel": "SPAN.n",
+   "t": "04",
+   "bg": "BODY"
+  },
+  {
+   "r": 17.02,
+   "where": "cara.html@768",
+   "sel": "H3.",
+   "t": "Construction",
+   "bg": "BODY"
+  },
+  {
+   "r": 13.44,
+   "where": "cara.html@768",
+   "sel": "P.",
+   "t": "Once everything is agree",
+   "bg": "BODY"
+  },
+  {
+   "r": 13.44,
+   "where": "cara.html@768",
+   "sel": "SPAN.n",
+   "t": "05",
+   "bg": "BODY"
+  },
+  {
+   "r": 17.02,
+   "where": "cara.html@768",
+   "sel": "H3.",
+   "t": "Handover",
+   "bg": "BODY"
+  },
+  {
+   "r": 13.44,
+   "where": "cara.html@768",
+   "sel": "P.",
+   "t": "When the work is complet",
+   "bg": "BODY"
+  },
+  {
+   "r": 13.33,
+   "where": "cara.html@768",
+   "sel": "H2.",
+   "t": "One team. One project. O",
+   "bg": "section section--raised"
+  },
+  {
+   "r": 10.53,
+   "where": "cara.html@768",
+   "sel": "P.section__stand",
+   "t": "From consultation and si",
+   "bg": "section section--raised"
+  },
+  {
+   "r": 13.33,
+   "where": "cara.html@768",
+   "sel": "SPAN.tag",
+   "t": "Foto",
+   "bg": "section section--raised"
+  },
+  {
+   "r": 10.53,
+   "where": "cara.html@768",
+   "sel": "SPAN.",
+   "t": "Pasukan di tapak kerja, ",
+   "bg": "section section--raised"
+  },
+  {
+   "r": 13.33,
+   "where": "cara.html@768",
+   "sel": "SPAN.tag",
+   "t": "Foto",
+   "bg": "section section--raised"
+  },
+  {
+   "r": 10.53,
+   "where": "cara.html@768",
+   "sel": "SPAN.",
+   "t": "Kerja dalaman dalam pros",
+   "bg": "section section--raised"
+  },
+  {
+   "r": 13.44,
+   "where": "cara.html@768",
+   "sel": "P.ftr__tag",
+   "t": "Ruang dibina dengan rasa",
+   "bg": "ftr"
+  },
+  {
+   "r": 17.02,
+   "where": "cara.html@768",
+   "sel": "P.ftr__site",
+   "t": "· Renovation & Construct",
+   "bg": "ftr"
+  },
+  {
+   "r": 17.02,
+   "where": "cara.html@768",
+   "sel": "A.",
+   "t": "binahaus.com",
+   "bg": "ftr"
+  },
+  {
+   "r": 13.44,
+   "where": "cara.html@768",
+   "sel": "P.ftr__label",
+   "t": "Contact",
+   "bg": "ftr"
+  },
+  {
+   "r": 17.02,
+   "where": "cara.html@768",
+   "sel": "A.",
+   "t": "WhatsApp +60 11-1124 463",
+   "bg": "ftr"
+  },
+  {
+   "r": 17.02,
+   "where": "cara.html@768",
+   "sel": "A.",
+   "t": "Contact",
+   "bg": "ftr"
+  },
+  {
+   "r": 13.44,
+   "where": "cara.html@768",
+   "sel": "P.ftr__label",
+   "t": "Navigation",
+   "bg": "ftr"
+  },
+  {
+   "r": 17.02,
+   "where": "cara.html@768",
+   "sel": "A.",
+   "t": "Services",
+   "bg": "ftr"
+  },
+  {
+   "r": 17.02,
+   "where": "cara.html@768",
+   "sel": "A.",
+   "t": "Our Work",
+   "bg": "ftr"
+  },
+  {
+   "r": 17.02,
+   "where": "cara.html@768",
+   "sel": "A.",
+   "t": "Cara Kami Kerja",
+   "bg": "ftr"
+  },
+  {
+   "r": 17.02,
+   "where": "cara.html@768",
+   "sel": "A.",
+   "t": "About Us",
+   "bg": "ftr"
+  },
+  {
+   "r": 17.02,
+   "where": "cara.html@768",
+   "sel": "A.",
+   "t": "Profil Syarikat",
+   "bg": "ftr"
+  },
+  {
+   "r": 17.02,
+   "where": "cara.html@768",
+   "sel": "A.",
+   "t": "Contact",
+   "bg": "ftr"
+  },
+  {
+   "r": 13.44,
+   "where": "cara.html@768",
+   "sel": "SPAN.",
+   "t": "© 2026 Bina Haus. All ri",
+   "bg": "ftr"
+  },
+  {
+   "r": 13.44,
+   "where": "cara.html@768",
+   "sel": "SPAN.",
+   "t": "Look preview: arah 05 “S",
+   "bg": "ftr"
+  },
+  {
+   "r": 17.02,
+   "where": "tentang.html@768",
+   "sel": "A.skip",
+   "t": "Skip to content",
+   "bg": "skip"
+  },
+  {
+   "r": 17.02,
+   "where": "tentang.html@768",
+   "sel": "BUTTON.burger",
+   "t": "Menu",
+   "bg": "hdr"
+  },
+  {
+   "r": 17.02,
+   "where": "tentang.html@768",
+   "sel": "H1.",
+   "t": "About Us",
+   "bg": "BODY"
+  },
+  {
+   "r": 13.44,
+   "where": "tentang.html@768",
+   "sel": "P.section__stand",
+   "t": "Bina Haus is a renovatio",
+   "bg": "BODY"
+  },
+  {
+   "r": 17.02,
+   "where": "tentang.html@768",
+   "sel": "H2.",
+   "t": "We build spaces for ever",
+   "bg": "BODY"
+  },
+  {
+   "r": 17.02,
+   "where": "tentang.html@768",
+   "sel": "P.",
+   "t": "Our work ranges from ful",
+   "bg": "BODY"
+  },
+  {
+   "r": 17.02,
+   "where": "tentang.html@768",
+   "sel": "P.",
+   "t": "Whatever the scale of th",
+   "bg": "BODY"
+  },
+  {
+   "r": 17.02,
+   "where": "tentang.html@768",
+   "sel": "SPAN.tag",
+   "t": "Foto",
+   "bg": "BODY"
+  },
+  {
+   "r": 13.44,
+   "where": "tentang.html@768",
+   "sel": "SPAN.",
+   "t": "Pasukan Bina Haus di tap",
+   "bg": "BODY"
+  },
+  {
+   "r": 13.33,
+   "where": "tentang.html@768",
+   "sel": "H2.pull",
+   "t": "Ruang dibina dengan rasa",
+   "bg": "section section--raised"
+  },
+  {
+   "r": 13.33,
+   "where": "tentang.html@768",
+   "sel": "P.",
+   "t": "Because a space is more ",
+   "bg": "section section--raised"
+  },
+  {
+   "r": 13.33,
+   "where": "tentang.html@768",
+   "sel": "P.",
+   "t": "So when we build or reno",
+   "bg": "section section--raised"
+  },
+  {
+   "r": 13.33,
+   "where": "tentang.html@768",
+   "sel": "P.tag",
+   "t": "BINA HAUS. RUANG DIBINA ",
+   "bg": "section section--raised"
+  },
+  {
+   "r": 13.44,
+   "where": "tentang.html@768",
+   "sel": "P.ftr__tag",
+   "t": "Ruang dibina dengan rasa",
+   "bg": "ftr"
+  },
+  {
+   "r": 17.02,
+   "where": "tentang.html@768",
+   "sel": "P.ftr__site",
+   "t": "· Renovation & Construct",
+   "bg": "ftr"
+  },
+  {
+   "r": 17.02,
+   "where": "tentang.html@768",
+   "sel": "A.",
+   "t": "binahaus.com",
+   "bg": "ftr"
+  },
+  {
+   "r": 13.44,
+   "where": "tentang.html@768",
+   "sel": "P.ftr__label",
+   "t": "Contact",
+   "bg": "ftr"
+  },
+  {
+   "r": 17.02,
+   "where": "tentang.html@768",
+   "sel": "A.",
+   "t": "WhatsApp +60 11-1124 463",
+   "bg": "ftr"
+  },
+  {
+   "r": 17.02,
+   "where": "tentang.html@768",
+   "sel": "A.",
+   "t": "Contact",
+   "bg": "ftr"
+  },
+  {
+   "r": 13.44,
+   "where": "tentang.html@768",
+   "sel": "P.ftr__label",
+   "t": "Navigation",
+   "bg": "ftr"
+  },
+  {
+   "r": 17.02,
+   "where": "tentang.html@768",
+   "sel": "A.",
+   "t": "Services",
+   "bg": "ftr"
+  },
+  {
+   "r": 17.02,
+   "where": "tentang.html@768",
+   "sel": "A.",
+   "t": "Our Work",
+   "bg": "ftr"
+  },
+  {
+   "r": 17.02,
+   "where": "tentang.html@768",
+   "sel": "A.",
+   "t": "Cara Kami Kerja",
+   "bg": "ftr"
+  },
+  {
+   "r": 17.02,
+   "where": "tentang.html@768",
+   "sel": "A.",
+   "t": "About Us",
+   "bg": "ftr"
+  },
+  {
+   "r": 17.02,
+   "where": "tentang.html@768",
+   "sel": "A.",
+   "t": "Profil Syarikat",
+   "bg": "ftr"
+  },
+  {
+   "r": 17.02,
+   "where": "tentang.html@768",
+   "sel": "A.",
+   "t": "Contact",
+   "bg": "ftr"
+  },
+  {
+   "r": 13.44,
+   "where": "tentang.html@768",
+   "sel": "SPAN.",
+   "t": "© 2026 Bina Haus. All ri",
+   "bg": "ftr"
+  },
+  {
+   "r": 13.44,
+   "where": "tentang.html@768",
+   "sel": "SPAN.",
+   "t": "Look preview: arah 05 “S",
+   "bg": "ftr"
+  },
+  {
+   "r": 17.02,
+   "where": "syarikat.html@768",
+   "sel": "A.skip",
+   "t": "Skip to content",
+   "bg": "skip"
+  },
+  {
+   "r": 17.02,
+   "where": "syarikat.html@768",
+   "sel": "BUTTON.burger",
+   "t": "Menu",
+   "bg": "hdr"
+  },
+  {
+   "r": 17.02,
+   "where": "syarikat.html@768",
+   "sel": "H1.",
+   "t": "Profil Syarikat",
+   "bg": "BODY"
+  },
+  {
+   "r": 13.44,
+   "where": "syarikat.html@768",
+   "sel": "P.section__stand",
+   "t": "Everything the company p",
+   "bg": "BODY"
+  },
+  {
+   "r": 17.02,
+   "where": "syarikat.html@768",
+   "sel": "H2.",
+   "t": "BINA HAUS — Ruang dibina",
+   "bg": "BODY"
+  },
+  {
+   "r": 13.44,
+   "where": "syarikat.html@768",
+   "sel": "DT.",
+   "t": "Nama syarikat",
+   "bg": "BODY"
+  },
+  {
+   "r": 17.02,
+   "where": "syarikat.html@768",
+   "sel": "DD.",
+   "t": "Bina Haus",
+   "bg": "BODY"
+  },
+  {
+   "r": 13.44,
+   "where": "syarikat.html@768",
+   "sel": "SMALL.",
+   "t": "Seperti yang dipaparkan ",
+   "bg": "BODY"
+  },
+  {
+   "r": 13.44,
+   "where": "syarikat.html@768",
+   "sel": "DT.",
+   "t": "Bidang",
+   "bg": "BODY"
+  },
+  {
+   "r": 17.02,
+   "where": "syarikat.html@768",
+   "sel": "DD.",
+   "t": "Renovation and construct",
+   "bg": "BODY"
+  },
+  {
+   "r": 13.44,
+   "where": "syarikat.html@768",
+   "sel": "SMALL.",
+   "t": "Homes, offices and comme",
+   "bg": "BODY"
+  },
+  {
+   "r": 13.44,
+   "where": "syarikat.html@768",
+   "sel": "DT.",
+   "t": "Skop kerja — renovasi",
+   "bg": "BODY"
+  },
+  {
+   "r": 17.02,
+   "where": "syarikat.html@768",
+   "sel": "DD.",
+   "t": "Full house renovation · ",
+   "bg": "BODY"
+  },
+  {
+   "r": 13.44,
+   "where": "syarikat.html@768",
+   "sel": "SMALL.",
+   "t": "7 jenis kerja, seperti d",
+   "bg": "BODY"
+  },
+  {
+   "r": 13.44,
+   "where": "syarikat.html@768",
+   "sel": "DT.",
+   "t": "Skop kerja — pembinaan",
+   "bg": "BODY"
+  },
+  {
+   "r": 17.02,
+   "where": "syarikat.html@768",
+   "sel": "DD.",
+   "t": "New house construction ·",
+   "bg": "BODY"
+  },
+  {
+   "r": 13.44,
+   "where": "syarikat.html@768",
+   "sel": "SMALL.",
+   "t": "3 jenis kerja, seperti d",
+   "bg": "BODY"
+  },
+  {
+   "r": 13.44,
+   "where": "syarikat.html@768",
+   "sel": "DT.",
+   "t": "Proses",
+   "bg": "BODY"
+  },
+  {
+   "r": 17.02,
+   "where": "syarikat.html@768",
+   "sel": "DD.",
+   "t": "Consultation → Site visi",
+   "bg": "BODY"
+  },
+  {
+   "r": 13.44,
+   "where": "syarikat.html@768",
+   "sel": "SMALL.",
+   "t": "Lima langkah yang sama p",
+   "bg": "BODY"
+  },
+  {
+   "r": 13.44,
+   "where": "syarikat.html@768",
+   "sel": "DT.",
+   "t": "Cara kami bekerja",
+   "bg": "BODY"
+  },
+  {
+   "r": 17.02,
+   "where": "syarikat.html@768",
+   "sel": "DD.",
+   "t": "One team. One project. O",
+   "bg": "BODY"
+  },
+  {
+   "r": 13.44,
+   "where": "syarikat.html@768",
+   "sel": "SMALL.",
+   "t": "Satu pasukan dari konsul",
+   "bg": "BODY"
+  },
+  {
+   "r": 13.44,
+   "where": "syarikat.html@768",
+   "sel": "DT.",
+   "t": "Hubungan",
+   "bg": "BODY"
+  },
+  {
+   "r": 17.02,
+   "where": "syarikat.html@768",
+   "sel": "DD.",
+   "t": "WhatsApp +60 11-1124 463",
+   "bg": "BODY"
+  },
+  {
+   "r": 13.44,
+   "where": "syarikat.html@768",
+   "sel": "SMALL.",
+   "t": "Satu-satunya saluran yan",
+   "bg": "BODY"
+  },
+  {
+   "r": 13.44,
+   "where": "syarikat.html@768",
+   "sel": "DT.",
+   "t": "Alamat · E-mel · Pendaft",
+   "bg": "BODY"
+  },
+  {
+   "r": 17.02,
+   "where": "syarikat.html@768",
+   "sel": "DD.",
+   "t": "Belum diterbitkan",
+   "bg": "BODY"
+  },
+  {
+   "r": 13.44,
+   "where": "syarikat.html@768",
+   "sel": "SMALL.",
+   "t": "Laman binahaus.com tidak",
+   "bg": "BODY"
+  },
+  {
+   "r": 13.44,
+   "where": "syarikat.html@768",
+   "sel": "P.plaque__ft",
+   "t": "Profil ini dibaca terus ",
+   "bg": "BODY"
+  },
+  {
+   "r": 13.44,
+   "where": "syarikat.html@768",
+   "sel": "P.ftr__tag",
+   "t": "Ruang dibina dengan rasa",
+   "bg": "ftr"
+  },
+  {
+   "r": 17.02,
+   "where": "syarikat.html@768",
+   "sel": "P.ftr__site",
+   "t": "· Renovation & Construct",
+   "bg": "ftr"
+  },
+  {
+   "r": 17.02,
+   "where": "syarikat.html@768",
+   "sel": "A.",
+   "t": "binahaus.com",
+   "bg": "ftr"
+  },
+  {
+   "r": 13.44,
+   "where": "syarikat.html@768",
+   "sel": "P.ftr__label",
+   "t": "Contact",
+   "bg": "ftr"
+  },
+  {
+   "r": 17.02,
+   "where": "syarikat.html@768",
+   "sel": "A.",
+   "t": "WhatsApp +60 11-1124 463",
+   "bg": "ftr"
+  },
+  {
+   "r": 17.02,
+   "where": "syarikat.html@768",
+   "sel": "A.",
+   "t": "Contact",
+   "bg": "ftr"
+  },
+  {
+   "r": 13.44,
+   "where": "syarikat.html@768",
+   "sel": "P.ftr__label",
+   "t": "Navigation",
+   "bg": "ftr"
+  },
+  {
+   "r": 17.02,
+   "where": "syarikat.html@768",
+   "sel": "A.",
+   "t": "Services",
+   "bg": "ftr"
+  },
+  {
+   "r": 17.02,
+   "where": "syarikat.html@768",
+   "sel": "A.",
+   "t": "Our Work",
+   "bg": "ftr"
+  },
+  {
+   "r": 17.02,
+   "where": "syarikat.html@768",
+   "sel": "A.",
+   "t": "Cara Kami Kerja",
+   "bg": "ftr"
+  },
+  {
+   "r": 17.02,
+   "where": "syarikat.html@768",
+   "sel": "A.",
+   "t": "About Us",
+   "bg": "ftr"
+  },
+  {
+   "r": 17.02,
+   "where": "syarikat.html@768",
+   "sel": "A.",
+   "t": "Profil Syarikat",
+   "bg": "ftr"
+  },
+  {
+   "r": 17.02,
+   "where": "syarikat.html@768",
+   "sel": "A.",
+   "t": "Contact",
+   "bg": "ftr"
+  },
+  {
+   "r": 13.44,
+   "where": "syarikat.html@768",
+   "sel": "SPAN.",
+   "t": "© 2026 Bina Haus. All ri",
+   "bg": "ftr"
+  },
+  {
+   "r": 13.44,
+   "where": "syarikat.html@768",
+   "sel": "SPAN.",
+   "t": "Look preview: arah 05 “S",
+   "bg": "ftr"
+  },
+  {
+   "r": 17.02,
+   "where": "kontak.html@768",
+   "sel": "A.skip",
+   "t": "Skip to content",
+   "bg": "skip"
+  },
+  {
+   "r": 17.02,
+   "where": "kontak.html@768",
+   "sel": "BUTTON.burger",
+   "t": "Menu",
+   "bg": "hdr"
+  },
+  {
+   "r": 17.02,
+   "where": "kontak.html@768",
+   "sel": "H1.",
+   "t": "Contact",
+   "bg": "BODY"
+  },
+  {
+   "r": 13.44,
+   "where": "kontak.html@768",
+   "sel": "P.section__stand",
+   "t": "Tell us what you need an",
+   "bg": "BODY"
+  },
+  {
+   "r": 17.02,
+   "where": "kontak.html@768",
+   "sel": "H2.",
+   "t": "Planning to renovate you",
+   "bg": "BODY"
+  },
+  {
+   "r": 13.44,
+   "where": "kontak.html@768",
+   "sel": "P.section__stand",
+   "t": "Get free quotations, or ",
+   "bg": "BODY"
+  },
+  {
+   "r": 17.02,
+   "where": "kontak.html@768",
+   "sel": "A.btn",
+   "t": "Get free Quotations",
+   "bg": "btn"
+  },
+  {
+   "r": 17.02,
+   "where": "kontak.html@768",
+   "sel": "A.btn",
+   "t": "WhatsApp Us",
+   "bg": "BODY"
+  },
+  {
+   "r": 13.44,
+   "where": "kontak.html@768",
+   "sel": "P.ftr__label",
+   "t": "Saluran yang diterbitkan",
+   "bg": "BODY"
+  },
+  {
+   "r": 17.02,
+   "where": "kontak.html@768",
+   "sel": "A.",
+   "t": "WhatsApp +60 11-1124 463",
+   "bg": "BODY"
+  },
+  {
+   "r": 17.02,
+   "where": "kontak.html@768",
+   "sel": "A.",
+   "t": "binahaus.com",
+   "bg": "BODY"
+  },
+  {
+   "r": 13.44,
+   "where": "kontak.html@768",
+   "sel": "P.strip__note",
+   "t": "Laman binahaus.com tidak",
+   "bg": "BODY"
+  },
+  {
+   "r": 17.02,
+   "where": "kontak.html@768",
+   "sel": "SPAN.tag",
+   "t": "Foto",
+   "bg": "BODY"
+  },
+  {
+   "r": 13.44,
+   "where": "kontak.html@768",
+   "sel": "SPAN.",
+   "t": "Ruang dalaman selepas ke",
+   "bg": "BODY"
+  },
+  {
+   "r": 13.44,
+   "where": "kontak.html@768",
+   "sel": "P.ftr__tag",
+   "t": "Ruang dibina dengan rasa",
+   "bg": "ftr"
+  },
+  {
+   "r": 17.02,
+   "where": "kontak.html@768",
+   "sel": "P.ftr__site",
+   "t": "· Renovation & Construct",
+   "bg": "ftr"
+  },
+  {
+   "r": 17.02,
+   "where": "kontak.html@768",
+   "sel": "A.",
+   "t": "binahaus.com",
+   "bg": "ftr"
+  },
+  {
+   "r": 13.44,
+   "where": "kontak.html@768",
+   "sel": "P.ftr__label",
+   "t": "Contact",
+   "bg": "ftr"
+  },
+  {
+   "r": 17.02,
+   "where": "kontak.html@768",
+   "sel": "A.",
+   "t": "WhatsApp +60 11-1124 463",
+   "bg": "ftr"
+  },
+  {
+   "r": 17.02,
+   "where": "kontak.html@768",
+   "sel": "A.",
+   "t": "Contact",
+   "bg": "ftr"
+  },
+  {
+   "r": 13.44,
+   "where": "kontak.html@768",
+   "sel": "P.ftr__label",
+   "t": "Navigation",
+   "bg": "ftr"
+  },
+  {
+   "r": 17.02,
+   "where": "kontak.html@768",
+   "sel": "A.",
+   "t": "Services",
+   "bg": "ftr"
+  },
+  {
+   "r": 17.02,
+   "where": "kontak.html@768",
+   "sel": "A.",
+   "t": "Our Work",
+   "bg": "ftr"
+  },
+  {
+   "r": 17.02,
+   "where": "kontak.html@768",
+   "sel": "A.",
+   "t": "Cara Kami Kerja",
+   "bg": "ftr"
+  },
+  {
+   "r": 17.02,
+   "where": "kontak.html@768",
+   "sel": "A.",
+   "t": "About Us",
+   "bg": "ftr"
+  },
+  {
+   "r": 17.02,
+   "where": "kontak.html@768",
+   "sel": "A.",
+   "t": "Profil Syarikat",
+   "bg": "ftr"
+  },
+  {
+   "r": 17.02,
+   "where": "kontak.html@768",
+   "sel": "A.",
+   "t": "Contact",
+   "bg": "ftr"
+  },
+  {
+   "r": 13.44,
+   "where": "kontak.html@768",
+   "sel": "SPAN.",
+   "t": "© 2026 Bina Haus. All ri",
+   "bg": "ftr"
+  },
+  {
+   "r": 13.44,
+   "where": "kontak.html@768",
+   "sel": "SPAN.",
+   "t": "Look preview: arah 05 “S",
+   "bg": "ftr"
+  },
+  {
+   "r": 17.02,
+   "where": "index.html@1440",
+   "sel": "A.skip",
+   "t": "Skip to content",
+   "bg": "skip"
+  },
+  {
+   "r": 13.44,
+   "where": "index.html@1440",
+   "sel": "A.",
+   "t": "Services",
+   "bg": "hdr"
+  },
+  {
+   "r": 13.44,
+   "where": "index.html@1440",
+   "sel": "A.",
+   "t": "Our Work",
+   "bg": "hdr"
+  },
+  {
+   "r": 13.44,
+   "where": "index.html@1440",
+   "sel": "A.",
+   "t": "Cara Kami Kerja",
+   "bg": "hdr"
+  },
+  {
+   "r": 13.44,
+   "where": "index.html@1440",
+   "sel": "A.",
+   "t": "About Us",
+   "bg": "hdr"
+  },
+  {
+   "r": 13.44,
+   "where": "index.html@1440",
+   "sel": "A.",
+   "t": "Profil Syarikat",
+   "bg": "hdr"
+  },
+  {
+   "r": 13.44,
+   "where": "index.html@1440",
+   "sel": "A.",
+   "t": "Contact",
+   "bg": "hdr"
+  },
+  {
+   "r": 17.02,
+   "where": "index.html@1440",
+   "sel": "H1.",
+   "t": "Ruang dibina dengan rasa",
+   "bg": "BODY"
+  },
+  {
+   "r": 13.44,
+   "where": "index.html@1440",
+   "sel": "P.lede",
+   "t": "Renovation and construct",
+   "bg": "BODY"
+  },
+  {
+   "r": 17.02,
+   "where": "index.html@1440",
+   "sel": "P.",
+   "t": "From the first consultat",
+   "bg": "BODY"
+  },
+  {
+   "r": 17.02,
+   "where": "index.html@1440",
+   "sel": "A.btn",
+   "t": "Get free Quotation",
+   "bg": "btn"
+  },
+  {
+   "r": 17.02,
+   "where": "index.html@1440",
+   "sel": "A.btn",
+   "t": "WhatsApp Us",
+   "bg": "BODY"
+  },
+  {
+   "r": 17.02,
+   "where": "index.html@1440",
+   "sel": "SPAN.tag",
+   "t": "Foto",
+   "bg": "BODY"
+  },
+  {
+   "r": 13.44,
+   "where": "index.html@1440",
+   "sel": "SPAN.",
+   "t": "Ruang tamu sebuah rumah ",
+   "bg": "BODY"
+  },
+  {
+   "r": 17.02,
+   "where": "index.html@1440",
+   "sel": "H2.",
+   "t": "Masuk ke dalam rumah",
+   "bg": "BODY"
+  },
+  {
+   "r": 13.44,
+   "where": "index.html@1440",
+   "sel": "P.section__stand",
+   "t": "Setiap ruang di bawah ia",
+   "bg": "BODY"
+  },
+  {
+   "r": 17.02,
+   "where": "index.html@1440",
+   "sel": "SPAN.tag",
+   "t": "Foto",
+   "bg": "BODY"
+  },
+  {
+   "r": 13.44,
+   "where": "index.html@1440",
+   "sel": "SPAN.",
+   "t": "Ruang tamu — tujuh jenis",
+   "bg": "BODY"
+  },
+  {
+   "r": 17.02,
+   "where": "index.html@1440",
+   "sel": "SPAN.tag",
+   "t": "Foto",
+   "bg": "BODY"
+  },
+  {
+   "r": 13.44,
+   "where": "index.html@1440",
+   "sel": "SPAN.",
+   "t": "Dapur — kitchen renovati",
+   "bg": "BODY"
+  },
+  {
+   "r": 17.02,
+   "where": "index.html@1440",
+   "sel": "SPAN.tag",
+   "t": "Foto",
+   "bg": "BODY"
+  },
+  {
+   "r": 13.44,
+   "where": "index.html@1440",
+   "sel": "SPAN.",
+   "t": "Tapak — kerja pembinaan ",
+   "bg": "BODY"
+  },
+  {
+   "r": 17.02,
+   "where": "index.html@1440",
+   "sel": "H2.",
+   "t": "See the work for yoursel",
+   "bg": "BODY"
+  },
+  {
+   "r": 13.44,
+   "where": "index.html@1440",
+   "sel": "P.section__stand",
+   "t": "A collection of work by ",
+   "bg": "BODY"
+  },
+  {
+   "r": 17.02,
+   "where": "index.html@1440",
+   "sel": "SPAN.tag",
+   "t": "Foto",
+   "bg": "BODY"
+  },
+  {
+   "r": 13.44,
+   "where": "index.html@1440",
+   "sel": "SPAN.",
+   "t": "Bangunan sedia ada, kerj",
+   "bg": "BODY"
+  },
+  {
+   "r": 17.02,
+   "where": "index.html@1440",
+   "sel": "SPAN.tag",
+   "t": "Video",
+   "bg": "BODY"
+  },
+  {
+   "r": 13.44,
+   "where": "index.html@1440",
+   "sel": "SPAN.",
+   "t": "Unit dalam kerja, kaca &",
+   "bg": "BODY"
+  },
+  {
+   "r": 17.02,
+   "where": "index.html@1440",
+   "sel": "SPAN.tag",
+   "t": "Foto",
+   "bg": "BODY"
+  },
+  {
+   "r": 13.44,
+   "where": "index.html@1440",
+   "sel": "SPAN.",
+   "t": "Ruang dalaman, tingkap b",
+   "bg": "BODY"
+  },
+  {
+   "r": 17.02,
+   "where": "index.html@1440",
+   "sel": "SPAN.tag",
+   "t": "Render",
+   "bg": "BODY"
+  },
+  {
+   "r": 13.44,
+   "where": "index.html@1440",
+   "sel": "SPAN.",
+   "t": "Dry Kitchen",
+   "bg": "BODY"
+  },
+  {
+   "r": 17.02,
+   "where": "index.html@1440",
+   "sel": "SPAN.tag",
+   "t": "Video",
+   "bg": "BODY"
+  },
+  {
+   "r": 13.44,
+   "where": "index.html@1440",
+   "sel": "SPAN.",
+   "t": "Unit komersial, partitio",
+   "bg": "BODY"
+  },
+  {
+   "r": 17.02,
+   "where": "index.html@1440",
+   "sel": "SPAN.tag",
+   "t": "Foto",
+   "bg": "BODY"
+  },
+  {
+   "r": 13.44,
+   "where": "index.html@1440",
+   "sel": "SPAN.",
+   "t": "Kerja luaran, scaffold",
+   "bg": "BODY"
+  },
+  {
+   "r": 17.02,
+   "where": "index.html@1440",
+   "sel": "A.btn",
+   "t": "All work",
+   "bg": "BODY"
+  },
+  {
+   "r": 13.44,
+   "where": "index.html@1440",
+   "sel": "H2.",
+   "t": "One team. One project. O",
+   "bg": "band"
+  },
+  {
+   "r": 10.53,
+   "where": "index.html@1440",
+   "sel": "P.",
+   "t": "Renovation and construct",
+   "bg": "band"
+  },
+  {
+   "r": 10.53,
+   "where": "index.html@1440",
+   "sel": "P.",
+   "t": "With Bina Haus, you have",
+   "bg": "band"
+  },
+  {
+   "r": 10.53,
+   "where": "index.html@1440",
+   "sel": "P.",
+   "t": "From consultation and si",
+   "bg": "band"
+  },
+  {
+   "r": 13.44,
+   "where": "index.html@1440",
+   "sel": "P.pull",
+   "t": "One project. One point o",
+   "bg": "band"
+  },
+  {
+   "r": 13.33,
+   "where": "index.html@1440",
+   "sel": "H2.",
+   "t": "Planning to renovate you",
+   "bg": "cta"
+  },
+  {
+   "r": 10.53,
+   "where": "index.html@1440",
+   "sel": "P.",
+   "t": "Tell us what you need an",
+   "bg": "cta"
+  },
+  {
+   "r": 17.02,
+   "where": "index.html@1440",
+   "sel": "A.btn",
+   "t": "Get free Quotations",
+   "bg": "btn"
+  },
+  {
+   "r": 13.33,
+   "where": "index.html@1440",
+   "sel": "A.btn",
+   "t": "WhatsApp Us",
+   "bg": "cta"
+  },
+  {
+   "r": 13.44,
+   "where": "index.html@1440",
+   "sel": "P.ftr__tag",
+   "t": "Ruang dibina dengan rasa",
+   "bg": "ftr"
+  },
+  {
+   "r": 17.02,
+   "where": "index.html@1440",
+   "sel": "P.ftr__site",
+   "t": "· Renovation & Construct",
+   "bg": "ftr"
+  },
+  {
+   "r": 17.02,
+   "where": "index.html@1440",
+   "sel": "A.",
+   "t": "binahaus.com",
+   "bg": "ftr"
+  },
+  {
+   "r": 13.44,
+   "where": "index.html@1440",
+   "sel": "P.ftr__label",
+   "t": "Contact",
+   "bg": "ftr"
+  },
+  {
+   "r": 17.02,
+   "where": "index.html@1440",
+   "sel": "A.",
+   "t": "WhatsApp +60 11-1124 463",
+   "bg": "ftr"
+  },
+  {
+   "r": 17.02,
+   "where": "index.html@1440",
+   "sel": "A.",
+   "t": "Contact",
+   "bg": "ftr"
+  },
+  {
+   "r": 13.44,
+   "where": "index.html@1440",
+   "sel": "P.ftr__label",
+   "t": "Navigation",
+   "bg": "ftr"
+  },
+  {
+   "r": 17.02,
+   "where": "index.html@1440",
+   "sel": "A.",
+   "t": "Services",
+   "bg": "ftr"
+  },
+  {
+   "r": 17.02,
+   "where": "index.html@1440",
+   "sel": "A.",
+   "t": "Our Work",
+   "bg": "ftr"
+  },
+  {
+   "r": 17.02,
+   "where": "index.html@1440",
+   "sel": "A.",
+   "t": "Cara Kami Kerja",
+   "bg": "ftr"
+  },
+  {
+   "r": 17.02,
+   "where": "index.html@1440",
+   "sel": "A.",
+   "t": "About Us",
+   "bg": "ftr"
+  },
+  {
+   "r": 17.02,
+   "where": "index.html@1440",
+   "sel": "A.",
+   "t": "Profil Syarikat",
+   "bg": "ftr"
+  },
+  {
+   "r": 17.02,
+   "where": "index.html@1440",
+   "sel": "A.",
+   "t": "Contact",
+   "bg": "ftr"
+  },
+  {
+   "r": 13.44,
+   "where": "index.html@1440",
+   "sel": "SPAN.",
+   "t": "© 2026 Bina Haus. All ri",
+   "bg": "ftr"
+  },
+  {
+   "r": 13.44,
+   "where": "index.html@1440",
+   "sel": "SPAN.",
+   "t": "Look preview: arah 05 “S",
+   "bg": "ftr"
+  },
+  {
+   "r": 17.02,
+   "where": "perkhidmatan.html@1440",
+   "sel": "A.skip",
+   "t": "Skip to content",
+   "bg": "skip"
+  },
+  {
+   "r": 17.02,
+   "where": "perkhidmatan.html@1440",
+   "sel": "A.",
+   "t": "Services",
+   "bg": "hdr"
+  },
+  {
+   "r": 13.44,
+   "where": "perkhidmatan.html@1440",
+   "sel": "A.",
+   "t": "Our Work",
+   "bg": "hdr"
+  },
+  {
+   "r": 13.44,
+   "where": "perkhidmatan.html@1440",
+   "sel": "A.",
+   "t": "Cara Kami Kerja",
+   "bg": "hdr"
+  },
+  {
+   "r": 13.44,
+   "where": "perkhidmatan.html@1440",
+   "sel": "A.",
+   "t": "About Us",
+   "bg": "hdr"
+  },
+  {
+   "r": 13.44,
+   "where": "perkhidmatan.html@1440",
+   "sel": "A.",
+   "t": "Profil Syarikat",
+   "bg": "hdr"
+  },
+  {
+   "r": 13.44,
+   "where": "perkhidmatan.html@1440",
+   "sel": "A.",
+   "t": "Contact",
+   "bg": "hdr"
+  },
+  {
+   "r": 17.02,
+   "where": "perkhidmatan.html@1440",
+   "sel": "H1.",
+   "t": "Services",
+   "bg": "BODY"
+  },
+  {
+   "r": 13.44,
+   "where": "perkhidmatan.html@1440",
+   "sel": "P.section__stand",
+   "t": "Whether you're renovatin",
+   "bg": "BODY"
+  },
+  {
+   "r": 17.02,
+   "where": "perkhidmatan.html@1440",
+   "sel": "H2.",
+   "t": "Renovations",
+   "bg": "BODY"
+  },
+  {
+   "r": 13.44,
+   "where": "perkhidmatan.html@1440",
+   "sel": "P.section__stand",
+   "t": "A better space starts wi",
+   "bg": "BODY"
+  },
+  {
+   "r": 13.44,
+   "where": "perkhidmatan.html@1440",
+   "sel": "SPAN.n",
+   "t": "01",
+   "bg": "BODY"
+  },
+  {
+   "r": 17.02,
+   "where": "perkhidmatan.html@1440",
+   "sel": "B.",
+   "t": "Full house Renovation",
+   "bg": "BODY"
+  },
+  {
+   "r": 13.44,
+   "where": "perkhidmatan.html@1440",
+   "sel": "P.",
+   "t": "Give your existing home ",
+   "bg": "BODY"
+  },
+  {
+   "r": 13.44,
+   "where": "perkhidmatan.html@1440",
+   "sel": "SPAN.n",
+   "t": "02",
+   "bg": "BODY"
+  },
+  {
+   "r": 17.02,
+   "where": "perkhidmatan.html@1440",
+   "sel": "B.",
+   "t": "Kitchen renovations",
+   "bg": "BODY"
+  },
+  {
+   "r": 13.44,
+   "where": "perkhidmatan.html@1440",
+   "sel": "P.",
+   "t": "Upgrade your kitchen int",
+   "bg": "BODY"
+  },
+  {
+   "r": 13.44,
+   "where": "perkhidmatan.html@1440",
+   "sel": "SPAN.n",
+   "t": "03",
+   "bg": "BODY"
+  },
+  {
+   "r": 17.02,
+   "where": "perkhidmatan.html@1440",
+   "sel": "B.",
+   "t": "Extension",
+   "bg": "BODY"
+  },
+  {
+   "r": 13.44,
+   "where": "perkhidmatan.html@1440",
+   "sel": "P.",
+   "t": "Create the additional sp",
+   "bg": "BODY"
+  },
+  {
+   "r": 13.44,
+   "where": "perkhidmatan.html@1440",
+   "sel": "SPAN.n",
+   "t": "04",
+   "bg": "BODY"
+  },
+  {
+   "r": 17.02,
+   "where": "perkhidmatan.html@1440",
+   "sel": "B.",
+   "t": "Flooring",
+   "bg": "BODY"
+  },
+  {
+   "r": 13.44,
+   "where": "perkhidmatan.html@1440",
+   "sel": "P.",
+   "t": "Refresh your space from ",
+   "bg": "BODY"
+  },
+  {
+   "r": 13.44,
+   "where": "perkhidmatan.html@1440",
+   "sel": "SPAN.n",
+   "t": "05",
+   "bg": "BODY"
+  },
+  {
+   "r": 17.02,
+   "where": "perkhidmatan.html@1440",
+   "sel": "B.",
+   "t": "Plaster Ceiling",
+   "bg": "BODY"
+  },
+  {
+   "r": 13.44,
+   "where": "perkhidmatan.html@1440",
+   "sel": "P.",
+   "t": "Give your interior a cle",
+   "bg": "BODY"
+  },
+  {
+   "r": 13.44,
+   "where": "perkhidmatan.html@1440",
+   "sel": "SPAN.n",
+   "t": "06",
+   "bg": "BODY"
+  },
+  {
+   "r": 17.02,
+   "where": "perkhidmatan.html@1440",
+   "sel": "B.",
+   "t": "Painting",
+   "bg": "BODY"
+  },
+  {
+   "r": 13.44,
+   "where": "perkhidmatan.html@1440",
+   "sel": "P.",
+   "t": "Refresh the look and fee",
+   "bg": "BODY"
+  },
+  {
+   "r": 13.44,
+   "where": "perkhidmatan.html@1440",
+   "sel": "SPAN.n",
+   "t": "07",
+   "bg": "BODY"
+  },
+  {
+   "r": 17.02,
+   "where": "perkhidmatan.html@1440",
+   "sel": "B.",
+   "t": "Electrical & Plumbing",
+   "bg": "BODY"
+  },
+  {
+   "r": 13.44,
+   "where": "perkhidmatan.html@1440",
+   "sel": "P.",
+   "t": "Essential electrical and",
+   "bg": "BODY"
+  },
+  {
+   "r": 13.33,
+   "where": "perkhidmatan.html@1440",
+   "sel": "H2.",
+   "t": "Kitchen renovations",
+   "bg": "section section--raised"
+  },
+  {
+   "r": 10.53,
+   "where": "perkhidmatan.html@1440",
+   "sel": "P.section__stand",
+   "t": "Upgrade your kitchen int",
+   "bg": "section section--raised"
+  },
+  {
+   "r": 10.53,
+   "where": "perkhidmatan.html@1440",
+   "sel": "P.strip__note",
+   "t": "The two tiles opposite a",
+   "bg": "section section--raised"
+  },
+  {
+   "r": 13.33,
+   "where": "perkhidmatan.html@1440",
+   "sel": "SPAN.tag",
+   "t": "Foto",
+   "bg": "section section--raised"
+  },
+  {
+   "r": 10.53,
+   "where": "perkhidmatan.html@1440",
+   "sel": "SPAN.",
+   "t": "Dapur selepas kerja — ka",
+   "bg": "section section--raised"
+  },
+  {
+   "r": 13.33,
+   "where": "perkhidmatan.html@1440",
+   "sel": "SPAN.tag",
+   "t": "Render",
+   "bg": "section section--raised"
+  },
+  {
+   "r": 10.53,
+   "where": "perkhidmatan.html@1440",
+   "sel": "SPAN.",
+   "t": "Kitchen",
+   "bg": "section section--raised"
+  },
+  {
+   "r": 13.33,
+   "where": "perkhidmatan.html@1440",
+   "sel": "SPAN.tag",
+   "t": "Render",
+   "bg": "section section--raised"
+  },
+  {
+   "r": 10.53,
+   "where": "perkhidmatan.html@1440",
+   "sel": "SPAN.",
+   "t": "Dry Kitchen",
+   "bg": "section section--raised"
+  },
+  {
+   "r": 17.02,
+   "where": "perkhidmatan.html@1440",
+   "sel": "H2.",
+   "t": "Construction",
+   "bg": "BODY"
+  },
+  {
+   "r": 13.44,
+   "where": "perkhidmatan.html@1440",
+   "sel": "P.section__stand",
+   "t": "Built for what comes nex",
+   "bg": "BODY"
+  },
+  {
+   "r": 13.44,
+   "where": "perkhidmatan.html@1440",
+   "sel": "P.section__stand",
+   "t": "Whether you're building ",
+   "bg": "BODY"
+  },
+  {
+   "r": 13.44,
+   "where": "perkhidmatan.html@1440",
+   "sel": "SPAN.n",
+   "t": "01",
+   "bg": "BODY"
+  },
+  {
+   "r": 17.02,
+   "where": "perkhidmatan.html@1440",
+   "sel": "B.",
+   "t": "New house Constructions",
+   "bg": "BODY"
+  },
+  {
+   "r": 13.44,
+   "where": "perkhidmatan.html@1440",
+   "sel": "P.",
+   "t": "Building your new home f",
+   "bg": "BODY"
+  },
+  {
+   "r": 13.44,
+   "where": "perkhidmatan.html@1440",
+   "sel": "SPAN.n",
+   "t": "02",
+   "bg": "BODY"
+  },
+  {
+   "r": 17.02,
+   "where": "perkhidmatan.html@1440",
+   "sel": "B.",
+   "t": "House Extension",
+   "bg": "BODY"
+  },
+  {
+   "r": 13.44,
+   "where": "perkhidmatan.html@1440",
+   "sel": "P.",
+   "t": "Add the extra space your",
+   "bg": "BODY"
+  },
+  {
+   "r": 13.44,
+   "where": "perkhidmatan.html@1440",
+   "sel": "SPAN.n",
+   "t": "03",
+   "bg": "BODY"
+  },
+  {
+   "r": 17.02,
+   "where": "perkhidmatan.html@1440",
+   "sel": "B.",
+   "t": "Structural Works",
+   "bg": "BODY"
+  },
+  {
+   "r": 13.44,
+   "where": "perkhidmatan.html@1440",
+   "sel": "P.",
+   "t": "Structural works require",
+   "bg": "BODY"
+  },
+  {
+   "r": 13.33,
+   "where": "perkhidmatan.html@1440",
+   "sel": "H2.",
+   "t": "Structural works",
+   "bg": "section section--raised"
+  },
+  {
+   "r": 10.53,
+   "where": "perkhidmatan.html@1440",
+   "sel": "P.section__stand",
+   "t": "Structural works require",
+   "bg": "section section--raised"
+  },
+  {
+   "r": 10.53,
+   "where": "perkhidmatan.html@1440",
+   "sel": "P.strip__note",
+   "t": "A site in progress and t",
+   "bg": "section section--raised"
+  },
+  {
+   "r": 13.33,
+   "where": "perkhidmatan.html@1440",
+   "sel": "SPAN.tag",
+   "t": "Foto",
+   "bg": "section section--raised"
+  },
+  {
+   "r": 10.53,
+   "where": "perkhidmatan.html@1440",
+   "sel": "SPAN.",
+   "t": "Tapak pembinaan: struktu",
+   "bg": "section section--raised"
+  },
+  {
+   "r": 13.33,
+   "where": "perkhidmatan.html@1440",
+   "sel": "SPAN.tag",
+   "t": "Foto",
+   "bg": "section section--raised"
+  },
+  {
+   "r": 10.53,
+   "where": "perkhidmatan.html@1440",
+   "sel": "SPAN.",
+   "t": "Kerja luaran, scaffold",
+   "bg": "section section--raised"
+  },
+  {
+   "r": 13.33,
+   "where": "perkhidmatan.html@1440",
+   "sel": "SPAN.tag",
+   "t": "Foto",
+   "bg": "section section--raised"
+  },
+  {
+   "r": 10.53,
+   "where": "perkhidmatan.html@1440",
+   "sel": "SPAN.",
+   "t": "Kerja plaster, dinding b",
+   "bg": "section section--raised"
+  },
+  {
+   "r": 13.33,
+   "where": "perkhidmatan.html@1440",
+   "sel": "SPAN.tag",
+   "t": "Video",
+   "bg": "section section--raised"
+  },
+  {
+   "r": 10.53,
+   "where": "perkhidmatan.html@1440",
+   "sel": "SPAN.",
+   "t": "Lantai & skirting",
+   "bg": "section section--raised"
+  },
+  {
+   "r": 13.33,
+   "where": "perkhidmatan.html@1440",
+   "sel": "SPAN.tag",
+   "t": "Video",
+   "bg": "section section--raised"
+  },
+  {
+   "r": 10.53,
+   "where": "perkhidmatan.html@1440",
+   "sel": "SPAN.",
+   "t": "Jubin lantai & dinding",
+   "bg": "section section--raised"
+  },
+  {
+   "r": 13.44,
+   "where": "perkhidmatan.html@1440",
+   "sel": "P.ftr__tag",
+   "t": "Ruang dibina dengan rasa",
+   "bg": "ftr"
+  },
+  {
+   "r": 17.02,
+   "where": "perkhidmatan.html@1440",
+   "sel": "P.ftr__site",
+   "t": "· Renovation & Construct",
+   "bg": "ftr"
+  },
+  {
+   "r": 17.02,
+   "where": "perkhidmatan.html@1440",
+   "sel": "A.",
+   "t": "binahaus.com",
+   "bg": "ftr"
+  },
+  {
+   "r": 13.44,
+   "where": "perkhidmatan.html@1440",
+   "sel": "P.ftr__label",
+   "t": "Contact",
+   "bg": "ftr"
+  },
+  {
+   "r": 17.02,
+   "where": "perkhidmatan.html@1440",
+   "sel": "A.",
+   "t": "WhatsApp +60 11-1124 463",
+   "bg": "ftr"
+  },
+  {
+   "r": 17.02,
+   "where": "perkhidmatan.html@1440",
+   "sel": "A.",
+   "t": "Contact",
+   "bg": "ftr"
+  },
+  {
+   "r": 13.44,
+   "where": "perkhidmatan.html@1440",
+   "sel": "P.ftr__label",
+   "t": "Navigation",
+   "bg": "ftr"
+  },
+  {
+   "r": 17.02,
+   "where": "perkhidmatan.html@1440",
+   "sel": "A.",
+   "t": "Services",
+   "bg": "ftr"
+  },
+  {
+   "r": 17.02,
+   "where": "perkhidmatan.html@1440",
+   "sel": "A.",
+   "t": "Our Work",
+   "bg": "ftr"
+  },
+  {
+   "r": 17.02,
+   "where": "perkhidmatan.html@1440",
+   "sel": "A.",
+   "t": "Cara Kami Kerja",
+   "bg": "ftr"
+  },
+  {
+   "r": 17.02,
+   "where": "perkhidmatan.html@1440",
+   "sel": "A.",
+   "t": "About Us",
+   "bg": "ftr"
+  },
+  {
+   "r": 17.02,
+   "where": "perkhidmatan.html@1440",
+   "sel": "A.",
+   "t": "Profil Syarikat",
+   "bg": "ftr"
+  },
+  {
+   "r": 17.02,
+   "where": "perkhidmatan.html@1440",
+   "sel": "A.",
+   "t": "Contact",
+   "bg": "ftr"
+  },
+  {
+   "r": 13.44,
+   "where": "perkhidmatan.html@1440",
+   "sel": "SPAN.",
+   "t": "© 2026 Bina Haus. All ri",
+   "bg": "ftr"
+  },
+  {
+   "r": 13.44,
+   "where": "perkhidmatan.html@1440",
+   "sel": "SPAN.",
+   "t": "Look preview: arah 05 “S",
+   "bg": "ftr"
+  },
+  {
+   "r": 17.02,
+   "where": "kerja.html@1440",
+   "sel": "A.skip",
+   "t": "Skip to content",
+   "bg": "skip"
+  },
+  {
+   "r": 13.44,
+   "where": "kerja.html@1440",
+   "sel": "A.",
+   "t": "Services",
+   "bg": "hdr"
+  },
+  {
+   "r": 17.02,
+   "where": "kerja.html@1440",
+   "sel": "A.",
+   "t": "Our Work",
+   "bg": "hdr"
+  },
+  {
+   "r": 13.44,
+   "where": "kerja.html@1440",
+   "sel": "A.",
+   "t": "Cara Kami Kerja",
+   "bg": "hdr"
+  },
+  {
+   "r": 13.44,
+   "where": "kerja.html@1440",
+   "sel": "A.",
+   "t": "About Us",
+   "bg": "hdr"
+  },
+  {
+   "r": 13.44,
+   "where": "kerja.html@1440",
+   "sel": "A.",
+   "t": "Profil Syarikat",
+   "bg": "hdr"
+  },
+  {
+   "r": 13.44,
+   "where": "kerja.html@1440",
+   "sel": "A.",
+   "t": "Contact",
+   "bg": "hdr"
+  },
+  {
+   "r": 17.02,
+   "where": "kerja.html@1440",
+   "sel": "H1.",
+   "t": "Our Work",
+   "bg": "BODY"
+  },
+  {
+   "r": 13.44,
+   "where": "kerja.html@1440",
+   "sel": "P.section__stand",
+   "t": "A collection of work by ",
+   "bg": "BODY"
+  },
+  {
+   "r": 17.02,
+   "where": "kerja.html@1440",
+   "sel": "H2.",
+   "t": "See the work for yoursel",
+   "bg": "BODY"
+  },
+  {
+   "r": 13.44,
+   "where": "kerja.html@1440",
+   "sel": "P.section__stand",
+   "t": "Photographs, 3D renders ",
+   "bg": "BODY"
+  },
+  {
+   "r": 17.02,
+   "where": "kerja.html@1440",
+   "sel": "SPAN.tag",
+   "t": "Foto",
+   "bg": "BODY"
+  },
+  {
+   "r": 13.44,
+   "where": "kerja.html@1440",
+   "sel": "SPAN.",
+   "t": "Bangunan sedia ada, kerj",
+   "bg": "BODY"
+  },
+  {
+   "r": 17.02,
+   "where": "kerja.html@1440",
+   "sel": "SPAN.tag",
+   "t": "Video",
+   "bg": "BODY"
+  },
+  {
+   "r": 13.44,
+   "where": "kerja.html@1440",
+   "sel": "SPAN.",
+   "t": "Unit dalam kerja, kaca &",
+   "bg": "BODY"
+  },
+  {
+   "r": 17.02,
+   "where": "kerja.html@1440",
+   "sel": "SPAN.tag",
+   "t": "Foto",
+   "bg": "BODY"
+  },
+  {
+   "r": 13.44,
+   "where": "kerja.html@1440",
+   "sel": "SPAN.",
+   "t": "Ruang dalaman, tingkap b",
+   "bg": "BODY"
+  },
+  {
+   "r": 17.02,
+   "where": "kerja.html@1440",
+   "sel": "SPAN.tag",
+   "t": "Render",
+   "bg": "BODY"
+  },
+  {
+   "r": 13.44,
+   "where": "kerja.html@1440",
+   "sel": "SPAN.",
+   "t": "Dry Kitchen",
+   "bg": "BODY"
+  },
+  {
+   "r": 17.02,
+   "where": "kerja.html@1440",
+   "sel": "SPAN.tag",
+   "t": "Video",
+   "bg": "BODY"
+  },
+  {
+   "r": 13.44,
+   "where": "kerja.html@1440",
+   "sel": "SPAN.",
+   "t": "Unit komersial, partitio",
+   "bg": "BODY"
+  },
+  {
+   "r": 17.02,
+   "where": "kerja.html@1440",
+   "sel": "SPAN.tag",
+   "t": "Foto",
+   "bg": "BODY"
+  },
+  {
+   "r": 13.44,
+   "where": "kerja.html@1440",
+   "sel": "SPAN.",
+   "t": "Kerja luaran, scaffold",
+   "bg": "BODY"
+  },
+  {
+   "r": 17.02,
+   "where": "kerja.html@1440",
+   "sel": "SPAN.tag",
+   "t": "Foto",
+   "bg": "BODY"
+  },
+  {
+   "r": 13.44,
+   "where": "kerja.html@1440",
+   "sel": "SPAN.",
+   "t": "Ruang dalaman, lantai ka",
+   "bg": "BODY"
+  },
+  {
+   "r": 17.02,
+   "where": "kerja.html@1440",
+   "sel": "SPAN.tag",
+   "t": "Video",
+   "bg": "BODY"
+  },
+  {
+   "r": 13.44,
+   "where": "kerja.html@1440",
+   "sel": "SPAN.",
+   "t": "Jubin lantai",
+   "bg": "BODY"
+  },
+  {
+   "r": 17.02,
+   "where": "kerja.html@1440",
+   "sel": "SPAN.tag",
+   "t": "Render",
+   "bg": "BODY"
+  },
+  {
+   "r": 13.44,
+   "where": "kerja.html@1440",
+   "sel": "SPAN.",
+   "t": "Living and Dining",
+   "bg": "BODY"
+  },
+  {
+   "r": 17.02,
+   "where": "kerja.html@1440",
+   "sel": "SPAN.tag",
+   "t": "Foto",
+   "bg": "BODY"
+  },
+  {
+   "r": 13.44,
+   "where": "kerja.html@1440",
+   "sel": "SPAN.",
+   "t": "Tapak kerja, kayu di lan",
+   "bg": "BODY"
+  },
+  {
+   "r": 17.02,
+   "where": "kerja.html@1440",
+   "sel": "SPAN.tag",
+   "t": "Video",
+   "bg": "BODY"
+  },
+  {
+   "r": 13.44,
+   "where": "kerja.html@1440",
+   "sel": "SPAN.",
+   "t": "Pintu & dinding",
+   "bg": "BODY"
+  },
+  {
+   "r": 17.02,
+   "where": "kerja.html@1440",
+   "sel": "SPAN.tag",
+   "t": "Foto",
+   "bg": "BODY"
+  },
+  {
+   "r": 13.44,
+   "where": "kerja.html@1440",
+   "sel": "SPAN.",
+   "t": "Ruang kosong, lantai kay",
+   "bg": "BODY"
+  },
+  {
+   "r": 17.02,
+   "where": "kerja.html@1440",
+   "sel": "SPAN.tag",
+   "t": "Render",
+   "bg": "BODY"
+  },
+  {
+   "r": 13.44,
+   "where": "kerja.html@1440",
+   "sel": "SPAN.",
+   "t": "Walk-in Wardrobe",
+   "bg": "BODY"
+  },
+  {
+   "r": 17.02,
+   "where": "kerja.html@1440",
+   "sel": "SPAN.tag",
+   "t": "Video",
+   "bg": "BODY"
+  },
+  {
+   "r": 13.44,
+   "where": "kerja.html@1440",
+   "sel": "SPAN.",
+   "t": "Kerja hacking & peroboha",
+   "bg": "BODY"
+  },
+  {
+   "r": 17.02,
+   "where": "kerja.html@1440",
+   "sel": "SPAN.tag",
+   "t": "Foto",
+   "bg": "BODY"
+  },
+  {
+   "r": 13.44,
+   "where": "kerja.html@1440",
+   "sel": "SPAN.",
+   "t": "Kerja plaster, dinding b",
+   "bg": "BODY"
+  },
+  {
+   "r": 17.02,
+   "where": "kerja.html@1440",
+   "sel": "SPAN.tag",
+   "t": "Render",
+   "bg": "BODY"
+  },
+  {
+   "r": 13.44,
+   "where": "kerja.html@1440",
+   "sel": "SPAN.",
+   "t": "Living Area",
+   "bg": "BODY"
+  },
+  {
+   "r": 17.02,
+   "where": "kerja.html@1440",
+   "sel": "SPAN.tag",
+   "t": "Video",
+   "bg": "BODY"
+  },
+  {
+   "r": 13.44,
+   "where": "kerja.html@1440",
+   "sel": "SPAN.",
+   "t": "Jubin lantai & dinding",
+   "bg": "BODY"
+  },
+  {
+   "r": 17.02,
+   "where": "kerja.html@1440",
+   "sel": "SPAN.tag",
+   "t": "Foto",
+   "bg": "BODY"
+  },
+  {
+   "r": 13.44,
+   "where": "kerja.html@1440",
+   "sel": "SPAN.",
+   "t": "Ruang kosong, lantai kay",
+   "bg": "BODY"
+  },
+  {
+   "r": 17.02,
+   "where": "kerja.html@1440",
+   "sel": "SPAN.tag",
+   "t": "Render",
+   "bg": "BODY"
+  },
+  {
+   "r": 13.44,
+   "where": "kerja.html@1440",
+   "sel": "SPAN.",
+   "t": "Kitchen",
+   "bg": "BODY"
+  },
+  {
+   "r": 17.02,
+   "where": "kerja.html@1440",
+   "sel": "SPAN.tag",
+   "t": "Video",
+   "bg": "BODY"
+  },
+  {
+   "r": 13.44,
+   "where": "kerja.html@1440",
+   "sel": "SPAN.",
+   "t": "Lantai & skirting",
+   "bg": "BODY"
+  },
+  {
+   "r": 13.44,
+   "where": "kerja.html@1440",
+   "sel": "P.strip__note",
+   "t": "Media di atas ialah aset",
+   "bg": "BODY"
+  },
+  {
+   "r": 13.44,
+   "where": "kerja.html@1440",
+   "sel": "P.ftr__tag",
+   "t": "Ruang dibina dengan rasa",
+   "bg": "ftr"
+  },
+  {
+   "r": 17.02,
+   "where": "kerja.html@1440",
+   "sel": "P.ftr__site",
+   "t": "· Renovation & Construct",
+   "bg": "ftr"
+  },
+  {
+   "r": 17.02,
+   "where": "kerja.html@1440",
+   "sel": "A.",
+   "t": "binahaus.com",
+   "bg": "ftr"
+  },
+  {
+   "r": 13.44,
+   "where": "kerja.html@1440",
+   "sel": "P.ftr__label",
+   "t": "Contact",
+   "bg": "ftr"
+  },
+  {
+   "r": 17.02,
+   "where": "kerja.html@1440",
+   "sel": "A.",
+   "t": "WhatsApp +60 11-1124 463",
+   "bg": "ftr"
+  },
+  {
+   "r": 17.02,
+   "where": "kerja.html@1440",
+   "sel": "A.",
+   "t": "Contact",
+   "bg": "ftr"
+  },
+  {
+   "r": 13.44,
+   "where": "kerja.html@1440",
+   "sel": "P.ftr__label",
+   "t": "Navigation",
+   "bg": "ftr"
+  },
+  {
+   "r": 17.02,
+   "where": "kerja.html@1440",
+   "sel": "A.",
+   "t": "Services",
+   "bg": "ftr"
+  },
+  {
+   "r": 17.02,
+   "where": "kerja.html@1440",
+   "sel": "A.",
+   "t": "Our Work",
+   "bg": "ftr"
+  },
+  {
+   "r": 17.02,
+   "where": "kerja.html@1440",
+   "sel": "A.",
+   "t": "Cara Kami Kerja",
+   "bg": "ftr"
+  },
+  {
+   "r": 17.02,
+   "where": "kerja.html@1440",
+   "sel": "A.",
+   "t": "About Us",
+   "bg": "ftr"
+  },
+  {
+   "r": 17.02,
+   "where": "kerja.html@1440",
+   "sel": "A.",
+   "t": "Profil Syarikat",
+   "bg": "ftr"
+  },
+  {
+   "r": 17.02,
+   "where": "kerja.html@1440",
+   "sel": "A.",
+   "t": "Contact",
+   "bg": "ftr"
+  },
+  {
+   "r": 13.44,
+   "where": "kerja.html@1440",
+   "sel": "SPAN.",
+   "t": "© 2026 Bina Haus. All ri",
+   "bg": "ftr"
+  },
+  {
+   "r": 13.44,
+   "where": "kerja.html@1440",
+   "sel": "SPAN.",
+   "t": "Look preview: arah 05 “S",
+   "bg": "ftr"
+  },
+  {
+   "r": 17.02,
+   "where": "cara.html@1440",
+   "sel": "A.skip",
+   "t": "Skip to content",
+   "bg": "skip"
+  },
+  {
+   "r": 13.44,
+   "where": "cara.html@1440",
+   "sel": "A.",
+   "t": "Services",
+   "bg": "hdr"
+  },
+  {
+   "r": 13.44,
+   "where": "cara.html@1440",
+   "sel": "A.",
+   "t": "Our Work",
+   "bg": "hdr"
+  },
+  {
+   "r": 17.02,
+   "where": "cara.html@1440",
+   "sel": "A.",
+   "t": "Cara Kami Kerja",
+   "bg": "hdr"
+  },
+  {
+   "r": 13.44,
+   "where": "cara.html@1440",
+   "sel": "A.",
+   "t": "About Us",
+   "bg": "hdr"
+  },
+  {
+   "r": 13.44,
+   "where": "cara.html@1440",
+   "sel": "A.",
+   "t": "Profil Syarikat",
+   "bg": "hdr"
+  },
+  {
+   "r": 13.44,
+   "where": "cara.html@1440",
+   "sel": "A.",
+   "t": "Contact",
+   "bg": "hdr"
+  },
+  {
+   "r": 17.02,
+   "where": "cara.html@1440",
+   "sel": "H1.",
+   "t": "Cara Kami Kerja",
+   "bg": "BODY"
+  },
+  {
+   "r": 13.44,
+   "where": "cara.html@1440",
+   "sel": "P.section__stand",
+   "t": "Satu proses yang jelas, ",
+   "bg": "BODY"
+  },
+  {
+   "r": 17.02,
+   "where": "cara.html@1440",
+   "sel": "H2.",
+   "t": "A clear process from sta",
+   "bg": "BODY"
+  },
+  {
+   "r": 13.44,
+   "where": "cara.html@1440",
+   "sel": "SPAN.n",
+   "t": "01",
+   "bg": "BODY"
+  },
+  {
+   "r": 17.02,
+   "where": "cara.html@1440",
+   "sel": "H3.",
+   "t": "Consultation",
+   "bg": "BODY"
+  },
+  {
+   "r": 13.44,
+   "where": "cara.html@1440",
+   "sel": "P.",
+   "t": "We start by understandin",
+   "bg": "BODY"
+  },
+  {
+   "r": 13.44,
+   "where": "cara.html@1440",
+   "sel": "SPAN.n",
+   "t": "02",
+   "bg": "BODY"
+  },
+  {
+   "r": 17.02,
+   "where": "cara.html@1440",
+   "sel": "H3.",
+   "t": "Site Visit",
+   "bg": "BODY"
+  },
+  {
+   "r": 13.44,
+   "where": "cara.html@1440",
+   "sel": "P.",
+   "t": "Our team visits the site",
+   "bg": "BODY"
+  },
+  {
+   "r": 13.44,
+   "where": "cara.html@1440",
+   "sel": "SPAN.n",
+   "t": "03",
+   "bg": "BODY"
+  },
+  {
+   "r": 17.02,
+   "where": "cara.html@1440",
+   "sel": "H3.",
+   "t": "Quotations",
+   "bg": "BODY"
+  },
+  {
+   "r": 13.44,
+   "where": "cara.html@1440",
+   "sel": "P.",
+   "t": "You receive a quotation ",
+   "bg": "BODY"
+  },
+  {
+   "r": 13.44,
+   "where": "cara.html@1440",
+   "sel": "SPAN.n",
+   "t": "04",
+   "bg": "BODY"
+  },
+  {
+   "r": 17.02,
+   "where": "cara.html@1440",
+   "sel": "H3.",
+   "t": "Construction",
+   "bg": "BODY"
+  },
+  {
+   "r": 13.44,
+   "where": "cara.html@1440",
+   "sel": "P.",
+   "t": "Once everything is agree",
+   "bg": "BODY"
+  },
+  {
+   "r": 13.44,
+   "where": "cara.html@1440",
+   "sel": "SPAN.n",
+   "t": "05",
+   "bg": "BODY"
+  },
+  {
+   "r": 17.02,
+   "where": "cara.html@1440",
+   "sel": "H3.",
+   "t": "Handover",
+   "bg": "BODY"
+  },
+  {
+   "r": 13.44,
+   "where": "cara.html@1440",
+   "sel": "P.",
+   "t": "When the work is complet",
+   "bg": "BODY"
+  },
+  {
+   "r": 13.33,
+   "where": "cara.html@1440",
+   "sel": "H2.",
+   "t": "One team. One project. O",
+   "bg": "section section--raised"
+  },
+  {
+   "r": 10.53,
+   "where": "cara.html@1440",
+   "sel": "P.section__stand",
+   "t": "From consultation and si",
+   "bg": "section section--raised"
+  },
+  {
+   "r": 13.33,
+   "where": "cara.html@1440",
+   "sel": "SPAN.tag",
+   "t": "Foto",
+   "bg": "section section--raised"
+  },
+  {
+   "r": 10.53,
+   "where": "cara.html@1440",
+   "sel": "SPAN.",
+   "t": "Pasukan di tapak kerja, ",
+   "bg": "section section--raised"
+  },
+  {
+   "r": 13.33,
+   "where": "cara.html@1440",
+   "sel": "SPAN.tag",
+   "t": "Foto",
+   "bg": "section section--raised"
+  },
+  {
+   "r": 10.53,
+   "where": "cara.html@1440",
+   "sel": "SPAN.",
+   "t": "Kerja dalaman dalam pros",
+   "bg": "section section--raised"
+  },
+  {
+   "r": 13.44,
+   "where": "cara.html@1440",
+   "sel": "P.ftr__tag",
+   "t": "Ruang dibina dengan rasa",
+   "bg": "ftr"
+  },
+  {
+   "r": 17.02,
+   "where": "cara.html@1440",
+   "sel": "P.ftr__site",
+   "t": "· Renovation & Construct",
+   "bg": "ftr"
+  },
+  {
+   "r": 17.02,
+   "where": "cara.html@1440",
+   "sel": "A.",
+   "t": "binahaus.com",
+   "bg": "ftr"
+  },
+  {
+   "r": 13.44,
+   "where": "cara.html@1440",
+   "sel": "P.ftr__label",
+   "t": "Contact",
+   "bg": "ftr"
+  },
+  {
+   "r": 17.02,
+   "where": "cara.html@1440",
+   "sel": "A.",
+   "t": "WhatsApp +60 11-1124 463",
+   "bg": "ftr"
+  },
+  {
+   "r": 17.02,
+   "where": "cara.html@1440",
+   "sel": "A.",
+   "t": "Contact",
+   "bg": "ftr"
+  },
+  {
+   "r": 13.44,
+   "where": "cara.html@1440",
+   "sel": "P.ftr__label",
+   "t": "Navigation",
+   "bg": "ftr"
+  },
+  {
+   "r": 17.02,
+   "where": "cara.html@1440",
+   "sel": "A.",
+   "t": "Services",
+   "bg": "ftr"
+  },
+  {
+   "r": 17.02,
+   "where": "cara.html@1440",
+   "sel": "A.",
+   "t": "Our Work",
+   "bg": "ftr"
+  },
+  {
+   "r": 17.02,
+   "where": "cara.html@1440",
+   "sel": "A.",
+   "t": "Cara Kami Kerja",
+   "bg": "ftr"
+  },
+  {
+   "r": 17.02,
+   "where": "cara.html@1440",
+   "sel": "A.",
+   "t": "About Us",
+   "bg": "ftr"
+  },
+  {
+   "r": 17.02,
+   "where": "cara.html@1440",
+   "sel": "A.",
+   "t": "Profil Syarikat",
+   "bg": "ftr"
+  },
+  {
+   "r": 17.02,
+   "where": "cara.html@1440",
+   "sel": "A.",
+   "t": "Contact",
+   "bg": "ftr"
+  },
+  {
+   "r": 13.44,
+   "where": "cara.html@1440",
+   "sel": "SPAN.",
+   "t": "© 2026 Bina Haus. All ri",
+   "bg": "ftr"
+  },
+  {
+   "r": 13.44,
+   "where": "cara.html@1440",
+   "sel": "SPAN.",
+   "t": "Look preview: arah 05 “S",
+   "bg": "ftr"
+  },
+  {
+   "r": 17.02,
+   "where": "tentang.html@1440",
+   "sel": "A.skip",
+   "t": "Skip to content",
+   "bg": "skip"
+  },
+  {
+   "r": 13.44,
+   "where": "tentang.html@1440",
+   "sel": "A.",
+   "t": "Services",
+   "bg": "hdr"
+  },
+  {
+   "r": 13.44,
+   "where": "tentang.html@1440",
+   "sel": "A.",
+   "t": "Our Work",
+   "bg": "hdr"
+  },
+  {
+   "r": 13.44,
+   "where": "tentang.html@1440",
+   "sel": "A.",
+   "t": "Cara Kami Kerja",
+   "bg": "hdr"
+  },
+  {
+   "r": 17.02,
+   "where": "tentang.html@1440",
+   "sel": "A.",
+   "t": "About Us",
+   "bg": "hdr"
+  },
+  {
+   "r": 13.44,
+   "where": "tentang.html@1440",
+   "sel": "A.",
+   "t": "Profil Syarikat",
+   "bg": "hdr"
+  },
+  {
+   "r": 13.44,
+   "where": "tentang.html@1440",
+   "sel": "A.",
+   "t": "Contact",
+   "bg": "hdr"
+  },
+  {
+   "r": 17.02,
+   "where": "tentang.html@1440",
+   "sel": "H1.",
+   "t": "About Us",
+   "bg": "BODY"
+  },
+  {
+   "r": 13.44,
+   "where": "tentang.html@1440",
+   "sel": "P.section__stand",
+   "t": "Bina Haus is a renovatio",
+   "bg": "BODY"
+  },
+  {
+   "r": 17.02,
+   "where": "tentang.html@1440",
+   "sel": "H2.",
+   "t": "We build spaces for ever",
+   "bg": "BODY"
+  },
+  {
+   "r": 17.02,
+   "where": "tentang.html@1440",
+   "sel": "P.",
+   "t": "Our work ranges from ful",
+   "bg": "BODY"
+  },
+  {
+   "r": 17.02,
+   "where": "tentang.html@1440",
+   "sel": "P.",
+   "t": "Whatever the scale of th",
+   "bg": "BODY"
+  },
+  {
+   "r": 17.02,
+   "where": "tentang.html@1440",
+   "sel": "SPAN.tag",
+   "t": "Foto",
+   "bg": "BODY"
+  },
+  {
+   "r": 13.44,
+   "where": "tentang.html@1440",
+   "sel": "SPAN.",
+   "t": "Pasukan Bina Haus di tap",
+   "bg": "BODY"
+  },
+  {
+   "r": 13.33,
+   "where": "tentang.html@1440",
+   "sel": "H2.pull",
+   "t": "Ruang dibina dengan rasa",
+   "bg": "section section--raised"
+  },
+  {
+   "r": 13.33,
+   "where": "tentang.html@1440",
+   "sel": "P.",
+   "t": "Because a space is more ",
+   "bg": "section section--raised"
+  },
+  {
+   "r": 13.33,
+   "where": "tentang.html@1440",
+   "sel": "P.",
+   "t": "So when we build or reno",
+   "bg": "section section--raised"
+  },
+  {
+   "r": 13.33,
+   "where": "tentang.html@1440",
+   "sel": "P.tag",
+   "t": "BINA HAUS. RUANG DIBINA ",
+   "bg": "section section--raised"
+  },
+  {
+   "r": 13.44,
+   "where": "tentang.html@1440",
+   "sel": "P.ftr__tag",
+   "t": "Ruang dibina dengan rasa",
+   "bg": "ftr"
+  },
+  {
+   "r": 17.02,
+   "where": "tentang.html@1440",
+   "sel": "P.ftr__site",
+   "t": "· Renovation & Construct",
+   "bg": "ftr"
+  },
+  {
+   "r": 17.02,
+   "where": "tentang.html@1440",
+   "sel": "A.",
+   "t": "binahaus.com",
+   "bg": "ftr"
+  },
+  {
+   "r": 13.44,
+   "where": "tentang.html@1440",
+   "sel": "P.ftr__label",
+   "t": "Contact",
+   "bg": "ftr"
+  },
+  {
+   "r": 17.02,
+   "where": "tentang.html@1440",
+   "sel": "A.",
+   "t": "WhatsApp +60 11-1124 463",
+   "bg": "ftr"
+  },
+  {
+   "r": 17.02,
+   "where": "tentang.html@1440",
+   "sel": "A.",
+   "t": "Contact",
+   "bg": "ftr"
+  },
+  {
+   "r": 13.44,
+   "where": "tentang.html@1440",
+   "sel": "P.ftr__label",
+   "t": "Navigation",
+   "bg": "ftr"
+  },
+  {
+   "r": 17.02,
+   "where": "tentang.html@1440",
+   "sel": "A.",
+   "t": "Services",
+   "bg": "ftr"
+  },
+  {
+   "r": 17.02,
+   "where": "tentang.html@1440",
+   "sel": "A.",
+   "t": "Our Work",
+   "bg": "ftr"
+  },
+  {
+   "r": 17.02,
+   "where": "tentang.html@1440",
+   "sel": "A.",
+   "t": "Cara Kami Kerja",
+   "bg": "ftr"
+  },
+  {
+   "r": 17.02,
+   "where": "tentang.html@1440",
+   "sel": "A.",
+   "t": "About Us",
+   "bg": "ftr"
+  },
+  {
+   "r": 17.02,
+   "where": "tentang.html@1440",
+   "sel": "A.",
+   "t": "Profil Syarikat",
+   "bg": "ftr"
+  },
+  {
+   "r": 17.02,
+   "where": "tentang.html@1440",
+   "sel": "A.",
+   "t": "Contact",
+   "bg": "ftr"
+  },
+  {
+   "r": 13.44,
+   "where": "tentang.html@1440",
+   "sel": "SPAN.",
+   "t": "© 2026 Bina Haus. All ri",
+   "bg": "ftr"
+  },
+  {
+   "r": 13.44,
+   "where": "tentang.html@1440",
+   "sel": "SPAN.",
+   "t": "Look preview: arah 05 “S",
+   "bg": "ftr"
+  },
+  {
+   "r": 17.02,
+   "where": "syarikat.html@1440",
+   "sel": "A.skip",
+   "t": "Skip to content",
+   "bg": "skip"
+  },
+  {
+   "r": 13.44,
+   "where": "syarikat.html@1440",
+   "sel": "A.",
+   "t": "Services",
+   "bg": "hdr"
+  },
+  {
+   "r": 13.44,
+   "where": "syarikat.html@1440",
+   "sel": "A.",
+   "t": "Our Work",
+   "bg": "hdr"
+  },
+  {
+   "r": 13.44,
+   "where": "syarikat.html@1440",
+   "sel": "A.",
+   "t": "Cara Kami Kerja",
+   "bg": "hdr"
+  },
+  {
+   "r": 13.44,
+   "where": "syarikat.html@1440",
+   "sel": "A.",
+   "t": "About Us",
+   "bg": "hdr"
+  },
+  {
+   "r": 17.02,
+   "where": "syarikat.html@1440",
+   "sel": "A.",
+   "t": "Profil Syarikat",
+   "bg": "hdr"
+  },
+  {
+   "r": 13.44,
+   "where": "syarikat.html@1440",
+   "sel": "A.",
+   "t": "Contact",
+   "bg": "hdr"
+  },
+  {
+   "r": 17.02,
+   "where": "syarikat.html@1440",
+   "sel": "H1.",
+   "t": "Profil Syarikat",
+   "bg": "BODY"
+  },
+  {
+   "r": 13.44,
+   "where": "syarikat.html@1440",
+   "sel": "P.section__stand",
+   "t": "Everything the company p",
+   "bg": "BODY"
+  },
+  {
+   "r": 17.02,
+   "where": "syarikat.html@1440",
+   "sel": "H2.",
+   "t": "BINA HAUS — Ruang dibina",
+   "bg": "BODY"
+  },
+  {
+   "r": 13.44,
+   "where": "syarikat.html@1440",
+   "sel": "DT.",
+   "t": "Nama syarikat",
+   "bg": "BODY"
+  },
+  {
+   "r": 17.02,
+   "where": "syarikat.html@1440",
+   "sel": "DD.",
+   "t": "Bina Haus",
+   "bg": "BODY"
+  },
+  {
+   "r": 13.44,
+   "where": "syarikat.html@1440",
+   "sel": "SMALL.",
+   "t": "Seperti yang dipaparkan ",
+   "bg": "BODY"
+  },
+  {
+   "r": 13.44,
+   "where": "syarikat.html@1440",
+   "sel": "DT.",
+   "t": "Bidang",
+   "bg": "BODY"
+  },
+  {
+   "r": 17.02,
+   "where": "syarikat.html@1440",
+   "sel": "DD.",
+   "t": "Renovation and construct",
+   "bg": "BODY"
+  },
+  {
+   "r": 13.44,
+   "where": "syarikat.html@1440",
+   "sel": "SMALL.",
+   "t": "Homes, offices and comme",
+   "bg": "BODY"
+  },
+  {
+   "r": 13.44,
+   "where": "syarikat.html@1440",
+   "sel": "DT.",
+   "t": "Skop kerja — renovasi",
+   "bg": "BODY"
+  },
+  {
+   "r": 17.02,
+   "where": "syarikat.html@1440",
+   "sel": "DD.",
+   "t": "Full house renovation · ",
+   "bg": "BODY"
+  },
+  {
+   "r": 13.44,
+   "where": "syarikat.html@1440",
+   "sel": "SMALL.",
+   "t": "7 jenis kerja, seperti d",
+   "bg": "BODY"
+  },
+  {
+   "r": 13.44,
+   "where": "syarikat.html@1440",
+   "sel": "DT.",
+   "t": "Skop kerja — pembinaan",
+   "bg": "BODY"
+  },
+  {
+   "r": 17.02,
+   "where": "syarikat.html@1440",
+   "sel": "DD.",
+   "t": "New house construction ·",
+   "bg": "BODY"
+  },
+  {
+   "r": 13.44,
+   "where": "syarikat.html@1440",
+   "sel": "SMALL.",
+   "t": "3 jenis kerja, seperti d",
+   "bg": "BODY"
+  },
+  {
+   "r": 13.44,
+   "where": "syarikat.html@1440",
+   "sel": "DT.",
+   "t": "Proses",
+   "bg": "BODY"
+  },
+  {
+   "r": 17.02,
+   "where": "syarikat.html@1440",
+   "sel": "DD.",
+   "t": "Consultation → Site visi",
+   "bg": "BODY"
+  },
+  {
+   "r": 13.44,
+   "where": "syarikat.html@1440",
+   "sel": "SMALL.",
+   "t": "Lima langkah yang sama p",
+   "bg": "BODY"
+  },
+  {
+   "r": 13.44,
+   "where": "syarikat.html@1440",
+   "sel": "DT.",
+   "t": "Cara kami bekerja",
+   "bg": "BODY"
+  },
+  {
+   "r": 17.02,
+   "where": "syarikat.html@1440",
+   "sel": "DD.",
+   "t": "One team. One project. O",
+   "bg": "BODY"
+  },
+  {
+   "r": 13.44,
+   "where": "syarikat.html@1440",
+   "sel": "SMALL.",
+   "t": "Satu pasukan dari konsul",
+   "bg": "BODY"
+  },
+  {
+   "r": 13.44,
+   "where": "syarikat.html@1440",
+   "sel": "DT.",
+   "t": "Hubungan",
+   "bg": "BODY"
+  },
+  {
+   "r": 17.02,
+   "where": "syarikat.html@1440",
+   "sel": "DD.",
+   "t": "WhatsApp +60 11-1124 463",
+   "bg": "BODY"
+  },
+  {
+   "r": 13.44,
+   "where": "syarikat.html@1440",
+   "sel": "SMALL.",
+   "t": "Satu-satunya saluran yan",
+   "bg": "BODY"
+  },
+  {
+   "r": 13.44,
+   "where": "syarikat.html@1440",
+   "sel": "DT.",
+   "t": "Alamat · E-mel · Pendaft",
+   "bg": "BODY"
+  },
+  {
+   "r": 17.02,
+   "where": "syarikat.html@1440",
+   "sel": "DD.",
+   "t": "Belum diterbitkan",
+   "bg": "BODY"
+  },
+  {
+   "r": 13.44,
+   "where": "syarikat.html@1440",
+   "sel": "SMALL.",
+   "t": "Laman binahaus.com tidak",
+   "bg": "BODY"
+  },
+  {
+   "r": 13.44,
+   "where": "syarikat.html@1440",
+   "sel": "P.plaque__ft",
+   "t": "Profil ini dibaca terus ",
+   "bg": "BODY"
+  },
+  {
+   "r": 13.44,
+   "where": "syarikat.html@1440",
+   "sel": "P.ftr__tag",
+   "t": "Ruang dibina dengan rasa",
+   "bg": "ftr"
+  },
+  {
+   "r": 17.02,
+   "where": "syarikat.html@1440",
+   "sel": "P.ftr__site",
+   "t": "· Renovation & Construct",
+   "bg": "ftr"
+  },
+  {
+   "r": 17.02,
+   "where": "syarikat.html@1440",
+   "sel": "A.",
+   "t": "binahaus.com",
+   "bg": "ftr"
+  },
+  {
+   "r": 13.44,
+   "where": "syarikat.html@1440",
+   "sel": "P.ftr__label",
+   "t": "Contact",
+   "bg": "ftr"
+  },
+  {
+   "r": 17.02,
+   "where": "syarikat.html@1440",
+   "sel": "A.",
+   "t": "WhatsApp +60 11-1124 463",
+   "bg": "ftr"
+  },
+  {
+   "r": 17.02,
+   "where": "syarikat.html@1440",
+   "sel": "A.",
+   "t": "Contact",
+   "bg": "ftr"
+  },
+  {
+   "r": 13.44,
+   "where": "syarikat.html@1440",
+   "sel": "P.ftr__label",
+   "t": "Navigation",
+   "bg": "ftr"
+  },
+  {
+   "r": 17.02,
+   "where": "syarikat.html@1440",
+   "sel": "A.",
+   "t": "Services",
+   "bg": "ftr"
+  },
+  {
+   "r": 17.02,
+   "where": "syarikat.html@1440",
+   "sel": "A.",
+   "t": "Our Work",
+   "bg": "ftr"
+  },
+  {
+   "r": 17.02,
+   "where": "syarikat.html@1440",
+   "sel": "A.",
+   "t": "Cara Kami Kerja",
+   "bg": "ftr"
+  },
+  {
+   "r": 17.02,
+   "where": "syarikat.html@1440",
+   "sel": "A.",
+   "t": "About Us",
+   "bg": "ftr"
+  },
+  {
+   "r": 17.02,
+   "where": "syarikat.html@1440",
+   "sel": "A.",
+   "t": "Profil Syarikat",
+   "bg": "ftr"
+  },
+  {
+   "r": 17.02,
+   "where": "syarikat.html@1440",
+   "sel": "A.",
+   "t": "Contact",
+   "bg": "ftr"
+  },
+  {
+   "r": 13.44,
+   "where": "syarikat.html@1440",
+   "sel": "SPAN.",
+   "t": "© 2026 Bina Haus. All ri",
+   "bg": "ftr"
+  },
+  {
+   "r": 13.44,
+   "where": "syarikat.html@1440",
+   "sel": "SPAN.",
+   "t": "Look preview: arah 05 “S",
+   "bg": "ftr"
+  },
+  {
+   "r": 17.02,
+   "where": "kontak.html@1440",
+   "sel": "A.skip",
+   "t": "Skip to content",
+   "bg": "skip"
+  },
+  {
+   "r": 13.44,
+   "where": "kontak.html@1440",
+   "sel": "A.",
+   "t": "Services",
+   "bg": "hdr"
+  },
+  {
+   "r": 13.44,
+   "where": "kontak.html@1440",
+   "sel": "A.",
+   "t": "Our Work",
+   "bg": "hdr"
+  },
+  {
+   "r": 13.44,
+   "where": "kontak.html@1440",
+   "sel": "A.",
+   "t": "Cara Kami Kerja",
+   "bg": "hdr"
+  },
+  {
+   "r": 13.44,
+   "where": "kontak.html@1440",
+   "sel": "A.",
+   "t": "About Us",
+   "bg": "hdr"
+  },
+  {
+   "r": 13.44,
+   "where": "kontak.html@1440",
+   "sel": "A.",
+   "t": "Profil Syarikat",
+   "bg": "hdr"
+  },
+  {
+   "r": 17.02,
+   "where": "kontak.html@1440",
+   "sel": "A.",
+   "t": "Contact",
+   "bg": "hdr"
+  },
+  {
+   "r": 17.02,
+   "where": "kontak.html@1440",
+   "sel": "H1.",
+   "t": "Contact",
+   "bg": "BODY"
+  },
+  {
+   "r": 13.44,
+   "where": "kontak.html@1440",
+   "sel": "P.section__stand",
+   "t": "Tell us what you need an",
+   "bg": "BODY"
+  },
+  {
+   "r": 17.02,
+   "where": "kontak.html@1440",
+   "sel": "H2.",
+   "t": "Planning to renovate you",
+   "bg": "BODY"
+  },
+  {
+   "r": 13.44,
+   "where": "kontak.html@1440",
+   "sel": "P.section__stand",
+   "t": "Get free quotations, or ",
+   "bg": "BODY"
+  },
+  {
+   "r": 17.02,
+   "where": "kontak.html@1440",
+   "sel": "A.btn",
+   "t": "Get free Quotations",
+   "bg": "btn"
+  },
+  {
+   "r": 17.02,
+   "where": "kontak.html@1440",
+   "sel": "A.btn",
+   "t": "WhatsApp Us",
+   "bg": "BODY"
+  },
+  {
+   "r": 13.44,
+   "where": "kontak.html@1440",
+   "sel": "P.ftr__label",
+   "t": "Saluran yang diterbitkan",
+   "bg": "BODY"
+  },
+  {
+   "r": 17.02,
+   "where": "kontak.html@1440",
+   "sel": "A.",
+   "t": "WhatsApp +60 11-1124 463",
+   "bg": "BODY"
+  },
+  {
+   "r": 17.02,
+   "where": "kontak.html@1440",
+   "sel": "A.",
+   "t": "binahaus.com",
+   "bg": "BODY"
+  },
+  {
+   "r": 13.44,
+   "where": "kontak.html@1440",
+   "sel": "P.strip__note",
+   "t": "Laman binahaus.com tidak",
+   "bg": "BODY"
+  },
+  {
+   "r": 17.02,
+   "where": "kontak.html@1440",
+   "sel": "SPAN.tag",
+   "t": "Foto",
+   "bg": "BODY"
+  },
+  {
+   "r": 13.44,
+   "where": "kontak.html@1440",
+   "sel": "SPAN.",
+   "t": "Ruang dalaman selepas ke",
+   "bg": "BODY"
+  },
+  {
+   "r": 13.44,
+   "where": "kontak.html@1440",
+   "sel": "P.ftr__tag",
+   "t": "Ruang dibina dengan rasa",
+   "bg": "ftr"
+  },
+  {
+   "r": 17.02,
+   "where": "kontak.html@1440",
+   "sel": "P.ftr__site",
+   "t": "· Renovation & Construct",
+   "bg": "ftr"
+  },
+  {
+   "r": 17.02,
+   "where": "kontak.html@1440",
+   "sel": "A.",
+   "t": "binahaus.com",
+   "bg": "ftr"
+  },
+  {
+   "r": 13.44,
+   "where": "kontak.html@1440",
+   "sel": "P.ftr__label",
+   "t": "Contact",
+   "bg": "ftr"
+  },
+  {
+   "r": 17.02,
+   "where": "kontak.html@1440",
+   "sel": "A.",
+   "t": "WhatsApp +60 11-1124 463",
+   "bg": "ftr"
+  },
+  {
+   "r": 17.02,
+   "where": "kontak.html@1440",
+   "sel": "A.",
+   "t": "Contact",
+   "bg": "ftr"
+  },
+  {
+   "r": 13.44,
+   "where": "kontak.html@1440",
+   "sel": "P.ftr__label",
+   "t": "Navigation",
+   "bg": "ftr"
+  },
+  {
+   "r": 17.02,
+   "where": "kontak.html@1440",
+   "sel": "A.",
+   "t": "Services",
+   "bg": "ftr"
+  },
+  {
+   "r": 17.02,
+   "where": "kontak.html@1440",
+   "sel": "A.",
+   "t": "Our Work",
+   "bg": "ftr"
+  },
+  {
+   "r": 17.02,
+   "where": "kontak.html@1440",
+   "sel": "A.",
+   "t": "Cara Kami Kerja",
+   "bg": "ftr"
+  },
+  {
+   "r": 17.02,
+   "where": "kontak.html@1440",
+   "sel": "A.",
+   "t": "About Us",
+   "bg": "ftr"
+  },
+  {
+   "r": 17.02,
+   "where": "kontak.html@1440",
+   "sel": "A.",
+   "t": "Profil Syarikat",
+   "bg": "ftr"
+  },
+  {
+   "r": 17.02,
+   "where": "kontak.html@1440",
+   "sel": "A.",
+   "t": "Contact",
+   "bg": "ftr"
+  },
+  {
+   "r": 13.44,
+   "where": "kontak.html@1440",
+   "sel": "SPAN.",
+   "t": "© 2026 Bina Haus. All ri",
+   "bg": "ftr"
+  },
+  {
+   "r": 13.44,
+   "where": "kontak.html@1440",
+   "sel": "SPAN.",
+   "t": "Look preview: arah 05 “S",
+   "bg": "ftr"
+  }
+ ],
+ "spectral600Lazy": 20
+}

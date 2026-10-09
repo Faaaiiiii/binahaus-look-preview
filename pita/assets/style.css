@@ -1,0 +1,392 @@
+/* ==========================================================================
+   BINA HAUS — arah 06 "PITA" (the reel / the tape)
+   The owner's own colours, logo, typefaces, footage and words — nothing drawn.
+   Ground is his NAVY (not navy-deep, which arah 03 owns); type is his beige-soft;
+   the single accent is his gold.
+
+   Type pair (self-hosted, no CDN):
+     · Barlow Semi Condensed 500/600/700 — a compact, slightly technical grotesque
+       (highway-signage / DIN lineage) for the reel numerals, tape labels,
+       headings, nav and buttons.  Fetched from Google Fonts (fonts.google.com/
+       specimen/Barlow+Semi+Condensed, SIL OFL 1.1) and shipped as woff2.
+     · Newsreader 400/400italic — a quiet, low-contrast text serif designed for
+       reading (Production Type; SIL OFL 1.1), fetched from Google Fonts
+       (fonts.google.com/specimen/Newsreader) and shipped as woff2.
+   Neither is Inter, Space Grotesk, Archivo, Manrope, Playfair, Instrument Serif
+   or Fraunces.
+   ========================================================================== */
+
+/* ---------------------------------------------------------------- FONTS -- */
+@font-face{ font-family:'Barlow Semi Condensed'; font-style:normal; font-weight:500; font-display:swap;
+  src:url(fonts/bsc-500-latin.woff2) format('woff2');
+  unicode-range:U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD; }
+@font-face{ font-family:'Barlow Semi Condensed'; font-style:normal; font-weight:500; font-display:swap;
+  src:url(fonts/bsc-500-latin-ext.woff2) format('woff2');
+  unicode-range:U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C4, U+2113, U+2C60-2C7F, U+A720-A7FF; }
+@font-face{ font-family:'Barlow Semi Condensed'; font-style:normal; font-weight:600; font-display:swap;
+  src:url(fonts/bsc-600-latin.woff2) format('woff2');
+  unicode-range:U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD; }
+@font-face{ font-family:'Barlow Semi Condensed'; font-style:normal; font-weight:600; font-display:swap;
+  src:url(fonts/bsc-600-latin-ext.woff2) format('woff2');
+  unicode-range:U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C4, U+2113, U+2C60-2C7F, U+A720-A7FF; }
+@font-face{ font-family:'Barlow Semi Condensed'; font-style:normal; font-weight:700; font-display:swap;
+  src:url(fonts/bsc-700-latin.woff2) format('woff2');
+  unicode-range:U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD; }
+@font-face{ font-family:'Barlow Semi Condensed'; font-style:normal; font-weight:700; font-display:swap;
+  src:url(fonts/bsc-700-latin-ext.woff2) format('woff2');
+  unicode-range:U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C4, U+2113, U+2C60-2C7F, U+A720-A7FF; }
+@font-face{ font-family:'Newsreader'; font-style:normal; font-weight:400; font-display:swap;
+  src:url(fonts/news-400-latin.woff2) format('woff2');
+  unicode-range:U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD; }
+@font-face{ font-family:'Newsreader'; font-style:normal; font-weight:400; font-display:swap;
+  src:url(fonts/news-400-latin-ext.woff2) format('woff2');
+  unicode-range:U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C4, U+2113, U+2C60-2C7F, U+A720-A7FF; }
+@font-face{ font-family:'Newsreader'; font-style:italic; font-weight:400; font-display:swap;
+  src:url(fonts/news-400i-latin.woff2) format('woff2');
+  unicode-range:U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD; }
+@font-face{ font-family:'Newsreader'; font-style:italic; font-weight:400; font-display:swap;
+  src:url(fonts/news-400i-latin-ext.woff2) format('woff2');
+  unicode-range:U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C4, U+2113, U+2C60-2C7F, U+A720-A7FF; }
+
+/* --------------------------------------------------------------- TOKENS -- */
+:root{
+  /* the owner's own five, verbatim from his stylesheet */
+  --navy:      oklch(28.83% .0503 265.9);   /* THE GROUND */
+  --navy-deep: oklch(20.21% .034 265.48);   /* arah 03's ground — kept only as a mix source */
+  --beige:     oklch(89.88% .0298 80.65);
+  --beige-soft:oklch(97.96% .0057 84.57);
+  --gold:      oklch(74.04% .0992 86.94);
+
+  /* the owner's navy, shaded a touch for insets — same hue, no new colour */
+  --inset: color-mix(in oklab, var(--navy) 84%, black);
+  --ink:   var(--beige-soft);
+  --ink-2: color-mix(in oklab, var(--beige) 84%, var(--navy));
+  --line:  color-mix(in oklab, var(--beige) 16%, transparent);
+  --line-2:color-mix(in oklab, var(--beige) 32%, transparent);
+  --scrim: color-mix(in oklab, var(--navy) 82%, transparent);
+  --scrim-b: color-mix(in oklab, #05070c 86%, transparent);
+
+  --f-label: 'Barlow Semi Condensed', 'Helvetica Neue', Arial, sans-serif;
+  --f-text:  'Newsreader', Georgia, 'Times New Roman', serif;
+
+  --wrap: 1200px;
+  --pad: clamp(1.15rem, 4.5vw, 4.6rem);   /* >=18px on the smallest phone */
+  --gut: clamp(1.3rem, 3vw, 2.6rem);
+
+  --s0: .72rem;
+  --s-h: clamp(1.5rem,1.1rem + 1.6vw,2.4rem);
+  --s1: .82rem;
+  --s2: 1rem;
+  --s3: clamp(1.08rem, .99rem + .45vw, 1.24rem);   /* body */
+  --s4: clamp(1.35rem, 1.1rem + 1.05vw, 1.95rem);
+  --s5: clamp(1.85rem, 1.35rem + 2.2vw, 3rem);
+  --s6: clamp(2.35rem, 1.5rem + 4vw, 5rem);
+  --line-h: 1.64;
+  --ease: cubic-bezier(.22,.61,.36,1);
+}
+
+/* ----------------------------------------------------------- BASE / UX --- */
+*,*::before,*::after{ box-sizing:border-box; }
+html{ -webkit-text-size-adjust:100%; scroll-behavior:smooth; }
+@media (prefers-reduced-motion:reduce){ html{ scroll-behavior:auto; } }
+body{
+  margin:0; background:var(--navy); color:var(--ink-2);
+  font-family:var(--f-text); font-size:var(--s3); line-height:var(--line-h);
+  -webkit-font-smoothing:antialiased; text-rendering:optimizeLegibility;
+}
+h1,h2,h3,h4{ font-family:var(--f-label); font-weight:600; color:var(--ink);
+  margin:0; line-height:1.04; letter-spacing:.005em; }
+p{ margin:0; }
+img,video,svg{ display:block; max-width:100%; }
+a{ color:inherit; }
+ul{ margin:0; padding:0; list-style:none; }
+em{ font-style:italic; }
+
+/* browser surfaces belong to the palette */
+::selection{ background:var(--gold); color:var(--navy); }
+:root{ caret-color:var(--gold); accent-color:var(--gold); }
+*{ scrollbar-color: color-mix(in oklab, var(--beige) 34%, transparent) transparent; scrollbar-width: thin; }
+::-webkit-scrollbar{ width:11px; height:11px; }
+::-webkit-scrollbar-track{ background:var(--navy); }
+::-webkit-scrollbar-thumb{ background:color-mix(in oklab, var(--beige) 26%, transparent); border:3px solid var(--navy); border-radius:6px; }
+:focus-visible{ outline:2px solid var(--gold); outline-offset:3px; }
+
+.wrap{ width:min(var(--wrap), 100% - (2 * var(--pad))); margin-inline:auto; }
+.prose{ max-width:66ch; }
+
+/* the reel chrome: a running numeral in a compact grotesque, thin rules */
+.reel-n,.tape,.kind,.chip,dt,.ftr__label,.nav a,.btn,.menu a{
+  font-family:var(--f-label); }
+.reel-n{ font-variant-numeric:tabular-nums; }
+
+/* skip link */
+.skip{ position:absolute; left:-9999px; top:0; z-index:200; background:var(--gold); color:var(--navy);
+  padding:.85rem 1.1rem; font-family:var(--f-label); font-weight:600; }
+.skip:focus{ left:var(--pad); top:.6rem; }
+
+/* --------------------------------------------------------------- HEADER -- */
+.hdr{ position:sticky; top:0; z-index:60; background:var(--navy); border-bottom:1px solid var(--line); }
+.hdr__in{ display:flex; align-items:center; justify-content:space-between; gap:1.4rem; padding-block:.66rem; }
+.mark{ position:relative; display:flex; align-items:center; text-decoration:none; }
+.mark img{ width:auto; height:44px; }
+a.mark::after{ content:""; position:absolute; inset:-6px -8px; }
+.mark{ font-family:var(--f-label); font-size:var(--s1); font-weight:500; letter-spacing:.02em; color:var(--ink-2); }
+.navwrap{ display:flex; align-items:center; }
+.nav{ display:flex; align-items:center; gap:clamp(.7rem,1.3vw,1.4rem); }
+.nav a{ position:relative; text-decoration:none; color:var(--ink-2); font-size:var(--s1); font-weight:500;
+  letter-spacing:.02em; padding-block:.78rem; border-bottom:1px solid transparent; }
+.nav a::after{ content:""; position:absolute; inset:-12px -7px; }
+.nav a:hover{ color:var(--ink); border-bottom-color:var(--line-2); }
+.nav a[aria-current="page"]{ color:var(--ink); border-bottom-color:var(--gold); }
+.burger{ display:none; }
+
+.btn{
+  display:inline-flex; align-items:center; gap:.5rem; position:relative;
+  font-family:var(--f-label); font-weight:600; font-size:var(--s1); letter-spacing:.03em;
+  text-transform:uppercase;
+  padding:.8rem 1.2rem; min-height:44px; text-decoration:none;
+  border:1px solid var(--beige); background:var(--beige); color:var(--navy);
+  transition:background 160ms var(--ease), color 160ms var(--ease), border-color 160ms var(--ease);
+}
+.btn:hover{ background:transparent; color:var(--beige-soft); }
+.btn--quiet{ background:transparent; color:var(--ink); border-color:var(--line-2); }
+.btn--quiet:hover{ border-color:var(--beige); background:color-mix(in oklab, var(--beige) 10%, transparent); color:var(--beige-soft); }
+
+/* --------------------------------------------------------- THE REEL (hero) */
+.reel-hero{ position:relative; min-height:100svh; display:grid; align-content:end;
+  isolation:isolate; overflow:hidden; background:var(--inset); }
+.reel-hero__stage{ position:absolute; inset:0; z-index:-2; }
+.reel-hero__stage video{ position:absolute; inset:0; width:100%; height:100%; object-fit:cover; }
+/* THE ONE AUTHORED MOMENT: two of the owner's own work videos crossfade slowly, once around, forever */
+.reel-hero__stage video:nth-child(1){ animation:reelA 24s linear infinite; }
+.reel-hero__stage video:nth-child(2){ animation:reelB 24s linear infinite; }
+@keyframes reelA{ 0%,42%{opacity:1} 50%,92%{opacity:0} 100%{opacity:1} }
+@keyframes reelB{ 0%,42%{opacity:0} 50%,92%{opacity:1} 100%{opacity:0} }
+.reel-hero__grade{ position:absolute; inset:0; z-index:-1;
+  background:
+    linear-gradient(90deg,
+      color-mix(in oklab, var(--navy) 76%, transparent) 0%,
+      color-mix(in oklab, var(--navy) 36%, transparent) 44%,
+      transparent 74%),
+    linear-gradient(180deg,
+      color-mix(in oklab, var(--scrim-b) 76%, transparent) 0%,
+      color-mix(in oklab, var(--navy) 32%, transparent) 26%,
+      color-mix(in oklab, var(--navy) 64%, transparent) 62%,
+      color-mix(in oklab, var(--navy) 96%, transparent) 100%); }
+.reel-hero__in{ position:relative; z-index:2; padding-block:clamp(2.4rem,9vh,6rem) 0; }
+.reel-hero h1{ font-size:var(--s6); max-width:13ch; }
+.reel-hero__lede{ margin-top:1rem; max-width:54ch; color:var(--ink); }
+.reel-hero__lede + .reel-hero__lede{ margin-top:.5rem; }
+.reel-hero__cta{ display:flex; flex-wrap:wrap; gap:.7rem; margin-top:1.6rem; }
+
+/* the tape: thin rule + running numerals under the reel — the film slate */
+.tape{ margin-top:clamp(1.6rem,5vh,3rem); border-top:1px solid var(--line-2);
+  display:flex; align-items:center; flex-wrap:wrap; gap:.5rem 1.3rem;
+  padding-top:1rem; padding-bottom:.35rem;
+  font-size:var(--s1); font-weight:600; letter-spacing:.14em; text-transform:uppercase; color:var(--ink-2); }
+.tape .reel-n{ color:var(--gold); font-size:var(--s2); letter-spacing:.08em; }
+.tape__rule{ flex:1 1 4rem; min-width:2rem; height:1px; background:var(--line-2); }
+.tape__dot{ width:8px; height:8px; border-radius:50%; background:var(--gold); flex:0 0 auto; }
+
+/* ---------------------------------------------------------------- BAND ---- */
+/* inner-page head: one heading, one lead, one media plate */
+.band{ border-bottom:1px solid var(--line); }
+.band__media{ position:relative; margin:0; background:var(--inset); }
+.band__media img,.band__media video{ width:100%; height:clamp(280px,46vh,520px); object-fit:cover; }
+.band__plate{ display:flex; align-items:baseline; gap:.9rem; flex-wrap:wrap;
+  position:absolute; left:0; bottom:0; right:0; margin:0;
+  padding:1.5rem var(--pad) 1.1rem;
+  background:linear-gradient(0deg, var(--scrim-b) 6%, transparent 100%); }
+.band__plate h1{ font-size:var(--s5); }
+.band__in{ padding-block:clamp(1.8rem,4.5vw,3.2rem); }
+.band__lead{ max-width:56ch; color:var(--ink-2); }
+.band__lead + .band__lead{ margin-top:.6rem; }
+
+/* --------------------------------------------------------------- CHAPTER -- */
+.chap{ border-top:1px solid var(--line); padding-top:clamp(2.2rem,5.5vw,4.4rem); padding-bottom:clamp(2.2rem,5.5vw,4.4rem); }
+.chap__hd{ display:grid; grid-template-columns:clamp(2.4rem,5vw,4.4rem) minmax(0,1fr);
+  gap:.4rem clamp(1rem,2.4vw,2rem); align-items:baseline; }
+/* the grid break: the reel numeral hangs in the gutter, outside the text measure */
+.chap__n{ font-family:var(--f-label); font-weight:600; color:var(--gold); font-variant-numeric:tabular-nums;
+  font-size:var(--s-h); line-height:1; letter-spacing:.02em; }
+.chap__hd h2{ font-size:var(--s5); max-width:26ch; }
+.chap__sub{ margin-top:.7rem; max-width:56ch; color:var(--ink-2); grid-column:2; }
+.chap__body{ margin-top:clamp(1.4rem,3vw,2.2rem); }
+.chap__body .prose + .prose{ margin-top:.7rem; }
+.chap__note{ margin-top:1rem; font-size:var(--s1); color:var(--ink-2); grid-column:2; }
+
+/* full-bleed media inside a chapter: runs past the text column.
+   the frame is always .wk__fr (one frame class, ratios set by context below) */
+.film{ margin:0; }
+.film--bleed{ width:100%; }
+.film__cap{ display:flex; align-items:baseline; gap:.7rem; flex-wrap:wrap; margin-top:.7rem;
+  font-size:var(--s1); color:var(--ink-2); }
+.chip{ font-family:var(--f-label); font-weight:600; letter-spacing:.12em; text-transform:uppercase;
+  font-size:var(--s0); color:var(--ink); border:1px solid var(--line-2); padding:.2rem .5rem; }
+.chip--rec{ border-color:var(--gold); color:var(--gold); }
+.rec-dot{ display:inline-block; width:7px; height:7px; border-radius:50%; background:var(--gold); margin-right:.4rem; vertical-align:middle; }
+
+/* chapter column: media + prose */
+.chap__grid{ display:grid; grid-template-columns:minmax(0,7fr) minmax(0,5fr); gap:var(--gut); align-items:start; }
+.pair{ display:grid; grid-template-columns:1fr 1fr; gap:.6rem; }
+.pair--wide{ grid-template-columns:1fr 1fr; }
+
+/* -------------------------------------------------------------- SCHEDULE -- */
+.works{ margin-top:1.4rem; border-top:1px solid var(--line); }
+.works li{ display:grid; grid-template-columns:2.7rem minmax(0,1fr); gap:.9rem;
+  padding-block:1rem; border-bottom:1px solid var(--line); }
+.works b{ font-family:var(--f-label); font-weight:600; color:var(--ink); }
+.works .n{ font-family:var(--f-label); font-weight:600; color:var(--ink-2); padding-top:.3rem; font-variant-numeric:tabular-nums; }
+.works p{ color:var(--ink-2); margin-top:.2rem; }
+
+.steps{ border-top:1px solid var(--line); }
+.steps li{ display:grid; grid-template-columns:3rem minmax(0,1fr); gap:1.2rem;
+  padding-block:clamp(1.1rem,2.4vw,1.7rem); border-bottom:1px solid var(--line); }
+.steps .n{ font-family:var(--f-label); font-weight:600; color:var(--gold); padding-top:.3rem; font-variant-numeric:tabular-nums; }
+.steps h2{ font-size:var(--s4); }
+.steps p{ margin-top:.4rem; max-width:60ch; color:var(--ink-2); }
+
+/* -------------------------------------------------------------- GALLERY --- */
+.wk{ display:grid; grid-template-columns:repeat(6,minmax(0,1fr)); gap:.7rem; }
+.wk li{ grid-column:span 2; }
+.wk li:nth-child(7n+1),.wk li:nth-child(7n+2){ grid-column:span 3; }
+.wk figure{ margin:0; display:flex; flex-direction:column; gap:.55rem; }
+.wk__fr{ position:relative; overflow:hidden; background:var(--inset); aspect-ratio:4/5; }
+.wk__fr > img,.wk__fr > video{ position:absolute; inset:0; width:100%; height:100%; object-fit:cover; }
+/* one frame class, the ratio comes from the context it sits in */
+.film .wk__fr{ aspect-ratio:16/10; }
+.film--43 .wk__fr{ aspect-ratio:4/3; }
+.pair .wk__fr{ aspect-ratio:4/5; }
+.pair--wide .wk__fr{ aspect-ratio:3/4; }
+.wk__play{ position:absolute; inset:0; padding:0; border:0; background:transparent; cursor:pointer; }
+.wk__play img{ position:absolute; inset:0; width:100%; height:100%; object-fit:cover; }
+.wk__btn{ position:absolute; left:50%; top:50%; translate:-50% -50%; width:56px; height:56px; border-radius:50%;
+  display:grid; place-items:center; background:color-mix(in oklab, var(--inset) 72%, transparent); border:1px solid var(--beige); }
+.wk__btn svg{ width:16px; height:16px; color:var(--beige-soft); }
+.wk--video:not(.playing) video{ display:none; }
+.wk--video.playing .wk__fr{ aspect-ratio:auto; }
+.wk--video.playing .wk__fr > video{ position:static; height:auto; }
+/* without JS the poster button cannot start anything: show the native player instead */
+html:not(.js) .wk__play{ display:none; }
+html:not(.js) .wk--video .wk__fr{ aspect-ratio:auto; }
+html:not(.js) .wk--video video{ display:block; position:static; height:auto; }
+.wk figcaption{ display:flex; align-items:baseline; gap:.5rem; flex-wrap:wrap; font-size:var(--s1); color:var(--ink-2); }
+
+/* --------------------------------------------------------------- PLAQUE --- */
+.plaque{ background:var(--inset); border:1px solid var(--line); }
+.plaque__hd{ border-bottom:1px solid var(--line); padding:clamp(1.4rem,3vw,2.2rem); }
+.plaque__hd h2{ font-size:var(--s5); }
+.plaque dl{ margin:0; display:grid; grid-template-columns:repeat(2,minmax(0,1fr)); }
+.plaque .row{ padding:clamp(1rem,2.2vw,1.5rem) clamp(1.4rem,3vw,2.2rem); border-bottom:1px solid var(--line); }
+.plaque .row:nth-child(odd){ border-right:1px solid var(--line); }
+.plaque dt{ font-family:var(--f-label); font-size:var(--s1); font-weight:600; letter-spacing:.16em; text-transform:uppercase; color:var(--ink-2); }
+.plaque dd{ margin:.5rem 0 0; color:var(--ink); }
+.plaque dd small{ display:block; margin-top:.35rem; color:var(--ink-2); font-size:var(--s1); }
+.plaque__ft{ padding:clamp(1.2rem,2.4vw,1.8rem); color:var(--ink-2); font-size:var(--s1); max-width:74ch; }
+
+/* ------------------------------------------------------------------ CTA --- */
+.cta{ border-top:1px solid var(--line); background:var(--inset); }
+.cta__in{ display:grid; grid-template-columns:minmax(0,7fr) minmax(0,5fr); gap:var(--gut);
+  align-items:end; padding-top:clamp(2.8rem,7vw,5.2rem); padding-bottom:clamp(2.8rem,7vw,5.2rem); }
+.cta h2{ font-size:var(--s5); max-width:22ch; }
+.cta p{ margin-top:.9rem; max-width:50ch; }
+.cta__btns{ display:flex; flex-wrap:wrap; gap:.7rem; align-items:flex-start; }
+
+/* --------------------------------------------------------------- FOOTER --- */
+.ftr{ background:var(--navy); border-top:1px solid var(--line); }
+.ftr__in{ display:grid; grid-template-columns:minmax(0,1.4fr) minmax(0,1fr) minmax(0,1fr);
+  gap:var(--gut); padding-block:clamp(2.4rem,5vw,4rem); }
+.ftr ul{ display:flex; flex-direction:column; gap:.55rem; margin-top:.9rem; }
+.ftr ul a{ color:var(--ink-2); text-decoration:none; display:block; padding-block:.6rem; position:relative; }
+.ftr__site a{ color:var(--ink-2); }
+.ftr ul a:hover{ color:var(--ink); }
+.ftr__label{ font-family:var(--f-label); font-size:var(--s1); font-weight:600; letter-spacing:.16em; text-transform:uppercase; color:var(--ink); }
+.ftr__mark{ width:132px; height:auto; }
+.ftr__tag{ margin-top:.8rem; max-width:26ch; }
+.ftr__site a{ color:var(--ink); }
+.ftr__bar{ border-top:1px solid var(--line); padding-block:1.2rem; display:flex;
+  justify-content:space-between; gap:1rem; flex-wrap:wrap; font-size:var(--s1); color:var(--ink-2); }
+
+/* -------------------------------------------------------------- MENU ------ */
+.menu{ position:absolute; left:0; right:0; top:100%; z-index:70; background:var(--navy);
+  border-top:1px solid var(--line); border-bottom:1px solid var(--line); min-height:calc(100svh - 4.4rem); }
+.menu[hidden]{ display:none; }
+.menu nav{ display:flex; flex-direction:column; padding:.4rem var(--pad) 0; }
+.menu a{ font-family:var(--f-label); font-weight:600; font-size:var(--s2); letter-spacing:.03em;
+  text-transform:uppercase; text-decoration:none; padding-block:1rem; border-bottom:1px solid var(--line);
+  min-height:48px; display:flex; align-items:center; gap:.7rem; }
+.menu a[aria-current="page"]{ color:var(--gold); }
+.menu__wa{ color:var(--ink-2) !important; font-weight:500 !important; text-transform:none !important; letter-spacing:0 !important; }
+.menu__tag{ padding:1rem var(--pad) 1.4rem; color:var(--ink-2); font-size:var(--s1); }
+.menu__tag::before{ content:"· "; color:var(--gold); }
+
+/* --------------------------------------------------------- HOME (the reel) */
+/* three ways into the house — media-led, the name under the picture */
+.trio{ display:grid; grid-template-columns:repeat(3,minmax(0,1fr)); gap:.7rem; }
+.trio li{ list-style:none; }
+.trio a{ text-decoration:none; display:block; }
+.trio figure{ margin:0; display:flex; flex-direction:column; gap:.55rem; }
+.trio .wk__fr img{ transition:transform 400ms var(--ease); }
+.trio a:hover .wk__fr img{ transform:scale(1.03); }
+.strip__more{ margin-top:1.4rem; }
+
+/* ------------------------------------------------------------ RESPONSIVE -- */
+@media (max-width:1000px){
+  .cta__in{ grid-template-columns:minmax(0,1fr); }
+  .cta__btns{ margin-top:.4rem; }
+  .plaque dl{ grid-template-columns:minmax(0,1fr); }
+  .plaque .row:nth-child(odd){ border-right:0; }
+  .chap__grid{ grid-template-columns:minmax(0,1fr); }
+}
+@media (max-width:820px){
+  .nav{ flex-wrap:wrap; gap:.4rem 1rem; }
+  .nav a{ padding-block:.5rem; }
+  html.js .nav{ display:none; }
+  .burger{ display:none; }
+  html.js .burger{ display:inline-flex; align-items:center; gap:.5rem; min-height:44px; background:transparent;
+    border:1px solid var(--line-2); color:var(--ink); font-family:var(--f-label); font-weight:600;
+    font-size:var(--s1); letter-spacing:.06em; text-transform:uppercase; padding:.5rem .9rem; cursor:pointer; }
+  .hdr__in{ position:relative; }
+  .wk{ grid-template-columns:repeat(2,minmax(0,1fr)); }
+  .wk li,.wk li:nth-child(7n+1),.wk li:nth-child(7n+2){ grid-column:span 1; }
+  .ftr__in{ grid-template-columns:1fr 1fr; }
+  .reel-hero{ min-height:92svh; }
+  .pair,.pair--wide{ grid-template-columns:1fr; }
+  .trio{ grid-template-columns:1fr 1fr; }
+  .trio li:first-child{ grid-column:1 / -1; }
+}
+/* the phone pass: names under photographs, no density, real thumb targets */
+@media (max-width:700px){
+  .band__plate{ position:static; background:none; padding:1rem 0 0; }
+  .band__media img,.band__media video{ height:clamp(220px,40vh,360px); }
+  .band__plate h1{ font-size:var(--s4); }
+  .chap__grid{ grid-template-columns:minmax(0,1fr); }
+  .chap__hd{ grid-template-columns:clamp(1.7rem,7vw,2.2rem) minmax(0,1fr); gap:.35rem .9rem; }
+  .film .wk__fr{ aspect-ratio:4/3; }
+  .cta__btns .btn{ flex:1 1 auto; justify-content:center; }
+  .ftr ul{ gap:.15rem; }
+  .ftr ul a{ display:block; padding-block:.8rem; }
+  .ftr__site a,.chap__body a,.plaque a{ display:inline-block; padding-block:.55rem; }
+}
+@media (max-width:560px){
+  :root{ --pad:1.15rem; }
+  body{ font-size:var(--s3); line-height:1.66; }
+  .wk{ grid-template-columns:repeat(2,minmax(0,1fr)); gap:.5rem; }
+  .wk__fr{ aspect-ratio:3/4; }
+  .wk figcaption{ font-size:var(--s1); }
+  .chip{ font-size:var(--s0); padding:.15rem .4rem; }
+  .ftr__in{ grid-template-columns:minmax(0,1fr); }
+  .works li,.steps li{ grid-template-columns:2.3rem minmax(0,1fr); gap:.7rem; }
+  .plaque .row{ padding:1rem 1.15rem; }
+  .reel-hero{ min-height:88svh; }
+  .pair .wk__fr,.film .wk__fr{ aspect-ratio:4/5; }
+  .trio{ grid-template-columns:minmax(0,1fr); }
+  .trio li:first-child{ grid-column:auto; }
+}
+
+/* ------------------------------------------------------ REDUCED MOTION ---- */
+@media (prefers-reduced-motion:reduce){
+  /* the authored moment becomes a single held frame — not a broken one */
+  .reel-hero__stage video{ animation:none !important; }
+  .reel-hero__stage video:nth-child(2){ display:none; }
+}

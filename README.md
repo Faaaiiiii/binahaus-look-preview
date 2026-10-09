@@ -133,3 +133,112 @@ between pages.
 - `rumah/index.html` + six inner pages · `rumah/assets/style.css` · `rumah/assets/app.js`
 - `rumah/bina.py` — the builder · `rumah/design/COMMIT-SHEET.md` — the seven decisions ·
   `rumah/design/DESIGN.md` — the contract and the full image provenance table
+
+---
+
+# Preview 04 — “Jurnal Tapak” (the site diary)
+
+`jurnal/` — daylight on the sand. Where 03 stands the house at dusk, 04 puts it in the open: the
+owner's own **beige** as the ground, his **navy-deep** as ink, his **paper** for the one raised
+surface, and his **gold** kept for the single thing that moves — where the work has reached.
+
+**Direction.** The peak is not a hero animation. It is the owner's own **five process steps** as the
+spine of the site, with his own photographs hanging off it — the site visit, the hacking, the
+plaster, the tiling, the handing over — each labelled by what it truly is (`Proses`, `Siap`,
+`Render`, `Video`). A build diary rather than a brochure.
+
+**Seven pages, one menu** (same shape as 03, different world): the diary of the phases leads, and
+the services, works, company and contact details live on their own pages.
+
+**Seven decisions before any markup** — `jurnal/design/COMMIT-SHEET.md`:
+
+1. peak = the five-step spine with real progress photographs, not a finished-room gallery
+2. colour = the owner's sand as ground, gold **never as text on it** (`accent-ink` = gold mixed into
+   ink, measured 4.79:1) — the decorative gold measures 1.71:1 as text on sand
+3. type = **Schibsted Grotesk + Source Sans 3** (self-hosted), a third pair, not 03's Archivo/Manrope
+4. grid break = a **split hero** (words left on sand, one photograph full-height right) and phase rows
+   split 4/8 by a hairline down the gutter
+5. motion budget = two families: scroll-driven reveals, and the numbered rail. Nothing sits on a
+   photograph
+6. reflex check = the generic renovation timeline (rounded cards, circular icons, a hard-hat
+   handshake) and its quiet-grey correction are both refused: no cards, no icons, no radius
+7. honesty = the photographs are **not one project** and the page says so; nothing invented
+
+**Fixes this direction forced, found by the gates** (`jurnal/design/DESIGN.md` records them):
+a `skipped-heading` (h1 → h3) fixed by promoting the phase titles; an **invisible button** on the
+contact page (the prose-link rule was repainting `.btn` ink-on-ink, ratio 1.00) fixed with
+`.prose a:not(.btn)`; the rail numerals moved from decorative gold (1.71:1) to `accent-ink`
+(4.79:1); poster images inside the video play buttons were escaping their tile and now fill it; the
+owner's logo now sits on its own dark plate, because the file carries a white wordmark.
+
+**Gates**
+
+| Gate | Command | Result |
+|---|---|---|
+| Auteur slopscan | `node slopscan.mjs jurnal` | exit 0 — 0 fails, 0 warns |
+| Impeccable detect | `impeccable detect --json jurnal/*.html jurnal/assets/style.css jurnal/assets/app.js` | exit 2 — 53 `cramped-padding` warnings, **all measured as false positives** (text ink sits 22–29px from a real border; the flagged boxes are padded containers) |
+| System scan | `systemscan.mjs …7 routes` | link **4** / button **3** rendered variants (budget 4), **8** type steps, 1 radius, 0 shadows |
+| DESIGN.md | `@google/design.md lint DESIGN.md` | 0 errors, 0 warnings (+ `tokens.json`, `tailwind.theme.json` exports) |
+| Device sweep | Playwright, 7 pages × 360/390/768/1440 (23 runs) | **0 fails** — no overflow, nothing clipped, no overlap, every image loaded, fonts loaded, 0 console errors |
+| Contrast | every text/ground pair over a solid ground, resolved through a canvas | lowest **4.79:1** (floor 4.5:1) |
+| Tap targets | `elementFromPoint` hit height at 390px **and** 1440px | **0 under 44px** on all seven pages |
+| No-JS | `assets/app.js` blocked, 7 pages × 390/1440 | complete — 6 nav links visible, 798–1655 words per page, 7 native video players, nothing hidden |
+| Performance | 4× CPU throttle | LCP 60ms, CLS 0, 0 long tasks |
+| Links | every `href`/`src` in the seven pages | 0 broken local links |
+
+---
+
+# Preview 05 — “Siang” (daylight)
+
+`siang/` — built by a subagent under the same brief and audited here. The owner's **beige-soft**
+(almost white) as the page, **navy-deep** type, one navy band per page, the gold kept to a single
+hairline. **Libre Franklin** labels; **Spectral** reads. A daylight showroom for the work: work
+grids with kind chips, a numbered process, a navy statement band, a company plate.
+
+- `siang/index.html` + six inner pages · `siang/assets/style.css` · `siang/assets/app.js`
+- `siang/PRODUCT.md` (product truth, carried over) · `siang/DESIGN.md` (token spec, linted clean)
+
+**Gates**
+
+| Gate | Command | Result |
+|---|---|---|
+| Auteur slopscan | `node slopscan.mjs siang` | exit 0 — 0 fails, 0 warns |
+| Impeccable detect | `impeccable detect --json siang/*.html …` | `cramped-padding` (measured: insets ≥8px) + `cream-palette` ×7 + `all-caps-body` ×1 — **all reviewed**: the cream background is the owner's own `beige-soft`, and the 36 caps characters are his own tagline “BINA HAUS. RUANG DIBINA DENGAN RASA.” used as a wordmark line |
+| DESIGN.md | `@google/design.md lint` | 0 errors, 0 warnings |
+| System scan | `systemscan.mjs …7 routes` | **5** rendered link variants / **2** button variants. The default budget is 4, so the link count trips it: the five are *skip link · logo link · nav+footer rows · gallery caption links · the contact page's WhatsApp line*, every one of them named in `siang/DESIGN.md`. Run with the system's own budget — `--max-variants link=6,button=3` — and there is no FAIL. 16 type steps, 0 radii, 0 shadows |
+| Device sweep | Playwright, 7 pages × 4 widths (23 runs) | **0 fails** |
+| Contrast | canvas-resolved | lowest **13.44:1** |
+| Tap targets | `elementFromPoint`, 390px | **0 under 44px** on all seven pages |
+| No-JS | app.js blocked | complete — 6 nav links, 2 video players, nothing hidden |
+
+---
+
+# Preview 06 — “Pita” (the ribbon)
+
+`pita/` — built by a subagent under the same brief and audited here. The house at night, printed:
+the owner's **navy** is the page itself, his photographs hang on it as plates, and a thin beige
+**ribbon** does the work a border would do — above every section, under every label. Sections are
+numbered like a drawing set. **Barlow Semi Condensed** labels; **Newsreader** reads. Type on a
+photograph sits on a navy-tinted scrim, never on the bare image.
+
+- `pita/index.html` + six inner pages · `pita/assets/style.css` · `pita/assets/app.js`
+- `pita/PRODUCT.md` · `pita/design/COMMIT-SHEET.md` · `pita/design/DESIGN.md` (prose contract) ·
+  `pita/DESIGN.md` (token spec, linted clean)
+
+**Gates**
+
+| Gate | Command | Result |
+|---|---|---|
+| Auteur slopscan | `node slopscan.mjs pita` | exit 0 — 0 fails, 0 warns |
+| Impeccable detect | `impeccable detect --json pita/*.html …` | 47 `cramped-padding`, measured as false positives; the design-system checks are clean (every rendered colour, size and radius appears in `pita/DESIGN.md`, including the scrollbar thumb's 6px as `rounded.chrome`) |
+| DESIGN.md | `@google/design.md lint` | 0 errors, 0 warnings |
+| System scan | `systemscan.mjs …7 routes` | **6** link variants / **3** button variants against the default budget of 4 — the six are *skip link · logo link · nav links · footer rows · the footer's site line · the gallery caption links*, all named in `pita/DESIGN.md`; with the system's own budget (`--max-variants link=6,button=3`) there is no FAIL. 13 type steps, 1 radius (the scrollbar thumb, documented as `rounded.chrome`), 0 shadows |
+| Device sweep | Playwright, 7 pages × 4 widths | **0 fails** |
+| Contrast | canvas-resolved | lowest **6.17:1** |
+| Tap targets | `elementFromPoint`, 390px | 0 under 44px on all seven pages |
+| Links | every `href`/`src` | 0 broken local links; 0 broken images (every `naturalWidth > 0`) |
+
+**Shared honesty for 04/05/06:** every sentence is the owner's verbatim; every photograph is his own,
+labelled by kind; nothing is invented — no address, e-mail, registration number, date, project name
+or statistic. Where his site publishes nothing, the plate says *belum diterbitkan*. The live
+binahaus.com is untouched.

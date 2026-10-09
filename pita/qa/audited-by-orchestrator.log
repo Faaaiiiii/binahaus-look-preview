@@ -1,0 +1,34 @@
+controls: link 5 · button 3
+tokens  : 8 colours · 8 type steps · 1 radii · 0 shadows
+FAIL link: 5 distinct rendered variants (budget 4). A variant nobody can name is drift.
+=== SIANG pages-qa ===
+pass  syarikat.html         768px  imgs=2 nav=0/6 lowestRatio=13.44
+pass  syarikat.html        1440px  imgs=2 nav=6/6 lowestRatio=13.44
+pass  kontak.html           390px  imgs=3 nav=0/6 lowestRatio=13.44
+pass  kontak.html           768px  imgs=3 nav=0/6 lowestRatio=13.44
+pass  kontak.html          1440px  imgs=3 nav=6/6 lowestRatio=13.44
+TOTAL FAILS: 0
+=== PITA pages-qa ===
+pass  syarikat.html         768px  imgs=2 nav=0/6 lowestRatio=6.17
+pass  syarikat.html        1440px  imgs=2 nav=6/6 lowestRatio=6.17
+pass  kontak.html           390px  imgs=2 nav=0/6 lowestRatio=6.17
+pass  kontak.html           768px  imgs=2 nav=0/6 lowestRatio=6.17
+pass  kontak.html          1440px  imgs=2 nav=6/6 lowestRatio=6.17
+TOTAL FAILS: 0
+=== taps siang ===
+ 390px index.html           targets=19  under 44px of hit height=0
+ 390px perkhidmatan.html    targets=11  under 44px of hit height=0
+ 390px kerja.html           targets=11  under 44px of hit height=0
+ 390px cara.html            targets=11  under 44px of hit height=0
+ 390px tentang.html         targets=11  under 44px of hit height=0
+ 390px syarikat.html        targets=11  under 44px of hit height=0
+ 390px kontak.html          targets=15  under 44px of hit height=0
+=== taps pita ===
+ 390px index.html           targets=24  under 44px of hit height=0
+ 390px perkhidmatan.html    targets=14  under 44px of hit height=0
+ 390px kerja.html           targets=19  under 44px of hit height=0
+ 390px cara.html            targets=12  under 44px of hit height=0
+ 390px tentang.html         targets=14  under 44px of hit height=0
+ 390px syarikat.html        targets=12  under 44px of hit height=0
+ 390px kontak.html          targets=16  under 44px of hit height=0
+ALLDONE

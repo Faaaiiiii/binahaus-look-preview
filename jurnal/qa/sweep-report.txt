@@ -1,0 +1,28 @@
+pass  index.html            360px  imgs=9 nav=0/6 lowestRatio=4.79
+pass  index.html            390px  imgs=9 nav=0/6 lowestRatio=4.79
+pass  index.html            768px  imgs=9 nav=0/6 lowestRatio=4.79
+pass  index.html           1440px  imgs=9 nav=6/6 lowestRatio=4.79
+pass  perkhidmatan.html     360px  imgs=6 nav=0/6 lowestRatio=7.31
+pass  perkhidmatan.html     390px  imgs=6 nav=0/6 lowestRatio=7.31
+pass  perkhidmatan.html     768px  imgs=6 nav=0/6 lowestRatio=7.31
+pass  perkhidmatan.html    1440px  imgs=6 nav=6/6 lowestRatio=7.31
+pass  kerja.html            390px  imgs=23 nav=0/6 lowestRatio=7.31
+pass  kerja.html            768px  imgs=23 nav=0/6 lowestRatio=7.31
+pass  kerja.html           1440px  imgs=23 nav=6/6 lowestRatio=7.31
+pass  cara.html             390px  imgs=14 nav=0/6 lowestRatio=4.79
+pass  cara.html             768px  imgs=14 nav=0/6 lowestRatio=4.79
+pass  cara.html            1440px  imgs=14 nav=6/6 lowestRatio=4.79
+pass  tentang.html          390px  imgs=5 nav=0/6 lowestRatio=7.31
+pass  tentang.html          768px  imgs=5 nav=0/6 lowestRatio=7.31
+pass  tentang.html         1440px  imgs=5 nav=6/6 lowestRatio=7.31
+pass  syarikat.html         390px  imgs=2 nav=0/6 lowestRatio=7.31
+pass  syarikat.html         768px  imgs=2 nav=0/6 lowestRatio=7.31
+pass  syarikat.html        1440px  imgs=2 nav=6/6 lowestRatio=7.31
+FAIL  kontak.html           390px  imgs=2 nav=0/6 lowestRatio=1
+      ✗ contrast {"sample":"Get free Quotations","ratio":1,"need":4.5,"size":"14px"}
+FAIL  kontak.html           768px  imgs=2 nav=0/6 lowestRatio=1
+      ✗ contrast {"sample":"Get free Quotations","ratio":1,"need":4.5,"size":"14px"}
+FAIL  kontak.html          1440px  imgs=2 nav=6/6 lowestRatio=1
+      ✗ contrast {"sample":"Get free Quotations","ratio":1,"need":4.5,"size":"14px"}
+TOTAL FAILS: 3
+exit=1
