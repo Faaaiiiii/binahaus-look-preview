@@ -11,10 +11,11 @@ web
 
 ## Users
 
-Ketua pengguna ( **diandaikan dari laman pemilik** — belum disahkan oleh Fairuz; dia batalkan
-soalan itu ): pemilik rumah kediaman di Malaysia yang mahu renovasi atau membina rumah, dan yang
-sedang menimbang antara beberapa kontraktor. Laman pemilik turut menyebut pejabat dan premis
-komersial; mana yang utama masih **keputusan terbuka**.
+Ketua pengguna ( **diandaikan dari laman pemilik**, belum disahkan ): pemilik rumah kediaman di
+Malaysia yang mahu renovasi atau membina rumah, dan yang sedang menimbang antara beberapa
+kontraktor. (Catatan mekanikal: borang tiga soalan dipulangkan dengan status `cancelled` tanpa
+jawapan, jadi tiada jawapan pemilik direkod di sini.) Laman pemilik turut menyebut pejabat dan
+premis komersial; mana yang utama masih **keputusan terbuka**.
 
 ## Product Purpose
 
