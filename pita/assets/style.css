@@ -382,12 +382,15 @@ html:not(.js) .wk--video video{ display:block; position:static; height:auto; }
   .cta__btns .btn{ flex:1 1 auto; justify-content:center; }
   /* footer rhythm — tight groups, generous separation (impeccable craft floor):
      rows sit 44px apart, a label hugs the list it heads, sections get the air instead */
-  .ftr ul{ gap:0; margin-top:.45rem; }
-  .ftr ul a{ display:flex; align-items:center; min-height:44px; padding-block:.3rem; }
-  .ftr__site a{ padding-block:.2rem; }
-  .ftr__tag{ margin-top:.55rem; }
-  .ftr__in{ gap:1.55rem; row-gap:1.55rem; }
-  .ftr__site a,.chap__body a,.plaque a{ display:inline-block; padding-block:.55rem; }
+  .ftr ul{ gap:0; margin-top:.1rem; }
+  .ftr ul a{ display:flex; align-items:center; min-height:40px; padding-block:0; position:relative; }
+  /* the row reads 40px tall but the finger gets 44px: the extra 4px is out of flow */
+  .ftr ul a::after{ content:""; position:absolute; inset:-2px 0; }
+  .ftr__site a{ min-height:40px; padding-block:0; }
+  .ftr__tag{ margin-top:.4rem; }
+  .ftr__in{ gap:1.05rem; row-gap:1.05rem; }
+  .ftr__bar{ padding-block:.85rem; }
+  .chap__body a,.plaque a{ display:inline-block; padding-block:.55rem; }
   /* 01 — the three services read as compact rows, not as three stacked posters */
   .trio{ grid-template-columns:minmax(0,1fr); gap:.6rem; }
   .trio li,.trio li:first-child{ grid-column:auto; }
