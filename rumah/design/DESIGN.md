@@ -1,5 +1,8 @@
 # DESIGN.md — Bina Haus, arah 03 "MASUK"
 
+> Token spec rasmi (normatif, lulus `@google/design.md lint`): `../DESIGN.md`.
+> Fail ini pula kontrak prosa: sebab setiap keputusan, jadual provenance 26 aset, dan keputusan gate.
+
 Everything in this page comes from the owner. Nothing was invented, and nothing that belongs to
 the brand was redrawn: the logo is his own PNG file, the colours are read out of his stylesheet,
 the typefaces are the pair his own site loads, the photographs and videos are his, and every

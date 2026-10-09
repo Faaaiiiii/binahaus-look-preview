@@ -1,0 +1,95 @@
+{
+  "theme": {
+    "extend": {
+      "colors": {
+        "primary": "#0f1626",
+        "secondary": "#1f2a44",
+        "tertiary": "#c6a75e",
+        "neutral": "#faf8f4",
+        "muted": "#e8dcc8",
+        "body-text": "#beb6a9"
+      },
+      "fontFamily": {
+        "display-1": [
+          "Archivo"
+        ],
+        "display-2": [
+          "Archivo"
+        ],
+        "heading-3": [
+          "Archivo"
+        ],
+        "body-md": [
+          "Manrope"
+        ],
+        "body-sm": [
+          "Manrope"
+        ],
+        "label-caps": [
+          "Archivo"
+        ],
+        "nav-link": [
+          "Manrope"
+        ]
+      },
+      "fontSize": {
+        "display-1": [
+          "4.6rem",
+          {
+            "letterSpacing": "-0.01em",
+            "fontWeight": "600"
+          }
+        ],
+        "display-2": [
+          "2.9rem",
+          {
+            "letterSpacing": "-0.01em",
+            "fontWeight": "600"
+          }
+        ],
+        "heading-3": [
+          "1.75rem",
+          {
+            "fontWeight": "600"
+          }
+        ],
+        "body-md": [
+          "1.19rem",
+          {
+            "fontWeight": "400"
+          }
+        ],
+        "body-sm": [
+          "0.875rem",
+          {
+            "fontWeight": "400"
+          }
+        ],
+        "label-caps": [
+          "0.8rem",
+          {
+            "letterSpacing": "0.16em",
+            "fontWeight": "600"
+          }
+        ],
+        "nav-link": [
+          "0.92rem",
+          {
+            "fontWeight": "500"
+          }
+        ]
+      },
+      "borderRadius": {
+        "none": "0px",
+        "pill": "999px"
+      },
+      "spacing": {
+        "section": "72px",
+        "gutter": "56px",
+        "block": "24px",
+        "row": "16px",
+        "inline": "8px"
+      }
+    }
+  }
+}
