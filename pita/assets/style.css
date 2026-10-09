@@ -368,8 +368,8 @@ html:not(.js) .wk--video video{ display:block; position:static; height:auto; }
   .ftr__in{ grid-template-columns:1fr 1fr; }
   .reel-hero{ min-height:92svh; }
   .pair,.pair--wide{ grid-template-columns:1fr; }
-  .trio{ grid-template-columns:1fr 1fr; }
-  .trio li:first-child{ grid-column:1 / -1; }
+  /* tablet: three equal doors, not one oversized and two small */
+  .trio{ grid-template-columns:repeat(3,minmax(0,1fr)); }
 }
 /* the phone pass: names under photographs, no density, real thumb targets */
 @media (max-width:700px){
@@ -383,6 +383,15 @@ html:not(.js) .wk--video video{ display:block; position:static; height:auto; }
   .ftr ul{ gap:.15rem; }
   .ftr ul a{ display:block; padding-block:.8rem; }
   .ftr__site a,.chap__body a,.plaque a{ display:inline-block; padding-block:.55rem; }
+  /* 01 — the three services read as compact rows, not as three stacked posters */
+  .trio{ grid-template-columns:minmax(0,1fr); gap:.6rem; }
+  .trio li,.trio li:first-child{ grid-column:auto; }
+  .trio figure{ display:grid; grid-template-columns:132px minmax(0,1fr); gap:.9rem; align-items:center; }
+  .trio .wk__fr{ aspect-ratio:4/3; }
+  .trio .film__cap{ flex-direction:column; align-items:flex-start; gap:.35rem; margin:0; }
+  /* 02 — one caption height, so the gallery rows line up instead of ragging */
+  .wk figcaption{ flex-direction:column; align-items:flex-start; gap:.3rem; min-height:3.4em; margin-top:.5rem; }
+  .wk .wk__fr{ aspect-ratio:4/5; }
 }
 @media (max-width:560px){
   :root{ --pad:1.15rem; }
@@ -396,8 +405,8 @@ html:not(.js) .wk--video video{ display:block; position:static; height:auto; }
   .plaque .row{ padding:1rem 1.15rem; }
   .reel-hero{ min-height:88svh; }
   .pair .wk__fr,.film .wk__fr{ aspect-ratio:4/5; }
-  .trio{ grid-template-columns:minmax(0,1fr); }
-  .trio li:first-child{ grid-column:auto; }
+  .trio{ grid-template-columns:minmax(0,1fr); gap:.6rem; }
+  .trio li,.trio li:first-child{ grid-column:auto; }
 }
 
 /* ------------------------------------------------------ REDUCED MOTION ---- */
