@@ -11,11 +11,10 @@ web
 
 ## Users
 
-Ketua pengguna ( **diandaikan dari laman pemilik**, belum disahkan ): pemilik rumah kediaman di
-Malaysia yang mahu renovasi atau membina rumah, dan yang sedang menimbang antara beberapa
-kontraktor. (Catatan mekanikal: borang tiga soalan dipulangkan dengan status `cancelled` tanpa
-jawapan, jadi tiada jawapan pemilik direkod di sini.) Laman pemilik turut menyebut pejabat dan
-premis komersial; mana yang utama masih **keputusan terbuka**.
+**Disahkan oleh Fairuz (9 Okt 2026)**, verbatim: *"Ni audience aku iaitu siapa yg nak buat rumah
+lah."* — orang yang mahu **membuat/membina rumah** (pemilik rumah). Laman pemilik juga menyebut
+pejabat dan premis komersial, tetapi itu bukan audiens utama; ia kekal dalam teks kerana teks
+pemilik tidak boleh diubah.
 
 ## Product Purpose
 
@@ -26,11 +25,15 @@ yang perlu diubah, dan tiada fakta syarikat yang perlu dibetulkan kemudian.
 
 ## Positioning
 
-Laman pemilik sendiri mendakwa: *One team. One project. One responsibility.* — satu pasukan dari
-konsultasi sampai serah. Dakwaan itu diterbitkan di binahaus.com dan dalam laman ini **verbatim**.
-Yang **belum disahkan**: apa sebenarnya yang paling membezakan Bina Haus daripada kontraktor lain
-(pasukan sendiri lawan sub-kontrak, reka-dan-bina dalam satu rumah, kelajuan, harga). Ini keputusan
-terbuka yang mengubah tulang setiap halaman.
+**Disahkan oleh Fairuz (9 Okt 2026)**, verbatim: *"Mudah untuk deal."*
+
+Itulah pembezaan sebenar — bukan slogan. Maksud kerjaan untuk halaman: kurangkan geseran pada
+setiap titik keputusan. Satu saluran (WhatsApp), satu pasukan sepanjang projek, proses lima langkah
+yang dinyatakan, tiada borang berlapis, tiada harga berteka-teki. Teks pemilik sendiri yang
+menyokong ini dan mesti dikekalkan verbatim: *One team. One project. One responsibility.* dan
+*From consultation and site visit to construction and handover, you know who you're dealing with at
+every stage.* Jangan gantikan dengan slogan baharu — pemilik tidak berkata begitu dan teksnya tidak
+boleh diubah.
 
 ## Operating Context
 
@@ -49,9 +52,11 @@ terbuka yang mengubah tulang setiap halaman.
   pemilik.
 - Ketujuh-tujuh halaman dijana oleh `bina.py` (satu shell) supaya header, menu dan footer tidak
   boleh lari antara halaman.
-- **Keputusan terbuka:** alamat premis, e-mel rasmi, nombor pendaftaran syarikat, tahun mula,
-  kawasan perkhidmatan, nama dan lokasi projek, testimoni. Laman pemilik tidak menerbitkan satu
-  pun, jadi tiada satu pun direka; baris berkaitan dicetak *belum diterbitkan*.
+- **Butiran syarikat = apa yang ada di laman.** Disahkan oleh Fairuz (9 Okt 2026), verbatim:
+  *"Yg kat dalam website tu lah bukti butiran."* Jadi tiada butiran tambahan akan datang daripada
+  pihaknya buat masa ini: apa yang binahaus.com terbitkan itulah set lengkapnya. Baris alamat,
+  e-mel dan nombor pendaftaran kekal *belum diterbitkan* — dan itu betul, bukan kekurangan yang
+  perlu diisi dengan andaian.
 
 ## Brand Commitments
 
