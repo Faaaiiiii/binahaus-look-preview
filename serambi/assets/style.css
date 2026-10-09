@@ -130,6 +130,11 @@ a{ text-underline-offset:.2em; text-decoration-thickness:1.5px; }
 .note{ margin-top:1.4rem; max-width:74ch; font-size:var(--s1); color:var(--ink-2); }
 .more{ margin-top:1.6rem; }
 
+/* the gold floor line must not be glued to the last thing above it: the rooms give it
+   ~42px, so the two sections that end in a button or a card give it the same air.
+   Without this the line reads as an underline stuck under the button. */
+.doors > .wrap, .wall-sect > .wrap{ padding-bottom:clamp(2.6rem,6vw,4.2rem); }
+
 /* skip link */
 .skip{ position:absolute; left:-9999px; top:0; z-index:200;
   background:var(--ink); color:var(--ground); border-radius:var(--r-btn);
