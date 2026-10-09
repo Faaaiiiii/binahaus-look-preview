@@ -10,6 +10,16 @@ Type: DM Sans (UI/text) + Petrona (room names and large headings), self-hosted w
 
     python3 bina.py
 """
+import hashlib, pathlib
+# Cop pelayar/CDN menahan CSS lama sampai 10 minit selepas setiap perubahan — pemilik
+# nampak halaman lama walaupun terbitan sudah siap. Setiap binaan mengecap nama fail
+# dengan cap jari kandungannya, jadi pelayar sentiasa tarik fail yang betul.
+def cap(fail):
+    try:
+        return hashlib.sha1(pathlib.Path(fail).read_bytes()).hexdigest()[:8]
+    except OSError:
+        return '0'
+
 import pathlib
 
 HERE = pathlib.Path(__file__).parent
@@ -108,7 +118,7 @@ def head(title, desc, active):
 <link rel="icon" type="image/png" href="assets/logo/bina-haus-logo-160.png">
 <link rel="preload" as="font" type="font/woff2" href="assets/fonts/dmsans-vf-latin.woff2" crossorigin>
 <link rel="preload" as="font" type="font/woff2" href="assets/fonts/petrona-vf-latin.woff2" crossorigin>
-<link rel="stylesheet" href="assets/style.css">
+<link rel="stylesheet" href="assets/style.css?v={cap('assets/style.css')}">
 </head>
 <body>
 <a class="skip" href="#main">Skip to content</a>
@@ -163,7 +173,7 @@ def foot():
   </div>
 </footer>
 
-<script src="assets/app.js" defer></script>
+<script src="assets/app.js?v={cap('assets/app.js')}" defer></script>
 </body>
 </html>
 """
